@@ -1,3 +1,6 @@
+---
+title: MAD GALAXY
+---
 # MAD GALAXY
 
 ![[mad_galaxy_banner.png]]
