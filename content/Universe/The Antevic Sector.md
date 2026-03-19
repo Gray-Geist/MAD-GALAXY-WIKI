@@ -7,9 +7,10 @@ tags:
 ---
 # The Antevic Sector
 
-> *"Known space" equates to about one thousandth of a percent of the galaxy.*
+> *"Known space" equates to about one thousandth of a percent of the galaxy."*
 
 ![[antevic_sector_art.png]]
+![[antevic_sector_art2.jpg]]
 
 ---
 
@@ -20,6 +21,16 @@ The **Antevic Sector** is a region of the **Perseus Arm** of the Milky Way galax
 As of current combined census records, approximately **two hundred billion people** inhabit the Antevic Sector across roughly **2,000 physically discovered star systems** — though advanced observation technology has logged approximately **1,000,000 systems** in known space.
 
 The Milky Way galaxy has a diameter of approximately **105,700 light-years**, containing roughly **100 billion stars** and **800 million habitable star systems**. What humanity calls "Known Space" represents about one-thousandth of one percent of this — and of that, only two-thousandths has been physically visited.
+
+---
+
+## A Note on the Starmap
+
+The current starmap is a snapshot of the extent of human exploration and settlement across interstellar space. It denotes just a small segment of the Perseus Arm spiral. Its name derives from the Antevic Nexus, a dense cluster of habitable worlds at the heart of humanity's earliest expansion. In a broader context, it serves as a shorthand for referring to the human civilization as a whole.
+
+As true ASTINT, it maps humanity's presence within the Sector, not humanity's aspirations or legal agreements over the ownership of empty space and dead rock. Thus, it does not, unlike political maps, project a nation's borders over independent, or "unpeopled" spaces. Political maps often obfuscate the presence of unpeopled, unimproved, undeveloped, or unadministered lands by still assigning them to claimant nation state(s), while this starmap does not.
+
+"Independent" systems found on the starmap are, more accurately, largely unpeopled or undeveloped systems as the Sector has more systems than can be reasonably settled or peopled with the current population. These systems are usually not officially controlled by any nation, and also have a comparatively small permanent population that lives there or, at least, only has a semi-permanent population depending on seasons. Some are more governed than others.
 
 ---
 
@@ -51,7 +62,7 @@ Regions between sub-clusters — containing nebulae, hazardous systems, unexplor
 
 ## The Three Superpowers
 
-The Sector is dominated by three superpowers locked in a bitter **Cold War** following the [[History of Humanity|Savage Wars]]. Their swollen fleets and covert agencies never strike outright, but proxy conflicts rage on the Edge. Hubris corrupts national leaders; insidious conspiracies gnaw at fragile unity.
+The Sector is dominated by three superpowers locked in a bitter **Cold War** following the [[The Savage Wars|Savage Wars]]. Their swollen fleets and covert agencies never strike outright, but proxy conflicts rage on the Edge. Hubris corrupts national leaders; insidious conspiracies gnaw at fragile unity.
 
 > *See [[Star Nations]] for full nation profiles — superpowers, major powers, minor powers, and independent systems.*
 
@@ -59,6 +70,7 @@ The Sector is dominated by three superpowers locked in a bitter **Cold War** fol
 
 ## Related Pages
 - [[History of Humanity]]
+- [[The Savage Wars]]
 - [[Star Nations]]
 - [[Skip Drives & FTL Travel]]
 - [[HOME|← Back to Home]]

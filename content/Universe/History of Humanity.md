@@ -9,6 +9,8 @@ tags:
 
 > *"Long ago, the elites of humanity left a dying Earth. They left to create disassociated, tailor-made utopias aboard massive lighthuggers."*
 
+![[mad_galaxy_timeline.jpg]]
+
 ---
 
 ## The Departure
@@ -48,6 +50,32 @@ Commander **Tyrus Martell** of the Vulkus Tactical Assault Paladins (VTAP) — *
 
 > *"There was no humanity left on that planet, just the illusion of it."* — Tyrus Martell
 
+*See [[The Savage Wars]] for the full account.*
+
+---
+
+## The Wars of Independence
+
+The Wars of Independence began in earnest around 1440, 29 years after the end of the Savage Wars. They lasted 13 years until 1453. They are viewed as part of the broader Cold War. Following the end of the nine-decade long Savage Wars, the Sector witnessed a fleeting moment of harmony on the newly instituted Unity Day. At that time, only three superpowers remained — the Republic of Man, the Novoset Continuum, and the Coalition. Unlike the centralized capitals of its peers, the Coalition was a confederacy governed by a rotating body called the Coalition Chamber, composed of High Regents from each sector, and its capital shifted every five years. This decentralized, "city-state" style structure granted considerable local freedom but also left the Coalition vulnerable to external manipulation but most importantly, internal divisions that led to slow-decision making to rally the decentralized systems to a cause.
+
+After Unity Day, cracks began to appear in the Coalition. Some observers claimed these fissures were engineered by rival powers seeking to feed from a still wounded enemy, while others attributed the unrest to mismanagement and inherent structural weaknesses. Regardless, the fire of rebellion first burst forth in Coalition territories as a series of protests, and later, uprising as some affected systems demanded the right to join the other superpowers. But the embers of dissent proved to be uncontrollable when some Republic and Novoset aligned systems began to also demand independence. In response, the Republic and the Novoset responded with swift, often brutal measures aimed at quelling protests within their own domains. But like a man who's caught fire, they seeked to quell all the flames and thus, in 1442, Republic and Novoset operations began within Coalition space itself, whirling the flames of dissent ever more broadly.
+
+These repressive actions spurred a true insurgency, particularly among systems that had once been part of the Coalition. Many systems viewed the Coalition as too fragmented to protect them and in 1444 the escalating violence eventually led to the birth of a new force: the United Citizen Federation (UCF), whose leaders and compatriots, found in the navies of many breakaway colonies, rallied under the banner of egalitarian, military-led governance that would protect all. So much naval power left the Coalition for the UCF that history tracks the Wars of Independence as not only reshaping the Sector by carving a patchwork of independent systems and deepening the ideological rifts between the established superpowers, but the fall of the Coalition from superpower status. Even several minor powers seized the opportunity to assert regional influence, setting the stage for the Secession Wars nearly five decades later.
+
+---
+
+## The Secession Wars
+
+The Secession Wars erupted around 1488, 78 years after the Savage Wars ended, and raged for 21 brutal years until 1509. In the turbulent aftermath of the Wars of Independence, internal pressures within the Sector reached a boiling point. Disaffected systems in the Republic of Man and the Novoset Continuum, along with lingering fractures in other powers, openly defied far-off control, sparking violent conflict.
+
+This was no series of isolated uprisings; it was a relentless, coordinated insurgency. Both the Republic and the Continuum mobilized massive reintegration campaigns, pouring their conventional might and sophisticated counterinsurgency tactics into the fray. The Republic found its high-tech, precision forces stretched to breaking point as guerrilla tactics and decentralized resistance bled its resources and shattered morale. Meanwhile, the Novoset Continuum — whose doctrine favored mass mobilization and rigid centralized command — suffered setbacks as its cybernetically enhanced troops were consistently outmaneuvered by agile local fighters employing hit-and-run tactics. The result was a protracted, draining conflict that bruised military prestige and exposed deep internal vulnerabilities.
+
+In response, both superpowers resorted to draconian measures. Internal security tightened, and military overreach became routine, with repressive policies further alienating the populace. The ideological rift deepened between the Republic's oligarchic, market-driven system and the Continuum's brutal collectivist model, cementing bitter Cold War dynamics that would haunt interstellar politics into the foreseeable future.
+
+Amid the chaos, the United Citizen Federation (UCF) emerged as an unexpected beneficiary. Disillusioned systems, weary of the heavy-handed tactics of both the Republic and Continuum, rallied to the UCF's because it had proven itself by beginning as a military junta but, in an act of contrition and sacrifice of power, had enacted the Covenant of Service — a unifying doctrine built on the principles of shared sacrifice, personal responsibility, and martial order. Embracing a doctrine of Spartan-like resilience and nimble, surgical warfare, the UCF's lean, elite forces excelled in asymmetric operations — swiftly absorbing secessionist colonies, securing critical resources, and carving out strategic positions while their rivals hemorrhaged manpower and political capital.
+
+Ultimately, the Secession Wars left enduring scars on the Republic and the Continuum leaving both superpowers weakened and more inward-looking. In stark contrast, the UCF solidified its rising superpower status, capitalizing on the turmoil to champion a new order based on meritocracy, shared sacrifice, and decisive military action. This ideological contest — pitting old centralized oligarchy against authoritarian collectivism and nimble, warrior-led governance — set the stage for decades of covert operations, proxy wars, and relentless diplomatic brinkmanship across the Antevic Sector.
+
 ---
 
 ## The Era Designations
@@ -61,6 +89,8 @@ Key dates:
 - **-109 BP**: Project Perseus begins
 - **57 AE**: Resistance falls apart; Project Perseus cells carry on; Ul'Rekar cracks Alpha Omega
 - **1153 AE**: The Extranet is invented
+- **1440–1453 AE**: Wars of Independence; Coalition loses superpower status; UCF born
+- **1488–1509 AE**: Secession Wars; Republic and Continuum weakened; UCF solidified
 - **Post-Savage Wars**: Republic of Man formed; Cold War begins
 
 ---
@@ -75,6 +105,8 @@ Today dissent grows. Proxy wars rage on the Edge. Megacorporations profit from s
 
 ## Related Pages
 - [[The Antevic Sector]]
+- [[The Savage Wars]]
+- [[Star Nations]]
 - [[Polymath & Poly-psykers]]
 - [[Alatyr System]]
 - [[Ul'Rekar]]
