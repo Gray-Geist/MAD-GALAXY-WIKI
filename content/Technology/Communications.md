@@ -58,7 +58,9 @@ The Extranet is a vast architecture formed by specialized **Extranet-comm buoys 
 4. Buoys are telemetrically aligned with partner buoys light-minutes away (each light-minute = 18 million km) via **tight beam laser corridor** — the space-age equivalent of fiber-optic cable
 5. Data is encoded, sent to the nearest tower, relayed to an e-comm buoy, and transmitted through the array
 6. C-boats can now gather data at the *edge* of systems and quickly return to FTL Launch Points — no more long slowboats through the entire system
+
 ![[communications_art3.png]]
+
 ### Priority System
 In heavily populated systems, billions of people overload finite bandwidth. Data is sent in carefully timed bursts, prioritized:
 1. Organizations responsible for national or system security
@@ -87,6 +89,7 @@ Located 3–10 light-minutes from FTL Launch Points, **Extranet Redoubts** are f
 **QECs** exploit quantum entanglement: a change to one particle of an entangled pair affects the other instantaneously, anywhere in the universe.
 
 ![[communications_qec2.png]]
+
 ### Advantages
 - **Instantaneous** communication over any distance — no C-boats, no Extranet dependency
 - **Cannot be intercepted** — no wiretapping possible
@@ -97,6 +100,7 @@ Located 3–10 light-minutes from FTL Launch Points, **Extranet Redoubts** are f
 - Exclusively **point-to-point** — cannot peer-to-peer network or feed the Extranet
 
 ![[communications_qec3.png]]
+
 ### Military Application
 The most practical military use is at headquarters level: each colony and fleet flagship maintains a QEC. All pairs connect to a central hub station. If attacked, the facility signals the hub to transmit to every other fleet and colony simultaneously.
 
@@ -104,7 +108,18 @@ The most practical military use is at headquarters level: each colony and fleet 
 
 ---
 
+## Quantum Stasis Zone (QSZ)
+
+A **Quantum Stasis Zone** is a secure enclosure — most commonly a hardened safe room — engineered to guarantee absolute electromagnetic containment. No electromagnetic particle can enter or escape the zone. A QSZ is the only environment where the absolute containment of classified information can be guaranteed, whether that information exists on a data link, quantum chip, or encoded by proteins into a biological sequence.
+
+Entry requires bio-signature recognition by the containment field. Unrecognized biomaterial — from a stray cell to an entire person — is dissolved on contact with the field boundary, separated down to isolated amino acids. The deterrent is absolute.
+
+QSZs are used by governments, megacorps, and intelligence agencies for meetings, data storage, and interrogations where no signal leakage of any kind can be tolerated.
+
+---
+
 ## Related Pages
 - [[Skip Drives & FTL Travel]]
 - [[Currency (IEFC)]]
+- [[Transportation]]
 - [[HOME|← Back to Home]]

@@ -31,6 +31,7 @@ Despite futuristic upgrades, the basic design endures: a box on wheels. Auto man
 **Superconductor magnets** have made it possible to build extremely cheap and durable **magnetic levitation (maglev) rail services**. Riding on magnetic cushions, these maglev trains — called **"levs"** — are one of the major transportation resources in major cities, colonies, and stations, often financed by corporations or governments.
 
 ![[tech_transportation_public.png]]
+
 ### Lev Infrastructure
 - **Inside city limits:** Usually underground
 - **Suburbs and outer areas:** Run on high pillars
@@ -43,6 +44,16 @@ Despite futuristic upgrades, the basic design endures: a box on wheels. Auto man
 
 ---
 
+## Mass Transit VI (LIMPTVI)
+
+In supermegacities where traffic volume exceeds any human or standard VI capacity to manage, municipalities deploy **LIMPTVI** — Low-Intelligence Mass Public Transport Virtual Intelligence. These are city-scale VI systems purpose-built to manage automated transport fleets: sled cabbies, grav-trains, shuttle loops, and orbital connectors.
+
+LIMPTVI operates within strict parameters — routing, scheduling, collision avoidance, and load balancing — without the need for higher cognitive function. Their intelligence is deliberately kept low: a LIMPTVI does not reason, plan, or deviate. It optimizes. All sled cabbies, grav-trains, and automated transit vehicles within its network are subordinate nodes, feeding and receiving data in real time.
+
+Cities like **Nagrindr on Helgoth** — vast, overcast megacities with constant traffic across hundreds of districts — rely entirely on LIMPTVI to keep arterial transit flowing.
+
+---
+
 ## Hover Transportation
 
 Hover technology relies on **anti-gravitic generators** and **repulsor fields** to suspend vehicles above the ground. The system works by bending space-time around the vehicle — the anti-gravitic generators warp the vehicle's world-lines, pulling space underneath it, while impeller units channel curved world-lines through the vehicle's core to keep it suspended. Grav-plates provide stability and control, acting as brake and propulsion assists.
@@ -50,8 +61,6 @@ Hover technology relies on **anti-gravitic generators** and **repulsor fields** 
 Hover technology is a **strategic resource** rather than a universal standard. The constant power demands and vulnerability of anti-gravitic systems make it impractical for general adoption. For the average colony or military force, **wheels and treads remain the backbone of transportation** due to reliability, low cost, and ease of repair.
 
 > Hover tech is reserved for situations where **superior mobility and adaptability are worth the investment** — a luxury or tactical niche.
-
----
 
 ### Military Applications
 
@@ -70,8 +79,6 @@ Hover vehicles in military use are **specialized tools** — powerful but niche,
 - Complex field maintenance requires specialized knowledge and tools
 - Recoil from heavy weapons destabilizes hover vehicles without advanced compensation systems
 - Strong winds and atmospheric disturbances severely affect stability
-
----
 
 ### Civilian Applications
 
