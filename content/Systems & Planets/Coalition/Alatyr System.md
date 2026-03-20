@@ -29,7 +29,7 @@ Today, Alatyr is a husk. Sot Prime is an irradiated wasteland. Silo Station is a
 
 A Coalition cruiser unknowingly made contact with a Savage recon force. The Savages secretly followed it home. Over the next year they infiltrated population centers, inserted doppelganger agents into vital positions, and released a debilitating virus — all while the agents struck key nodes of security and power. **399 days** after first contact, the Savages emerged from the dark:
 
-- **Silo Station** was destroyed — all 5 million aboard killed within an hour
+- **Silo Station** was destroyed — all 100,000 aboard killed within an hour
 - **Sot Prime** went dark
 
 The Combined Forces advanced to retake the system and swept aside Savage forces who seemed to melt away — until they struck in force at Sot Prime, annihilating the Combined Forces in what became known as the **Disaster at Sot Prime**.
@@ -83,7 +83,7 @@ A special forces element had attempted a humanitarian rescue before the CNTO. It
 ![[alatyr_sot_prime_today.png]]
 ![[alatyr_mons_principa.png]]
 
-**Population:** 0 (formerly **600 billion**)  
+**Population:** 0 (formerly **10 billion**)  
 **Former Capital:** Mons Principa  
 **Status:** Irradiated wasteland
 
@@ -110,7 +110,7 @@ Severe radiation storms blanket the landscape with deadly energy. Toxic gases an
 ![[alatyr_silo_station_then.png]]
 ![[alatyr_silo_station_now.png]]
 
-**Population:** 0 (formerly **5 million**)  
+**Population:** 0 (formerly **100,000**)  
 **Status:** Floating ruin — attracts scavengers and treasure hunters
 
 Before Alexandria, the largest human space station. A commercial trading post of extraordinary scale. Today it is devoid of life, its remaining structure bombarded by debris storms, flooded with cosmic radiation, and prowled by adapted creatures.

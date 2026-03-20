@@ -61,7 +61,7 @@ Ul'Rek settlements have sections permitting intra-Sector communities and commerc
 ![[ahura_mazandaran_main.png]]
 ![[ahura_mazandaran_rostam.png]]
 
-**Population:** 2 billion (stable/slowly growing)  
+**Population:** 400 million (stable/slowly growing)  
 **Capital:** Rostam City  
 **Setbek:** Sirvan Yektar  
 **Industry:** Export of raw minerals, metals, and elements
@@ -84,7 +84,7 @@ A large resource-rich rock moon serving as the **primary source of metals** used
 ![[ahura_manichae_persepol2.png]]
 ![[ahura_manichae_persepol3.png]]
 
-**Population:** 1 Trillion (stable)  
+**Population:** 3 billion (stable)  
 **Capital:** Persepol  
 **Proxy Netjertum:** Qaed Danek  
 **Industry:** Intra-Sector trade and finance; Navigator recruitment and contracting; resource management and planetary surveying

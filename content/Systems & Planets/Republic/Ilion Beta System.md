@@ -99,7 +99,7 @@ It is a popular destination for gamblers, traders, and furloughed military — a
 ![[ilion_beta_agamenopol.png]]
 ![[ilion_beta_eos.png]]
 
-**Population:** 2 billion (increasing)  
+**Population:** 300 million (increasing)  
 **Capital:** Agamenopol  
 **Executive Protector:** Vel Xebika  
 **Industry:** Financial, commercial, and trading sectors; manufacturing; academic

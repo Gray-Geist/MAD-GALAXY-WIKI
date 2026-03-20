@@ -37,20 +37,21 @@ From the depths of endless space, something watched, prodded, and then struck.
 
 Their technology, evolved along unique paths during the long dark, could not be fathomed or reverse-engineered. Their internal alliances were tenuous — among the many dynasties, the struggle for supremacy never stopped. All knew there could be only one dynasty. One leader. One truth.
 
-### The Hounding — Alatyr System
-A Coalition cruiser unknowingly made contact with a Savage recon force. The Savages followed it home. Over 399 days they infiltrated population centers, inserted doppelganger agents into vital positions, and released a debilitating virus before striking. **Silo Station** (5 million aboard) was destroyed in an hour. Sot Prime went dark.
+For thirty years they raided — hitting colonies and vanishing into the dark. Then they struck in earnest.
 
-### The Disaster at Sot Prime
-The **Combined Forces** swept toward Sot Prime expecting easy victory — the Savages had always fled before. Instead they were annihilated. The **Alatian Accords** forced the Coalition into humiliating neutrality: cede Alatyr and stand aside.
+*For the full account of the Savage Wars — The Hounding, the Disaster at Sot Prime, the Requite Dilemma, the founding of Helgoth, and the aftermath — see [[The Savage Wars]].*
 
-### The Astral Alliance
-Eventually, a coalition of star nations formed the **Astral Alliance** and amassed forces against the Savage Marines. The fight for Sot Prime became a brutal stalemate.
+---
 
-Commander **Tyrus Martell** of the Vulkus Tactical Assault Paladins (VTAP) — *the Butcher of Andalore* — made the decision. He unleashed a **Chained Nuclear Trigger Ordinance (CNTO)** on Sot Prime, glassing the planet entirely. Billions of humans under Savage control died. The planet was left poisoned with radiation in perpetuity.
+## The Long Shadow of the Savages
 
-> *"There was no humanity left on that planet, just the illusion of it."* — Tyrus Martell
+The Savage Wars lasted nearly **six centuries** before the Astral Alliance — humanity's desperate coalition — finally prevailed. The Alliance disbanded and reformed as the **Republic of Man**. The Coalition, punished for their non-aggression pact with the Savages, had Primus taken from them as reparations. It is a humiliation they have never forgotten.
 
-*See [[The Savage Wars]] for the full account.*
+**Unity Day** was established to mark the end of the war. For a brief moment, humanity exhaled.
+
+From the wreckage of the war, billions of Sot Prime refugees were resettled on the hostile world of **Helgoth** — and from that suffering, the Helgost people were forged. From within their ranks rose a voice that would reshape the Sector:
+
+> *"When we came to Helgoth we were lost, a broken collection of exiles on the verge of death. At first we thought our new world would poison and destroy us. How wrong we were. Helgoth saw what was in every one of us, our strength and our indestructible spirit, and made it manifest. The great change was the rebirth of our people. A people fit to stride the stars and shatter our enemies."* — The Autarch
 
 ---
 
@@ -103,11 +104,18 @@ Today dissent grows. Proxy wars rage on the Edge. Megacorporations profit from s
 
 ---
 
+## A Note on This Page
+
+*This page covers the broad sweep of human history. As the universe evolves through play, this page should be updated to reflect new events, revelations, and turning points. The Cold War Today section in particular should grow over time.*
+
+---
+
 ## Related Pages
 - [[The Antevic Sector]]
 - [[The Savage Wars]]
 - [[Star Nations]]
 - [[Polymath & Poly-psykers]]
 - [[Alatyr System]]
+- [[Baadensenar System]]
 - [[Ul'Rekar]]
 - [[HOME|← Back to Home]]

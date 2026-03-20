@@ -40,7 +40,7 @@ The planet **Veles** continues to be a persistent thorn in the Republic's side, 
 
 ## Government & Society
 
-Primus provides three representatives to the Republic's House of Reason. The space station Rho has a large population but **no representation**. The Governor of each settlement takes orders from [[Alexandria]]. On Pacem, a planetary bureaucrat handles daily administration — but in practice, residents turn to the **High Presbyter at the Elysian Cathedral** for true leadership.
+Primus provides three representatives to the Republic's House of Reason. The space station Rho has **no representation**. The Governor of each settlement takes orders from [[Alexandria]]. On Pacem, a planetary bureaucrat handles daily administration — but in practice, residents turn to the **High Presbyter at the Elysian Cathedral** for true leadership.
 
 ---
 
@@ -88,7 +88,7 @@ As industry left, **organized crime rushed in**. Alpha Terra is a major hub for 
 ![[primus_rho_main.png]]
 ![[primus_rho_indoors.png]]
 
-**Population:** 1 million  
+**Population:** 200,000  
 **Chief Administrator:** Ariana Kennet  
 **Industry:** Hospitality and transportation toward Pacem; trading outpost
 

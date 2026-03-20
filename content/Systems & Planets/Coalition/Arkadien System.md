@@ -54,7 +54,7 @@ Arkadien devotes itself to industry, material recycling, energy production, and 
 ![[arkadien_lux_aureum.png]]
 ![[arkadien_sieghall.png]]
 
-**Population:** 400 billion (steadily declining)  
+**Population:** 1.5 billion (steadily declining)  
 **Capital:** Sieghall  
 **High Regent:** Maximillien Pieters  
 **Major Industries:** Material recycling & repurposing · Metal refining · Protogenetic agriculture

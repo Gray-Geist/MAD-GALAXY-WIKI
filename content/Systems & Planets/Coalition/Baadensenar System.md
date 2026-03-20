@@ -56,6 +56,22 @@ His transformation of Baadensenar's economy has made him one of the most popular
 
 ---
 
+## The Autarch's Words
+
+*The following are public addresses by the Autarch, widely circulated in Baadensenar and beyond.*
+
+> *"Sons and daughters of Helgoth, the path toward a better tomorrow stretches out before us. Toward a future that is golden and eternal. But our journey together must cross a wilderness of hatred and bigotry, a landscape of lies seeded by the venom of our old enemy. Our foe knows us. He fears us. But we must not underestimate him. The Republic upper crust cower and snipe from beneath their veneer of civility and freedom, are soulless and hollow. They make their pithy, mewling claims of liberty and righteousness, and all the while, they look upon the face of the Helgost with loathing and disgust. They even look upon the majority of their population, the commoners and even the risers, as such! The enemy sees us as abominations, mutant freaks fit only for killing. To the foe we are less than human, but they will learn their mistake, my people. We will show them the iron and steel beneath Helgost flesh. We shall cast them against the unbreakable rock of our collective will. We will make them realize the truth that the children of Helgoth know in their hearts: that our race, the Helgost nation, is the next step in the evolution of mankind."*
+
+> *"When we came to Helgoth we were lost, a broken collection of exiles on the verge of death. At first we thought our new world would poison and destroy us. How wrong we were. Helgoth saw what was in every one of us, our strength and our indestructible spirit, and made it manifest. The great change was the rebirth of our people. A people fit to stride the stars and shatter our enemies."*
+
+> *"Sons and daughters of Helgoth, you are the embodiment of the glorious legacy of mankind's eternal adaptation, the inheritors of the victory that we fight for every day. You alone are fit to forge the future and the destiny of our species. History does not long entrust the care of freedom to the weak or the timid. We shall not suffer the irresolute and spineless men of the Republic to dictate our path! When you granted me the privilege of your leadership, I, the Autarch, willingly sacrificed myself to the engine of our nation. My only goal is to bring our people the absolute and deserved mastery of their destiny."*
+
+> *"I am humbled by the magnificent example that you, my people have set. The workers and artisans among you who toil and ask not for a claim, but accept the honor of your leaders. The soldiers and warriors who burn with cold fire and unyielding resolve never flinching before the guns of our adversaries. The teachers and commissars who hold the very soul of our people in their hands, shielding it from the lies of the treacherous and disloyal. You seek reward in service alone."*
+
+> *"Each of you shares in the greatest glory of them all. You are the true Helgost! Ruthless to those who oppose us, masters of those we defeat, unflinching in the face of adversity. I pity all those who were not born beneath our banner, for they will never know the touch of greatness as we do."*
+
+---
+
 ## Main Industries
 
 Baadensenar's economy is entirely oriented toward **military industrialism** — creating a large, powerful force for territorial expansion. [[Neus Kapitel Group (NKG)]] and [[BioMega]] have major presences here, with top-secret projects in genetic engineering, extreme resource extraction, and survival on harsh climates.
@@ -96,7 +112,7 @@ A small hot planet near Fenix Omega. Altair houses the majority of Helgost force
 ![[baadensenar_nagrindr.png]]
 ![[baadensenar_nagrindr2.png]]
 
-**Population:** 41 billion (steadily growing)  
+**Population:** 3 billion (steadily growing)  
 **Capital:** Nagrindr *(from Norse mythology: a great fence of corpses surrounding hell)*  
 **High Regent:** Arden Laurent (the Autarch)  
 **Industry:** Military industrialism; metal mining, refining, & manufacturing; genetic research
@@ -137,4 +153,5 @@ Regent Larsen is the Autarch's right hand and confidant, as well as Prime Admira
 - [[Neus Kapitel Group (NKG)]]
 - [[BioMega]]
 - [[Arkadien System]]
+- [[The Savage Wars]]
 - [[HOME|← Back to Home]]

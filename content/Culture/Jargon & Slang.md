@@ -68,37 +68,48 @@ tags:
 
 | Term | Meaning |
 |---|---|
-| **Capital** | Awesome, dope, great |
-| **Clint** | Vernacular for "mess with" or "lie to" ("I won't clint you…") |
-| **Dust** | To kill, or be killed ("dust them!") |
-| **KTF** | Kill Them First |
-| **Niks** | Slang for cigarettes |
-| **Pally** | Soldier of the Republic Tactical Assault Corps (Paladin) |
-| **Parminthean** | Super-cool |
-| **Point** | A politically appointed officer |
-| **Stages Blazes** | Exclamation of pain ("Ouch!") |
-| **Vic** | Vehicle |
-| **Nova / Preem** | Cool, awesome, dope |
-| **Hard** | A flattering term — cool, hip, tough |
+| **AFC** | Antevic Fighting Championships |
+| **Alpha-roids** | Steroids, growth hormone, etc. |
+| **Armonian Fleece** | A type of animal skin that is very warm during the worst cold spells — a blanket-sized swatch can weigh sixty pounds |
 | **Boga** | Vogue; that which is in-fashion *(Spanish origins)* |
+| **Bridge & Tunnel Crowd** | Commuters |
+| **Candyship** | A children's game |
+| **Capital** | Awesome, dope, great |
+| **Chopping** | The process of cracking a stolen credchip |
+| **Chromatic Rock** | A type of heavy metal characterized by heavy electronics, simple rhythms, and violent lyrics |
+| **Circ** | Short for circuit |
+| **Clap-cylinder** | A percussion instrument |
+| **Clint** | Vernacular for "mess with" or "lie to" ("I won't clint you…") |
+| **Cloudscraper** | A building taller than a skyscraper; can reach into the clouds. Rarely found outside of supermegacities |
 | **Coz** | "Comfortable"; also sexual innuendo for "sleep with" |
 | **Creds** | Short for credits (currency) |
+| **Crystal** | Short for "crystal clear" — understood |
+| **Chunk** | Eating on the run, as a secondary activity |
+| **Corpse** | A corporate worker or executive |
+| **Dust** | To kill, or be killed ("dust them!") |
+| **Flatline** | To kill someone (v.t.), or to die (v.i.); a dead person (n.) |
 | **Ganic** | Short for organic. Refers to those with little or no implants |
 | **Gato** | A smooth operator; a fixer *(Spanish origins)* |
 | **Ghost off** | To disappear or f*** off |
 | **Choom / Choomba** | A friend or family member *(African origins)* |
-| **Chunk** | Eating on the run, as a secondary activity |
-| **Corpse** | A corporate worker or executive |
-| **Crystal** | Short for "crystal clear" — understood |
-| **Flatline** | To kill someone (v.t.), or to die (v.i.); a dead person (n.) |
-| **Indie** | Independent, self-employed, underground |
-| **Iron** | A gun |
-| **Klep / Klepped** | To steal |
-| **Ram** | Personality *(from computer jargon RAM)* |
-| **Svoluch** | Someone without honor. A bastard *(Russian origins)* |
-| **Yono** | A person who is scum, a lowlife *(Korean origins)* |
 | **Gomi** | Trash, junk, or garbage *(Japanese origins)* |
 | **Gonk** | An idiot, fool, schmuck |
+| **Hard** | A flattering term — cool, hip, tough |
+| **Indie** | Independent, self-employed, underground |
+| **Iron** | A gun |
+| **KTF** | Kill Them First |
+| **Klep / Klepped** | To steal |
+| **'L** | Fuel; shorthand for Lothranium. "Running low on L." |
+| **Niks** | Slang for cigarettes |
+| **Nova / Preem** | Cool, awesome, dope |
+| **Pally** | Soldier of the Republic Tactical Assault Corps (Paladin) |
+| **Parminthean** | Super-cool |
+| **Point** | A politically appointed officer |
+| **Ram** | Personality *(from computer jargon RAM)* |
+| **Stages Blazes** | Exclamation of pain ("Ouch!") |
+| **Svoluch** | Someone without honor. A bastard *(Russian origins)* |
+| **Vic** | Vehicle |
+| **Yono** | A person who is scum, a lowlife *(Korean origins)* |
 | **Zero / Zeroed** | To kill (v.t.) or be killed (adj.) |
 | **Zombie** | A member of a nihilistic movement dedicated to ending their life in the most violent and spectacular way possible |
 
@@ -108,9 +119,9 @@ tags:
 
 Feth · Kark · Kell / Kellhorn · Sket · Stages Blazes
 
-**Fodder:** Derogatory fixer term for Solos
-**Gaijin:** Derogatory term for outsider *(Japanese origins)*
-**Leadhead:** Dumb person
+**Fodder:** Derogatory fixer term for Solos  
+**Gaijin:** Derogatory term for outsider *(Japanese origins)*  
+**Leadhead:** Dumb person  
 **Skipworm:** Twerp, jerk, nobody, lowlife
 
 ---
@@ -119,7 +130,7 @@ Feth · Kark · Kell / Kellhorn · Sket · Stages Blazes
 
 | Term | Meaning |
 |---|---|
-| **Syn** | A [[NeuroSyn & Cybernetics|NeuroSyn]] cybernetic implant |
+| **Syn** | A [[NeuroSyn & Cybernetics\|NeuroSyn]] cybernetic implant |
 | **Chrome** | Cyberware |
 | **Chromed / Chipped** | Implanted with cyberware |
 | **Chippin' In** | Buying cyberware for the first time; casting your lot with a group |
@@ -191,24 +202,31 @@ Feth · Kark · Kell / Kellhorn · Sket · Stages Blazes
 | **Bag Job** | Surreptitious entry, usually to copy or remove material |
 | **Bombshell** | Evacuate quickly, run |
 | **Close a Contract** | Kill, assassinate ("neutralize, grease, wax, hose, pop, dust, smoke, vape") |
+| **COMINT** | Communications intelligence |
 | **Cut-Out** | A go-between used for security in a covert op |
+| **C-YA** | "Cover Your Ass" |
+| **Deniable Person** | Someone hired so that a government or organization can disavow any knowledge of them or their activities if something goes wrong |
 | **DIP** | Die in Place — military orders |
+| **ELSUR** | Electronic Surveillance |
+| **Extraction** | The removal of a team from its area of operations |
 | **False Flag** | Making an operative think they're working for one entity when actually working for another |
+| **Firelane** | The clear area into which a weapon can put its shots |
 | **Hot LZ** | A landing zone under hostile fire |
 | **IA** | Immediate Action drill — a set series of responses to combat |
 | **HK** | Hunter-Killer. Heavy bipedal mechs |
+| **Insertion** | Delivery of a group to its target |
 | **Kill Zone** | Area of maximum destruction in an ambush; or body area where a weapon will kill its target |
+| **KTF** | Kill Them First |
+| **Landing Hot** | Landing with a damaged vehicle |
+| **Pen Team** | Computer experts testing system security by attempting penetration |
+| **Potluck** | Throwing an anti-personnel mine in the air and activating it — hoping it detonates toward the enemy |
 | **PZ / RV** | Pickup zone / Rendezvous point |
 | **Roll Up** | To capture |
 | **Sanitize** | Remove all identifying marks, fingerprints, etc. |
 | **Sleeper** | Potential operative kept on tap for future use |
+| **Slipup List** | A methodical collection of possible mistakes that might happen during a mission |
+| **Technical Penetration** | The use of mechanical or electronic information gathering |
 | **The Man** | Immediate superior |
-| **C-YA** | "Cover Your Ass" |
-| **KTF** | Kill Them First |
-| **COMINT** | Communications intelligence |
-| **ELSUR** | Electronic Surveillance |
-| **Pen Team** | Computer experts testing system security by attempting penetration |
-| **Potluck** | Throwing an anti-personnel mine in the air and activating it — hoping it detonates toward the enemy |
 
 ---
 
@@ -216,17 +234,36 @@ Feth · Kark · Kell / Kellhorn · Sket · Stages Blazes
 
 | Term | Meaning |
 |---|---|
+| **Agent Man** | Higher agency member |
 | **Badge / Lawman / Sticks** | Police officers; beat cops |
+| **Bag Man** | Fixer |
+| **Baked / Crisped / Torched** | Burned |
 | **Banana Boys** | Federalized paramilitary forces (MAX-TAC, C-SWAT, PSYCHE-DIV, CYB-Enforcement) |
+| **Bird** | Aerial assistance |
+| **Blitzed / Twisted** | Drug warp |
+| **Boney / Cold One** | Corpse |
 | **Bust** | Arrest |
-| **Perp / Player** | Criminal; big-time criminal |
-| **Sprung** | Blown cover, or escaped custody with outside help |
+| **Desk Jockey / Inkman / Pencil Neck** | White-collar person |
+| **Dough Boy** | Money man |
+| **Easy Rider** | Someone who travels often |
+| **Flatbacker** | Prostitute |
+| **Fried** | Insane |
+| **Geeked / Iced / Spiked** | Killed |
+| **Green** | Unwell |
+| **Headlining** | Wanted person |
+| **Holding Down** | Drawing and aiming a weapon |
+| **Iceman** | No emotions |
+| **Jo / Joanna / Lost Boy / Lost Girl** | Nobody |
+| **Jumbo Bird** | Heavy aerial assistance |
+| **Kid / Creep / Punk / Scum** | Derogatory cop terms for criminals and civilians |
+| **Packing** | Carrying a weapon |
+| **Part Timer** | Corporate cop or bounty hunter |
 | **Pasta Boys** | Western European organized crime ("Mafia" catch-all) |
 | **Paint Boys** | Japanese organized crime ("Yakuza" catch-all) |
-| **Part Timer** | Corporate cop or bounty hunter |
+| **Perp / Player** | Criminal; big-time criminal |
+| **Ripped / Trashed** | Assaulted |
+| **Sprung** | Blown cover, or escaped custody with outside help |
 | **Suit** | Corporate person, straight man |
-| **Boney / Cold One** | Corpse |
-| **Packing** | Carrying a weapon |
 
 ---
 
