@@ -45,9 +45,9 @@ For thirty years they raided — hitting colonies and vanishing into the dark. T
 
 ## The Long Shadow of the Savages
 
-The Savage Wars lasted nearly **six centuries** before the Astral Alliance — humanity's desperate coalition — finally prevailed. The Alliance disbanded and reformed as the **Republic of Man**. The Coalition, punished for their non-aggression pact with the Savages, had Primus taken from them as reparations. It is a humiliation they have never forgotten.
+The Savage Wars lasted nearly **ninety years** (1320–1410 AE) before the Astral Alliance — humanity's desperate coalition — finally prevailed. The Alliance disbanded and reformed as the **Republic of Man**. The Coalition, punished for their non-aggression pact with the Savages, had Primus taken from them as reparations. It is a humiliation they have never forgotten.
 
-**Unity Day** was established to mark the end of the war. For a brief moment, humanity exhaled.
+**Unity Day** was established in 1411 AE to mark the end of the war. For a brief moment, humanity exhaled.
 
 From the wreckage of the war, billions of Sot Prime refugees were resettled on the hostile world of **Helgoth** — and from that suffering, the Helgost people were forged. From within their ranks rose a voice that would reshape the Sector:
 
@@ -79,20 +79,29 @@ Ultimately, the Secession Wars left enduring scars on the Republic and the Conti
 
 ---
 
-## The Era Designations
+## Era Designations & Timeline
 
-| Abbreviation | Meaning |
+**BP** = Before Pilgrimage · **AE** = After Earth
+
+| Date | Event |
 |---|---|
-| BP | Before Pilgrimage |
-| AE | After Earth |
-
-Key dates:
-- **-109 BP**: Project Perseus begins
-- **57 AE**: Resistance falls apart; Project Perseus cells carry on; Ul'Rekar cracks Alpha Omega
-- **1153 AE**: The Extranet is invented
-- **1440–1453 AE**: Wars of Independence; Coalition loses superpower status; UCF born
-- **1488–1509 AE**: Secession Wars; Republic and Continuum weakened; UCF solidified
-- **Post-Savage Wars**: Republic of Man formed; Cold War begins
+| **-99 BP** | The Cataclysms — elites pillage resources to build Lighthuggers |
+| **0 AE** | The elites depart — *the Pilgrimage* |
+| **98 AE** | Chained Eidolon Reaction Drive invented; Earth abandoned; humanity arrives in the Antevic Sector — *the Exploration* |
+| **239 AE** | Humanity spreads too fast and slows — *the Decline* strangles technology |
+| **740 AE** | Technology halted; colonies dead; mankind on the brink; Old Earth coordinates lost |
+| **748 AE** | Womb Genesis nanotech perfected — massive population boom |
+| **937 AE** | Overpopulation; masses cling to megacity societies — *the Squeeze* begins |
+| **1000 AE** | Super-megacity construction — *the Roaring Construction* |
+| **1215 AE** | Populations finally venture out — *the Colonization* |
+| **1317 AE** | First Contact — entire planets go silent; the Savages are real |
+| **1320 AE** | Combined Forces created; **Savage Wars begin** |
+| **1324 AE** | Fall of Sot Prime; Combined Forces ends; Astral Alliance formed |
+| **1410 AE** | Battle of the Grave — **Savage Wars end** in victory |
+| **1411 AE** | Unity Day; Astral Alliance reforms into the Republic; Cold War begins |
+| **1440–1453 AE** | Wars of Independence; Coalition loses superpower status; UCF born |
+| **1488–1509 AE** | Secession Wars; Republic and Continuum weakened; UCF solidified |
+| **1517 AE** | **Current era** — Cold War intensifies |
 
 ---
 

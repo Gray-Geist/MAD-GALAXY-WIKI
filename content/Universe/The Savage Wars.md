@@ -79,7 +79,7 @@ The Coalition population, who had initially rejoiced at the Astral Alliance's pr
 
 ## The Long War
 
-For **six centuries** the Savage Wars raged on. At the cost of possibly much of their own humanity, the Astral Alliance was ultimately victorious.
+The Savage Wars raged for nearly **ninety years** — from the fall of Sot Prime in **1320 AE** to the **Battle of the Grave in 1410 AE**. At the cost of possibly much of their own humanity, the Astral Alliance was ultimately victorious.
 
 ---
 
@@ -89,7 +89,7 @@ The Astral Alliance disbanded and reformed as **the Republic**. Several nations,
 
 The Coalition — who at first welcomed the Republic as liberators — were labeled as conspirators for their non-aggression pact with the Savages. The Republic took **Primus**, the first settled human system, as reparations for war damages. It is a humiliation the Coalition has never forgotten.
 
-**Unity Day** was established. For a brief moment, the Sector exhaled.
+**Unity Day** was established in **1411 AE**. For a brief moment, the Sector exhaled.
 
 ---
 
