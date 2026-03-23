@@ -170,6 +170,8 @@ Armat-manufactured semi-automatic; medium to long range. Proprietary anti-recoil
 
 Primary chem arm of the [[RTAC (Paladins)|RTAC Paladins]]. Magazines deplete from green to black. "G" variant has an auto-feed frag launcher — *Avalon-Arienai Combine.*
 
+![[equipment_Arienai_Weapon_Sytems_N_A_Series.png]]
+
 **N-18:** Long-barreled sniper rifle. Highly reliable and even more accurate — *Avalon-Arienai Combine.*
 
 **N-50A1 ("Fifty"):**
@@ -322,7 +324,7 @@ Ground-based circular contraption (~10 inches diameter) that adheres to various 
 
 **FieldSeal Patch:** Thermally activated patch that softens when heated by a portable applicator and rapidly cools to form a durable, flexible seal. Seals compromised armor against corrosive environments and radiation. Does not restore ballistic protection but prevents further degradation.
 
-**ME2 Hand Welder ("Cutting Torch"):![[equipment_me2_hand_welder2.jpg]]**
+**ME2 Hand Welder ("Cutting Torch"):**
 ![[equipment_me2_hand_welder.png|373]]
 ![[equipment_me2_hand_welder2.jpg|455]]
 
@@ -351,10 +353,9 @@ Small infantry-deployed anti-personnel mine. Three explosive charges in a fan sh
 High explosive that sticks to surfaces. Detonated remotely.
 
 **CF-24 Cluster Frag Grenade ("Fragger"):**
-![[equipment_cf-24_cluster_gif.gif|472]]
 
 Dual fragmentation grenade. First detonation = standard frag from the main body. Second = 24 clusters creating intense shrapnel that shreds all organic material in the area.
-
+![[equipment_cf-24_cluster_gif.gif]]
 **Det-Cord:** Explosive pressed into long cord coils on reels. Useful for punching holes in non-fortified walls or doors. Only responds to a command keyed specifically to the cord.
 
 **Flash-Bang Bolo:** A pair of small banger grenades connected by a heavy wire. Used by hunters to immobilize and stun an opponent.
@@ -408,6 +409,7 @@ Burns very hot — some varieties hot enough to turn sand into slag. Used by kil
 
 **TS-34 EM-FRAG EMP Grenade ("Bot Popper"):**
 ![[equipment_TS34_EM_Frag.png|570]]
+
 Ion grenade generating a micro-EMP designed to fry a bot's operating system. Also affects battery-operated weapons.
 
 **XTP-3 Flashbang ("Ear-Popper" / "Banger"):**
