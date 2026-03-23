@@ -158,7 +158,7 @@ ALIM-assisted chemical arm. Notable sound suppression system, powerful three-rou
 
 **Mark 950 Repeater (12.7mm Anti-Mech Infantry Rifle):**
 
-![[equipment_mark950_chem.png]]
+![[equipment_Mark950_chem.png]]
 
 Highly reliable, cheap to produce, large-bore chemical arm. Primarily used for anti-vehicle, anti-mech, or anti-fortification.
 
@@ -223,6 +223,7 @@ Standard slagger. Effective range 300m.
 
 **ATAC-8 Long Range Slag Rifle:**
 ![[equipment_artac-8_slag.png]]
+
 Long-range slagger. Effective range 600m.
 
 **Miif-7 Slag Rifle:**
@@ -247,6 +248,7 @@ Power-armor-assisted super slag weapon. Lower fire rate than other slaggers but 
 
 **X6 Heavy Shot Intec Slagger:**
 ![[equipment_x6_intec_slag.png]]
+
 Rare sidearm modernized from an antiquated design. Notoriously inaccurate beyond 25m but extremely powerful.
 
 ---
@@ -285,6 +287,7 @@ Light squad support weapon (~15 lbs loaded). Fires many grenade types. Smart-lin
 
 **HED-27 Stun Gun:**
 ![[equipment_HED-27_Stun_Gun.png]]
+
 Non-lethal; found throughout the Sector. Effects: Muscle Lock (involuntary contractions; temporary paralysis), Neuromuscular Scramble (overloads nerve signals; loss of coordination and disorientation), Neuro-Spike (disrupts inner ear balance and pain receptors; dizziness, headache, vomiting).
 
 **Light Anti-Armor Weapon (LAW):**
@@ -319,13 +322,15 @@ Ground-based circular contraption (~10 inches diameter) that adheres to various 
 
 **FieldSeal Patch:** Thermally activated patch that softens when heated by a portable applicator and rapidly cools to form a durable, flexible seal. Seals compromised armor against corrosive environments and radiation. Does not restore ballistic protection but prevents further degradation.
 
-**ME2 Hand Welder ("Cutting Torch"):**
+**ME2 Hand Welder ("Cutting Torch"):![[equipment_me2_hand_welder2.jpg]]**
 ![[equipment_me2_hand_welder.png|373]]
 ![[equipment_me2_hand_welder2.jpg|455]]
+
 Compact handheld welding torch — cutting and welding in the field. Used for sealing electronic doors, constructing barricades, and freeing persons from enerchains.
 
 **Plasma Cutter:**
 ![[equipment_plasma_cutter.png|512]]
+
 Heavy, two-handed tool firing multiple ionized plasma bolts that combine into a cutting stream capable of slicing through most surfaces. Highly unwieldy but very effective at breaching fortified positions.
 
 ---
@@ -333,7 +338,7 @@ Heavy, two-handed tool firing multiple ionized plasma bolts that combine into a 
 ## Personnel Ordnance
 
 **APER M101 Claymore Mine:**
-![[equipment_aper_m101_claymore.png|521]]
+![[equipment_APER_M101_Claymore.png]]
 Small infantry-deployed anti-personnel mine. Three explosive charges in a fan shape; numerous ball bearings that deform into shards on explosion. Effective range 75m; dangerous to 250m. Uses motion detector, forward-facing trip lasers, and IFF detector.
 
 **ATMN-2 Magnetic Anti-Tank Mine ("Tank Toaster"):**
@@ -342,10 +347,12 @@ Small infantry-deployed anti-personnel mine. Three explosive charges in a fan sh
 
 **C5 Blast Brick:**
 ![[equipment_c5_brick.png|404]]
+
 High explosive that sticks to surfaces. Detonated remotely.
 
 **CF-24 Cluster Frag Grenade ("Fragger"):**
 ![[equipment_cf-24_cluster_gif.gif|472]]
+
 Dual fragmentation grenade. First detonation = standard frag from the main body. Second = 24 clusters creating intense shrapnel that shreds all organic material in the area.
 
 **Det-Cord:** Explosive pressed into long cord coils on reels. Useful for punching holes in non-fortified walls or doors. Only responds to a command keyed specifically to the cord.
@@ -361,6 +368,7 @@ Engineered from scavenged industrial and military-grade fuel cells. On detonatio
 
 **H-8 Holographic Grenade:**
 ![[equipment_h-8_holographic.png]]
+
 Deployed "skins" project holographic emitters creating multiple false combatants or small vehicle outlines in the immediate area.
 
 **H-35 & H-37 Lasmore Tactical Mines ("Lasmore mines"):**
@@ -377,10 +385,12 @@ Refractive smoke grenades. Foils enemy EM and IR sensors; laser and sensor retar
 
 **M-9A Seeker Grenade:**
 ![[equipment_m9a_seeker.png]]
+
 Small deployable robot that seeks out enemies and self-destructs.
 
 **R-19 Repulsor Grenade:**
-![[equipment_r19_repulsor.png]]
+![[equipment_R19_Repulsor.png|531]]
+
 Non-lethal. Pushes targets away from the center of radius. Useful for hostage situations.
 
 **SG-48 Stick Grenade:**
@@ -393,21 +403,23 @@ Newer design based on the SG-48. Audible, HUD visual, and detonator control opti
 
 **SMT-M22 Incendiary Thermite Grenade ("Burner" / "Thermite"):**
 ![[equipment_smt_m22_thermite.png]]
+
 Burns very hot — some varieties hot enough to turn sand into slag. Used by kill teams to erase evidence, destroy weapons caches, or demolish heavy structures. Will reduce a human body to carbon ash.
 
 **TS-34 EM-FRAG EMP Grenade ("Bot Popper"):**
-![[equipment_ts34_em_frag.png]]
+![[equipment_TS34_EM_Frag.png|570]]
 Ion grenade generating a micro-EMP designed to fry a bot's operating system. Also affects battery-operated weapons.
 
 **XTP-3 Flashbang ("Ear-Popper" / "Banger"):**
 ![[equipment_xtp3.png]]
+
 Detonates with a blinding flash and a truly deafening boom. Hearing loss is often permanent; the flash can render those at ground zero blind or dazzled for up to five standard minutes.
 
 ---
 
 ## Nation-Level / Heavy Ordnance
 
-![[nation_level_equipment_cnto.png]]
+![[nation_level_equipment_CNTO.png|633]]
 
 **CNTO (Chained Nuclear Trigger Ordinance) — "Trigger Nuke" / "Sin-toe":** The first classified **Total Biome Kill (TBK)** weapon. Once complete, it ignites the nearest hydrogen atoms and chains to the next — completely burning off the atmosphere and glassing everything capable of ever supporting life. **No terraforming is possible afterward.** *See: [[The Savage Wars|Requite Dilemma]]*
 
