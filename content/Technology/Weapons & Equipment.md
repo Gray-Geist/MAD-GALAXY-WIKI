@@ -145,6 +145,7 @@ Same profile as the XEL-9 — fewer exposed parts, reduced profile, larger ammo 
 
 **A6 Biretta (PDW):**
 ![[equipment_a6_biretta.jpg]]
+
 Recoil-operated, magazine-fed. Fires 4.3mm large-caliber caseless rounds. Remarkably large and overpowered for its class — a cross between a pistol and SMG in size. Exceedingly rugged and reliable. *A6H2 variant:* Modernized; black polymer finish; semi-automatic; increased 18-round magazine; increased accuracy; Projection sight for smart link; protective metamaterial coating.
 
 **AC-4 "Grit":** Highly reliable sidearm — *Avalon-Arienai Combine.*
@@ -175,7 +176,7 @@ Primary chem arm of the [[RTAC (Paladins)|RTAC Paladins]]. Magazines deplete fro
 
 ![[equipment_n50a1.png]]
 
-Heavy crew-served 12.7mm chem arm. Staple across the Sector since the early Savage Wars. Fills the anti-vehicle or heavy support role. Requires power armor, tripod, or pintle-mount.
+A heavy crew-served chemical arm that fires 12.7mm ammo, used during the beginning of the Savage Wars, it suffered from the same unreliable effectiveness against Savage armor as its K-16 cousin, but has remained a staple across the Sector. Power armor, tripod or pintle-mounted chem arm. Fills the role of taking on light vehicles or as heavy support.
 
 **N-50A2 ACSW ("Hacksaw"):**
 
@@ -217,15 +218,15 @@ Old but still widely seen chemical rifle. First used by RTAC Paladins during the
 Slag sidearms are rare; the Arktika 27 is the most reliable of them.
 
 **ATAC-7 Slag Rifle:**
-![[equipment_artac7_slag.png]]
+![[equipment_artac-7_slag.png]]
 Standard slagger. Effective range 300m.
 
 **ATAC-8 Long Range Slag Rifle:**
-![[equipment_artac8_slag.png]]
+![[equipment_artac-8_slag.png]]
 Long-range slagger. Effective range 600m.
 
 **Miif-7 Slag Rifle:**
-![[equipment_miif7_slag.png]]
+![[equipment_miif-7_slag.png]]
 Older but reliable. Light enough for sustained combat use. Effective range 200m.
 
 **KA-D12 Advanced Slag Shotgun:**
@@ -272,11 +273,10 @@ Smart chemical arm weapon for CQB — "because you barely have to aim the thing 
 ### Launchers & Miscellaneous
 
 **Aero-Precision "AP" Missile Launcher:**
-![[equipment_ap_missile_launcher.jpg]]
-Man-portable missile launcher capable of damaging or piercing light to medium tanks and mechs. Telescopes to a smaller size when on the move. Capable of auto-targeting, smart-link, and manual targeting. Shoulder-fired. Attacks both ground and air vehicles.
+![[equipment_Aero-Precision -AP- Missile Launcher.jpg]]Man-portable missile launcher capable of damaging or piercing light to medium tanks and mechs. Telescopes to a smaller size when on the move. Capable of auto-targeting, smart-link, and manual targeting. Shoulder-fired. Attacks both ground and air vehicles.
 
 **Auto Defense Turrets:**
-![[equipment_auto_defense_turrets.gif]]
+![[equipment_auto_defense_turrets.gif|398]]
 Automated weapon system responding to motion/threat detectors. Can be set to automatically engage any moving target within a defined range.
 
 **G45A2 Multi-Shot Grenade Launcher (MGSL):**
@@ -284,7 +284,7 @@ Automated weapon system responding to motion/threat detectors. Can be set to aut
 Light squad support weapon (~15 lbs loaded). Fires many grenade types. Smart-linkable with HUD. Two firing modes: single trigger pull = standard impact-detonation with a bounce; hold after firing = alternate fuse that detonates only upon trigger release — useful for indirect fire, setting traps, or as a dead-man's trigger.
 
 **HED-27 Stun Gun:**
-![[equipment_hed27_stun_gun.png]]
+![[equipment_HED-27_Stun_Gun.png]]
 Non-lethal; found throughout the Sector. Effects: Muscle Lock (involuntary contractions; temporary paralysis), Neuromuscular Scramble (overloads nerve signals; loss of coordination and disorientation), Neuro-Spike (disrupts inner ear balance and pain receptors; dizziness, headache, vomiting).
 
 **Light Anti-Armor Weapon (LAW):**
@@ -296,7 +296,7 @@ Fires a small 70mm armor-piercing explosive rocket from disposable magazine tube
 Built with nanomolecular edges deadly against flesh and standard light armor. Self-repair and self-sharpen unless critically damaged.
 
 **Plasma Thrower:**
-![[equipment_pt54_plasma_thrower.png]]
+![[equipment_pt-54_plasma_thrower.png]]
 Incendiary weapon that shoots a stream of ionized gas at the target. Requires oxygen to work — cannot be used in a vacuum.
 
 **Weapons Baton/Whip:**
@@ -320,12 +320,12 @@ Ground-based circular contraption (~10 inches diameter) that adheres to various 
 **FieldSeal Patch:** Thermally activated patch that softens when heated by a portable applicator and rapidly cools to form a durable, flexible seal. Seals compromised armor against corrosive environments and radiation. Does not restore ballistic protection but prevents further degradation.
 
 **ME2 Hand Welder ("Cutting Torch"):**
-![[equipment_me2_hand_welder.png]]
-![[equipment_me2_hand_welder2.jpg]]
+![[equipment_me2_hand_welder.png|373]]
+![[equipment_me2_hand_welder2.jpg|455]]
 Compact handheld welding torch — cutting and welding in the field. Used for sealing electronic doors, constructing barricades, and freeing persons from enerchains.
 
 **Plasma Cutter:**
-![[equipment_plasma_cutter.png]]
+![[equipment_plasma_cutter.png|512]]
 Heavy, two-handed tool firing multiple ionized plasma bolts that combine into a cutting stream capable of slicing through most surfaces. Highly unwieldy but very effective at breaching fortified positions.
 
 ---
@@ -333,19 +333,19 @@ Heavy, two-handed tool firing multiple ionized plasma bolts that combine into a 
 ## Personnel Ordnance
 
 **APER M101 Claymore Mine:**
-![[equipment_aper_m101_claymore.png]]
+![[equipment_aper_m101_claymore.png|521]]
 Small infantry-deployed anti-personnel mine. Three explosive charges in a fan shape; numerous ball bearings that deform into shards on explosion. Effective range 75m; dangerous to 250m. Uses motion detector, forward-facing trip lasers, and IFF detector.
 
 **ATMN-2 Magnetic Anti-Tank Mine ("Tank Toaster"):**
-![[equipment_atmn2_anti_tank.png]]
+![[equipment_atmn-2_anti_tank.png]]
 15 kg. Magnetic — latches onto vehicle armor.
 
 **C5 Blast Brick:**
-![[equipment_c5_brick.png]]
+![[equipment_c5_brick.png|404]]
 High explosive that sticks to surfaces. Detonated remotely.
 
 **CF-24 Cluster Frag Grenade ("Fragger"):**
-![[equipment_cf24_cluster.gif]]
+![[equipment_cf-24_cluster_gif.gif|472]]
 Dual fragmentation grenade. First detonation = standard frag from the main body. Second = 24 clusters creating intense shrapnel that shreds all organic material in the area.
 
 **Det-Cord:** Explosive pressed into long cord coils on reels. Useful for punching holes in non-fortified walls or doors. Only responds to a command keyed specifically to the cord.
@@ -357,15 +357,14 @@ Dual fragmentation grenade. First detonation = standard frag from the main body.
 Engineered from scavenged industrial and military-grade fuel cells. On detonation: unleashes a miniature starburst of superheated plasma that vaporizes nearby infrastructure.
 
 **G-22 Grav Grenade:**
-![[equipment_g22_grav.png]]
-Non-lethal. Creates a gravitational pull via reverse repulsor technology that drags targets inward toward it.
+![[equipment_G-22 Grav Grenade.png]]Non-lethal. Creates a gravitational pull via reverse repulsor technology that drags targets inward toward it.
 
 **H-8 Holographic Grenade:**
-![[equipment_h8_holographic.png]]
+![[equipment_h-8_holographic.png]]
 Deployed "skins" project holographic emitters creating multiple false combatants or small vehicle outlines in the immediate area.
 
 **H-35 & H-37 Lasmore Tactical Mines ("Lasmore mines"):**
-![[equipment_h35_h37_lasmore_tacmines.png]]
+![[equipment_H-35_h-37_lasmore_tacmines.png]]
 Proximity mines that shoot into the air and explode when movement interrupts their active laser sensor beams. Magnetic — capable of sticking to metal surfaces.
 
 **K4 Breaching Charge:**
@@ -373,7 +372,7 @@ Proximity mines that shoot into the air and explode when movement interrupts the
 Highly effective explosive charge for breaching fortified areas.
 
 **M-3B SMAFF Grenade:**
-![[equipment_m3b_smaff.png]]
+![[equipment_M-3b_Smaff.png]]
 Refractive smoke grenades. Foils enemy EM and IR sensors; laser and sensor retardant smoke. Visibility: ~5m. Lasts 50–90 seconds.
 
 **M-9A Seeker Grenade:**
