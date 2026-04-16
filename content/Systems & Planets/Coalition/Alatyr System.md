@@ -29,7 +29,7 @@ Today, Alatyr is a husk. Sot Prime is an irradiated wasteland. Silo Station is a
 
 A Coalition cruiser unknowingly made contact with a Savage recon force. The Savages secretly followed it home. Over the next year they infiltrated population centers, inserted doppelganger agents into vital positions, and released a debilitating virus — all while the agents struck key nodes of security and power. **399 days** after first contact, the Savages emerged from the dark:
 
-- **Silo Station** was destroyed — all 100,000 aboard killed within an hour
+- **Silo Station** was destroyed — all 100,000 aboard killed in less than an hour
 - **Sot Prime** went dark
 
 The Combined Forces advanced to retake the system and swept aside Savage forces who seemed to melt away — until they struck in force at Sot Prime, annihilating the Combined Forces in what became known as the **Disaster at Sot Prime**.
