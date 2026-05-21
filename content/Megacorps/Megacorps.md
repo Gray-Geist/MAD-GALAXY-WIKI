@@ -18,8 +18,9 @@ They are not monolithic villains. They are employers, innovators, suppliers of m
 ### Arms, Security & Military
 | Corporation | Summary |
 |---|---|
-| [[Arienai Corporation]] | The Sector's most feared PMC and weapons manufacturer — a Japanese-rooted conglomerate that buys loyalty, buries enemies, and fights a shadow war with Atheon |
-| [[Atheon Heavy Industries]] | Republic-backed AI and robotics giant; the Sector's premier non-human engineering firm and Arienai's bitter corporate rival |
+| [[Arienai Corporation]] | The Sector's most feared PMC and weapons manufacturer — a Japanese-rooted conglomerate that buys loyalty, buries enemies, and fights a shadow war with Milicron |
+| [[Milicron Heavy Industries]] | Republic-backed AI, robotics, and heavy weapons giant; the Sector's premier non-human engineering firm and Arienai's bitter corporate rival. Primary partner of Kiloforce Systems |
+| [[Kiloforce Systems]] | Specialist autonomous combat platform manufacturer — androids, bots, and integrated weapons systems. Commercial partner of Milicron Heavy Industries |
 | [[Neus Kapitel Group (NKG)]] | Weapons, ships, and PMC forces forged in the Savage Wars; accused of coups, assassinations, and ethnic cleansings — by enemies, they insist |
 
 ### Ships & Vehicles

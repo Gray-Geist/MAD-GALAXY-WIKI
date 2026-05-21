@@ -38,7 +38,7 @@ Interstellar civilization runs on a handful of technologies so fundamental that 
 
 | Entry | Summary |
 |---|---|
-| [[NeuroSyn & Cybernetics]] | The NeuroSyn implant, HoloForm, SAVI, Veracity Suites, and personal terminal devices |
+| [[Display & Interface Technology]] | Terminal devices, HardLight Windows, and the display infrastructure of the Sector |
 | [[Cyberware & Implants]] | The full spectrum of human augmentation — combat OS, stealth implants, fashionware, bioware, and biosculpting |
 
 ## Vehicles & Weapons

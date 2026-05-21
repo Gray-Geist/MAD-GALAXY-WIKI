@@ -101,9 +101,11 @@ tags:
 
 ## Illicit Substances
 
-**'Dorph (Synthetic Endorphin):** Powerful painkiller and combat drug. Reduces pain, stun, and fatigue. Risk: permanent nervous system damage — loss of coordination, reflexes, and dexterity.
+**Amphekain *(“Uncle Cain”)*:** A synthetic stimulant whose formula is now generic and widely available, though that does not mean it's safe. Clears psychological stress entirely and pushes physical and cognitive performance above baseline. The drug compels action; it cannot be sat on. Cardiovascular crash on wear-off. See [[Medical & Trauma Care]].
 
-**Black Lace (Lace):** More powerful military variant of 'Dorph. Euphoria and adrenaline rush. Prolonged use: lost sense of self as human; addicts begin viewing others as weak and inferior.
+**'Dorph *(Synthetic Endorphin)*:** Powerful painkiller and combat drug. Reduces pain, stun, and fatigue. Risk: permanent nervous system damage — loss of coordination, reflexes, and dexterity. See [[Medical & Trauma Care]].
+
+**Redline *("Lace")*:** Military-grade variant of 'Dorph. Euphoria and adrenaline rush. Prolonged use: lost sense of self as human; addicts begin viewing others as weak and inferior. See [[Medical & Trauma Care]].
 
 **Synthcoke:** Highly addictive stimulant. Euphoric high, heightened senses, clarity. A favorite among corpos.
 
@@ -113,15 +115,13 @@ tags:
 
 **Black Lotus:** Made from narcotic leaves. The smell is always uniquely attractive to the user — sweet, citrus, or fruity.
 
-**Complidon:** "Compliance in a syringe." A mind-control drug effective on those of weak will or untrained to resist it. See [[Medical & Trauma Care]].
+**Complidon:** Known as "compliance in a syringe" — a banned interrogation drug used to break down resistance and destroy short-term memory. See [[Medical & Trauma Care]].
 
-**Psychatrex:** Nullifies empathic traces and telepathic influences. Developed to deal with Savage post-human tech discovered at Base 88.
+**Gilamine:** A powerful narcotic derived from the resin of the gilam plant. Smoked, dissolved, or pressed into tabs. Produces a dissociative euphoria — users describe the sensation as existing slightly outside their own body, watching events with warm detachment. The come-down is punishing: hours of grey exhaustion and emotional flatness that drives most users straight back to the next dose. Widely distributed on the black market; cheap enough that it has eaten entire districts in frontier settlements.
 
-**Androx:** Relieves muscular strain, pain, and tension. Delivered by injection.
+**Ganjir:** A mild narcotic derived from native plant species found across multiple colonized systems. The fruiting body is ground into paste, smoked, or brewed as tea depending on local tradition. Reduces stress and produces a state of relaxed detachment. Easy to cultivate — hydroponics setups on even modest colony ships can sustain a supply. Illegal across most of the Sector, common everywhere regardless. One of the oldest substances in continuous circulation.
 
-**Combat Drugs:** Designer drugs created to increase speed, stamina, and reflexes.
-
-**Gilamine:** Powerful narcotic.
+**Illegal Opioids:** A catch-all designation for the homebrewed synthetic opioid compounds that circulate through the Sector's grey and black markets. Cancels panic responses and dramatically blunts psychological stress — cheap, effective, and utterly unreliable in composition. The batch you buy today is not the batch you bought last week. Dependency forms fast. The only consistent fact about Illegal Opioids is that you never really know what you're buying.
 
 ---
 

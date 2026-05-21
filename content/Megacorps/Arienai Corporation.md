@@ -29,7 +29,7 @@ Arienai has a dark reputation — a corporation to be feared, one that covers it
 A Japanese-originated conglomerate, Arienai has made a habit of buying up other companies, bleeding out competition, and using legally gray but cutthroat tactics to get footholds in difficult markets. They also give a heavy amount of support to Arienai-originated colonies or communities all over the Sector, despite their business practices and overall history being considered unethical.
 
 The corporation has many enemies, who range from:
-- Corporations that compete directly with the company or have clashed with it (such as the proxy-wars fought against **[[Atheon Heavy Industries]]**, their primary corporate rival)
+- Corporations that compete directly with the company or have clashed with it (such as the proxy-wars fought against **[[Milicron Heavy Industries]]**, their primary corporate rival)
 - Powerful individuals who suspect that their blackmailers have some relation to Arienai
 - Law enforcement officers from across the Sector who suspect the extent of the illegal operations of Arienai
 
@@ -37,7 +37,7 @@ The corporation has many enemies, who range from:
 
 ## Corporate Rivalry
 
-Arienai and [[Atheon Heavy Industries]] are the two largest paramilitary corporations in the Sector and have been rivals for many years. Through mutual sabotage and clandestine black operations, tensions have escalated into an **open corporate proxy war**.
+Arienai and [[Milicron Heavy Industries]] are the two largest paramilitary corporations in the Sector and have been rivals for many years. Through mutual sabotage and clandestine black operations, tensions have escalated into an **open corporate proxy war**.
 
 ---
 
@@ -48,7 +48,7 @@ Arienai and [[Atheon Heavy Industries]] are the two largest paramilitary corpora
 ---
 
 ## Related Pages
-- [[Atheon Heavy Industries]]
+- [[Milicron Heavy Industries]]
 - [[Neus Kapitel Group (NKG)]]
 - [[Ryūgū System]] *(colonial acquisition)*
 - [[Arienai Caseless — In-Universe Advertisement]]

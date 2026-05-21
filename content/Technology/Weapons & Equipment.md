@@ -306,7 +306,18 @@ Incendiary weapon that shoots a stream of ionized gas at the target. Requires ox
 
 **Weapons Baton/Whip:**
 ![[equipment_weapon_baton_types.png]]
-Very common weapon type found throughout the Sector. Effects: Muscle Lock, Shockwave Disruptor (concussive pulse; knocks the wind out), Neuromuscular Scramble, Neuro-Spike, Agonizer (overstimulates pain receptors).
+
+Very common weapon type, with various effects, found throughout the Sector. Some are collapsible. Also, more rare, are whips with the various effects. Various effects:
+
+- **Muscle Lock**: Induces involuntary muscle contractions, temporarily paralyzing the target without causing permanent damage.
+
+- **Shockwave Disruptor:** Emits a concussive pulse upon impact, knocking the wind out of the target and disrupting their balance
+
+- **Neuromuscular Scramble**: Overloads nerve signals, causing temporary loss of limb coordination and disorientation.
+
+- **Neuro-Spike**: Induces dizziness, headache, and vomiting upon contact by disrupting the target’s inner ear balance and pain receptors.
+
+- **Agonizer:** Overstimulates pain receptors, making the skin feel like it’s on fire without causing actual burns.
 
 ---
 
@@ -384,8 +395,8 @@ Highly effective explosive charge for breaching fortified areas.
 ![[equipment_M-3b_Smaff.png]]
 Refractive smoke grenades. Foils enemy EM and IR sensors; laser and sensor retardant smoke. Visibility: ~5m. Lasts 50–90 seconds.
 
-**M-9A Seeker Grenade:**
-![[equipment_m9a_seeker.png]]
+**OV-1 "Seeker" Autonomous Pursuit Grenade:**
+![[equipment_OV-1 Seeker Grenade.png]]
 
 Small deployable robot that seeks out enemies and self-destructs.
 

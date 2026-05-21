@@ -1,7 +1,8 @@
 # MAD GALAXY
 
 ![[mad_galaxy_banner.png]]
-![[MAD GALAXY Timeline.jpg]]
+![[mad_galaxy_timeline.jpg]]
+
 
 ---
 
@@ -52,3 +53,15 @@
 ---
 
 *This wiki is a living document. Content expands as the Codex is migrated.*
+# Navigate the Codex
+
+
+---
+
+## 🎲 TTRPG & Foundry VTT
+
+> **ALIEN RPG (Foundry world: `mad-galaxy-2`)** is the active system for running MAD GALAXY campaigns.
+> All module content has been converted to Evolved Edition (EE) rules.
+> Full technical reference — export scripts, conversion macros, field paths, conversion history, and next steps:
+> **→ `private/ARPG-Reference/PROJECT_REFERENCE.md`**
+> Read this file at the start of any conversation involving ARPG mechanics, Foundry data, or item/weapon integration.
