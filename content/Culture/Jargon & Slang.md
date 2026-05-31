@@ -287,6 +287,6 @@ Feth · Kark · Kell / Kellhorn · Sket · Stages Blazes
 
 ## Related Pages
 - [[NeuroSyn & Cybernetics]]
-- [[Netrunning]]
+- [[NetOps]]
 - [[Weapons & Equipment]]
 - [[HOME|← Back to Home]]

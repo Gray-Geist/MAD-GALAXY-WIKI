@@ -32,7 +32,7 @@ Interstellar civilization runs on a handful of technologies so fundamental that 
 | Entry | Summary |
 |---|---|
 | [[Communications]] | C-Boats, the Extranet buoy network, and Quantum Entanglement Communicators — how a galaxy of two hundred billion people stays connected |
-| [[Netrunning]] | Hacking tiers, cyberspace architecture, ICE, and the practitioners who slip between data fortresses |
+| [[NetOps]] | Hacking tiers, cyberspace architecture, ICE, and the practitioners who slip between data fortresses |
 
 ## Human Augmentation
 
@@ -43,12 +43,13 @@ Interstellar civilization runs on a handful of technologies so fundamental that 
 
 ## Vehicles & Weapons
 
-| Entry | Summary |
-|---|---|
-| [[Spacecraft & Naval Doctrine]] | Ship classes, propulsion, weapons systems, and the doctrines that govern void warfare |
-| [[Vehicles, Bots & Mechs]] | Ground vehicles, automated platforms, and the mechs that define modern ground combat |
-| [[Transportation]] | Ground vehicles, maglev systems, and hover technology for everyday travel |
-| [[Weapons & Equipment]] | Arms, armor, ordnance, grenades, and field gear carried by soldiers and mercenaries across the Sector |
+| Entry                           | Summary                                                                                                        |
+| ------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| [[Spacecraft & Naval Doctrine]] | Ship classes, propulsion, weapons systems, and the doctrines that govern void warfare                          |
+| [[Vehicles, Bots & Mechs]]      | Ground vehicles, automated platforms, and the mechs that define modern ground combat                           |
+| [[Transportation]]              | Ground vehicles, maglev systems, and hover technology for everyday travel                                      |
+| [[Weapons & Equipment]]         | Arms, ordnance, grenades, and field gear carried by soldiers and mercenaries across the Sector                 |
+| [[Armor]]                       | Personal armor, battle dress, and ACPA — what soldiers, contractors, and operators wear and what it costs them |
 
 ## Medicine
 

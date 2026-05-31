@@ -28,7 +28,7 @@ Mechs integrate the pilot as a **symbiotic core** within hulks like the Arkadien
 
 This **"Merge"** amplifies response curves — but exacts tolls. Neural feedback loops imprint phantom loads, leaving pilots with oil-tanged vertigo long after egress.
 
-> *Scientists have found that females excel in utilizing the neural spine most effectively, leading to a non-trivial advantage when operating a mech — similar to the advantage found in [[Netrunning]].*
+> *Scientists have found that females excel in utilizing the neural spine most effectively, leading to a non-trivial advantage when operating a mech — similar to the advantage found in [[NetOps]].*
 
 **EMP Resilience:** Unlike bots, mechs employ **bio-shielded cores** — neural dampers woven with Faraday lattices that shunt surges through the pilot's wetware. The human nervous system's inherent redundancy acts as a biological buffer, grounding and redistributing the overload. This hybrid filtration is viable only in piloted systems; without the organic pilot's adaptive bioelectric field, the lattices destabilize, risking catastrophic feedback in purely automated frames.
 
@@ -79,5 +79,5 @@ This **"Merge"** amplifies response curves — but exacts tolls. Neural feedback
 ## Related Pages
 - [[Spacecraft & Naval Doctrine]]
 - [[Weapons & Equipment]]
-- [[Netrunning]]
+- [[NetOps]]
 - [[HOME|← Back to Home]]

@@ -10,6 +10,8 @@ tags:
 
 ![[cyberware_medical_items_Medkit.png]]
 
+> **Availability Codes:** Every pharmaceutical, medical item, and augmentation in this section carries an AV code indicating where and how it can be acquired. See [[Availability Codes]] for the full reference.
+
 ---
 
 ## Overview
@@ -26,6 +28,9 @@ A kill-switch drug. Single injection; no delay, no recovery. Developed by Novose
 ### Adrenaclean
 A stimulant and cardiac emergency drug. Cuts through insomnia, muscular weakness, and the bone-deep lethargy that follows trauma or sustained action — keeping soldiers functional through a stretch when their body is screaming to stop. At sufficient doses, it can shock a person out of cardiac arrest and briefly restore enough function to act. Seizure and chest pain are real risks; the drug doesn't care how bad your day already is.
 
+### Albendamectin
+A common antiparasitic pharmaceutical. Significantly reduces the virulence of parasite-type infections — standard treatment when tapeworms, flukes, or similar organisms have established in a patient. The side-effect profile is unpleasant: visual disturbances, severe constipation, and in worst-case dosing, acute liver failure. Not a drug you take casually. Found across most pharmacy networks without restriction; parasitic disease is common enough on frontier worlds and mining installations that demand is consistent.
+
 ### Amphekain *(“Uncle Cain”)*
 A synthetic stimulant whose formula is now generic and widely available, though that does not mean it's safe as it has a reputation that precedes it. Clears psychological stress entirely and pushes physical and cognitive performance above baseline — users operate faster, hit harder, and think sharper. The drug compels action; it cannot be sat on. When it wears off, the cardiovascular system presents the bill. Fully synthetic. It is said that no higher office could function without “Uncle Cain,” and the saying has been in circulation long enough that most people have stopped finding it funny. See [[Food, Drink & Substances]].
 
@@ -34,6 +39,9 @@ Stops the bleed and buys minutes. Applied to wounds to immediately seal and begi
 
 ### Androx
 A drug that relieves muscular strain, pain, and tension. Delivered by injection.
+
+### Antibuzz
+A pharmaceutical addiction-management drug. Suppresses the compulsion and withdrawal response of Alcoholism for a full day — used in rehabilitation programs, operational settings where a soldier needs to function despite dependency, and anywhere the bottle has become a liability before command noticed. Not a cure. Takes the edge off so the rest of the work can happen. If the patient drinks while the drug is active, vomiting and dizziness follow — the body's response to a system that's been told to stop wanting something it still wants.
 
 ### Azimetamol
 A common antipyretic. Reduces fever and manages heat-related systemic stress. Found in every field kit and pharmacy in the Sector. Famously dangerous in overdose — the margin between therapeutic and lethal dose is narrow enough that military medical doctrine strictly governs dispensing. Widely considered the most dangerous "common" drug in circulation.
@@ -50,11 +58,17 @@ In the field, an auto-doc or ripperdoc slices you open just enough to slap the s
 ### Bone Jack
 A bone growth stimulant. Floods the fracture site with directed osteogenic signals, compressing weeks of natural healing into days. Cheap enough to be common; effective enough that military surgeons carry it as standard. The name has puzzled medical professionals since its introduction. The manufacturer has never explained it. Side effects at full dose: fever spike and temporary blindness — both considered acceptable trade-offs by anyone who's tried to operate on a broken leg in the field.
 
+### Bliskonazol
+An antifungal pharmaceutical targeting fungal-type infections. Moderately effective virulence suppressor — not the strongest option in the class, but widely available and cheap enough for broad use across colonial and frontier medical networks. The significant hazard: Bliskonazol blocks the liver's elimination of other drugs taken in the same window. Any other chemical pharmaceutical administered alongside it hits harder, with all side effects firing. Medics who know what they're doing account for this. Medics who don't find out quickly.
+
 ### Brimobital *(aka "Bounce Back")*
 Medical inhaler or intravenous nanobot delivery system. Street name: **Bounce Back**. Nanobot-based; powered by the body's thermal energy. Closes wounds, restores function, pulls a soldier back from the edge. Side effect: extreme hunger — the nanobots run on the body's thermal energy and the body has to eat to compensate. Originally developed by Novoset Continuum; now widely available through military surplus and field medical channels.
 
 ### Complidon *(aka NX34)*
 Also designated **NX34** in military procurement records. Known as "Compliance in a syringe" — breaks down the mind and induces cognitive "malfunction." Destroys short-term memory for up to 48 hours before and after usage. Side effects: dangerously increased heart rate (often leading to cardiac arrest or stroke) and the feeling of being immersed in fire, causing extreme twitching. Counter-vaccines exist. **Banned substance in most star nations.** See [[Food, Drink & Substances]] and [[Medical & Trauma Care#Field Interrogation Kit|Field Interrogation Kit]].
+
+### Deltametason
+A broad-spectrum anti-inflammatory. Suppresses itching, nausea, pulmonary stress, and systemic weakness — the constellation of symptoms that turns a manageable infection into something that takes a soldier out of the fight. Common enough to find in most pharmacy networks. The downside is immune suppression — the body's inflammatory response exists for a reason, and turning it down opens the door to secondary infection. Medical doctrine calls for short-course use only.
 
 ### 'Dorph *(Synthetic Endorphin)*
 See [[Food, Drink & Substances]]. Powerful painkiller and combat drug. Reduces pain, stress, and fatigue; produces a "second wind" rush. Risk of permanent nerve damage — permanent loss of coordination, reflexes, and dexterity.
@@ -71,13 +85,28 @@ The most common painkiller in the Sector. It's in belt pouches, suit pockets, an
 ### Ferudocin
 A Novoset Continuum combat stimulant that has never left controlled testing. Distribution is exclusively internal — no commercial channels, no military surplus, no black market supply. The compound produces extreme performance enhancement, but clinical trials have documented catastrophic cardiac events at unpredictable thresholds. Rumors circulate in the right circles about test cohorts that turned on each other before the trials could be terminated. Novoset has neither confirmed nor denied the accounts. Still listed as “in clinical testing phase.” Whether that classification is honest or convenient depends on who you ask.
 
+### Fusivudin
+A potent antiviral pharmaceutical. Among the most aggressive virulence suppressors in the chemical pharma class for viral-type diseases — significantly more effective than front-line options like Zenoprovir, and priced accordingly. Cardiac arrest is a documented first-dose risk, which means its use is almost always supervised in medical settings. Found in trauma bays and specialist pharmacies rather than field kits. Expensive; rare on frontier worlds. When the infection profile is severe enough to warrant it, nothing else in the class comes close.
+
 ### Helixir
 One of the few pharmaceuticals capable of reversing permanent cellular damage from radiation exposure. Each dose repairs a discrete layer of the injury — restoring function at the cellular level through injected repair agents that rebuild what the radiation burned out. The process is dose-dependent and expensive. Side effects include spiking fever and temporary blindness. Found primarily near high-radiation environments: reactor crews, deep salvage operators, the occasionally irradiated infantry unit that went somewhere it shouldn't have.
+
+### Hydr8tion
+An electrolyte solution developed specifically to counter hypersleep dehydration. Waking from cryo is a dry, disorienting process — the body loses significant fluid during stasis and the symptoms hit hard: cramps, cognitive fog, and the kind of thirst that makes the first ten minutes post-wake a misery. Hydr8tion corrects this quickly. Found in virtually every crewed vessel, station, and installation that runs cryogenic systems. Cheap, effective, and about as medically interesting as it sounds.
+
+### Hyperglobin
+A pharmaceutical treatment for Immune Suppression — used when disease or other medical intervention has compromised the body's defensive response. Restores immune function for a full day, buying time for the underlying cause to be addressed. Side effects include chest pain and systemic weakness — the drug shifts resources toward immune function and the rest of the body notices. Found in established medical facilities rather than field kits; most frontline medics don't carry it because the conditions requiring it usually require more than a single drug.
 
 ### Kyberolimus *(aka "Immunoblockers")*
 The dominant brand name in the immunosuppressant pharmaceutical class used to manage cybernetic implant rejection. Developed by [[BioMega]] post-Savage Wars. Uses targeted nano-inhibitors that selectively bind to T-cell receptors, creating a "shield" around new implants while leaving the rest of the immune system functional. Standard dose via auto-injector or dermal patch lasts roughly two to three days.
 
-**Overuse leads to "chrome rot"** — chronic immune fatigue where even minor wounds fester unchecked. Side effects: heightened vulnerability to viral agents, neural fog, and rare "rebound flares" where the immune system overcompensates and attacks the user's own tissues.
+**Overuse leads to implant fatigue** — chronic immune exhaustion where even minor wounds fester unchecked. Side effects: heightened vulnerability to viral agents, neural fog, and rare "rebound flares" where the immune system overcompensates and attacks the user's own tissues.
+
+### Levonafin
+A stronger antifungal than Bliskonazol — the second-line option when a fungal infection has established past what first-tier treatment can handle. Significantly reduces virulence. Side effects are serious: chest pain and the risk of kidney failure at standard dose. Found in specialist pharmacy and trauma bay inventories. Expensive relative to Bliskonazol; usually worth it.
+
+### Loratalin
+A pharmaceutical that suppresses Phobia — the trauma response that locks a person down in the presence of a specific trigger. Effective for one day per dose; used in operational psychiatry to keep personnel functional when their history is actively interfering. The suppression is chemical, not therapeutic — the phobia is still there, just not firing. Side effect: visual disturbances on roughly one in six doses.
 
 ### Memnonanites
 Injectable nanobots programmed to modify neural networks — erasing or altering specific memories on demand. Each dose requires individual programming by a specialist with dedicated equipment before administration. The applications are obvious and the implications are worse. Used in high-level intelligence operations, coercive interrogation, and by anyone wealthy enough to afford selective forgetting. Extraordinarily expensive. So restricted that most people who encounter Memnonanites never know it — which is, of course, the point.
@@ -95,17 +124,32 @@ A powerful anxiolytic and panic suppressant. Cancels acute panic responses and d
 ### Multi-VAC
 A tailored vaccine system. Each dose is biofabricated to target a specific diagnosed pathogen — antibodies and artificial lymphocytes matched to the disease profile on demand. Highly effective against manageable infections; against particularly aggressive or exotic pathogens, the immune system simply cannot be primed fast enough to matter. Cost scales directly with how dangerous the target disease is. Rare and expensive to source outside well-supplied medical channels.
 
+### Naprobind
+A pharmaceutical antidote to Naproleve overdose. When too much Naproleve has knocked Agility below functional level, Naprobind restores it — at the cost of spiking psychological stress and a real risk of blood clot. A very specific use case with a very specific risk profile; medics who know what they're doing keep it in the kit whenever Naproleve is being used in high-dose scenarios.
+
 ### Naproleve
 A stress-nullifying sedative. Drops psychological load to zero — used when a subject's mental state has gone critical and standard anxiolytics aren't cutting it. Effective. The second dose is where the body starts pushing back: cardiovascular stress and motor impairment emerge fast, and they can't be managed out of existence. This is a one-shot rescue drug, not a maintenance tool.
 
 ### Neobarbital
 An anticonvulsant. When neurological trauma or toxin exposure sends the body into uncontrolled convulsive episodes, Neobarbital stops it. Sedation and motor impairment are the trade — acceptable when the alternative is seizing yourself to death. Less common in field kits than in trauma bays; most medics carry it, most soldiers don't.
 
+### Neoxone
+A combat performance enhancer. Sharpens perception, accelerates physical response, and tightens combat effectiveness across the board — observation, reaction, movement, and targeting all improve simultaneously. Originally developed by Novoset Continuum; now widely available through military surplus and specialist channels. The drawbacks emerge after the stretch ends and don't let go easily. Common enough that well-equipped irregular forces carry it alongside standard military units.
+
+### NeuroAID
+A neural tissue repair agent. Addresses concussive damage and restores cognitive function degraded by alcohol exposure — a surprisingly common application given how soldiers and spacers manage their downtime. Anxiety is the consistent side effect. Found in most medical facilities; cheap enough to be widely stocked.
+
 ### Neversleep Pills
 A wakefulness agent. Eliminates the need for sleep for approximately one day per dose. Standard military issue during extended operations, siege situations, and long exfiltrations where sleep is a liability. Each dose carries a stress cost — the body is being denied something it requires, and the chemistry knows it. Extended use without rest causes cardiovascular and cognitive degradation. Every soldier who has been on a 72-hour push has taken them.
 
-### Neoxone
-A combat performance enhancer. Sharpens perception, accelerates physical response, and tightens combat effectiveness across the board — observation, reaction, movement, and targeting all improve simultaneously. Originally developed by Novoset Continuum; now widely available through military surplus and specialist channels. The drawbacks emerge after the stretch ends and don't let go easily. Common enough that well-equipped irregular forces carry it alongside standard military units.
+### Nu-Blood
+A universal synthetic blood substitute. Restores blood volume without requiring matched donor blood — critical in field surgery and emergency trauma care where type-matched blood is unavailable. Immune suppression is the documented side effect, which matters in environments where the patient is already fighting infection. Standard trauma bay stock on vessels and installations operating far from core-world supply chains.
+
+### Ocuresto
+A biological pharmaceutical that suppresses the Blindness symptom for a full week. Developed under military contract; civilian distribution is restricted to specialist clinics and rarely encountered outside core-world medical facilities. Side effects include visual disturbances and immune suppression, both of which complicate the treatment of the condition it's addressing.
+
+### Otoresto
+A biological pharmaceutical that suppresses the Deafness symptom for a full week. Same development lineage as Ocuresto — military contract, specialist clinic distribution, effectively unavailable outside established medical infrastructure. Side effects include headache and immune suppression. Used in the same clinical contexts as Ocuresto: Deafness as a disease symptom or trauma response, not structural hearing loss that requires surgery.
 
 ### Parallax
 Administered via hypo-needle. Immobilizes all physical function while leaving sensory, cognitive, and verbal capacity intact — the subject perceives everything. **Banned substance in most star nations.** See [[Medical & Trauma Care#Field Interrogation Kit|Field Interrogation Kit]].
@@ -116,29 +160,56 @@ A broad-spectrum antibiotic. Reduces the virulence of bacterial infections — s
 ### Perfloxacin
 A second-generation antibiotic — significantly more aggressive than Pentacillin. Used when first-line antibiotics haven't touched the infection, or when the virulence profile demands a harder response from the start. Improper dosing carries a real risk of partial paralysis — loss of use of a limb, not just discomfort. Prescription-controlled on most worlds; standard military issue on others.
 
+### Promethalin
+A common anti-nausea pharmaceutical. Suppresses nausea for one stretch — the kind of baseline physiological misery that turns a functional person into a liability. Cheap, widely available, and carried in most field kits as a matter of course. Third dose in a day causes constipation, which trades one problem for a different one.
+
 ### Propofluran
 A fast-acting sedative and anaesthetic. Renders the subject comatose within seconds. Standard surgical anaesthetic at sanctioned doses; at higher doses, used as the final component of the Field Interrogation Kit to erase a subject's conscious experience of an interrogation session. See [[Medical & Trauma Care#Field Interrogation Kit|Field Interrogation Kit]].
 
 ### Psychatrex
 A drug that nullifies empathic traces and telepathic influences. Developed in the mid Savage Wars era to counter Savage post-human tech discovered during high-risk raids.
 
+### Rapixa
+A pharmaceutical that suppresses the Blood Clot symptom for one day. When clot formation has become the active threat rather than the injury that caused it, Rapixa breaks the cascade — at the cost of hemorrhage risk and systemic weakness. A specialist tool in emergency medicine rather than standard field issue; the conditions requiring it usually indicate serious systemic compromise.
+
 ### Redline *(aka "Lace")*
 Military-grade variant of 'Dorph. Engineered for combat performance rather than pain management — produces simultaneous euphoria and adrenaline surge. Prolonged use erodes empathy and self-identity; addicts begin viewing others as weak and inferior. Black market only. See [[Food, Drink & Substances]].
+
+### Seritryptilin
+A pharmaceutical that suppresses Depression — the trauma response that drains motivation, function, and capacity to act. Effective for one day per dose; used in operational psychiatry to keep personnel functional when their psychological history is interfering with mission. The suppression is chemical maintenance, not treatment. Side effect: hemorrhage risk on roughly one in six doses.
 
 ### Somatopoetix
 A critical injury accelerant. Biochemically primed somatopoetic stem cells suspended in nutrient solution — injected, they migrate to sites of major trauma and compress healing timelines across the board. The body's repair processes run at a pace it was never designed to sustain. Side effects are consistent and unpleasant: aggression, systemic boiling sensation under the skin, and disorientation. Most patients describe the recovery period as worse than the injury. Restricted; expensive.
 
+### Somatozumab
+A pharmaceutical treatment for Boils or Lesions — the skin symptom that marks severe systemic disease and makes social interaction mechanically harder. Suppresses the symptom for one day, buying time for underlying treatment. Side effects include nausea and vomiting. Found in established medical facilities; not a standard field kit item.
+
 ### Stim Kick
 A terminal performance drug. Restores all physical function, suppresses every active symptom, and grants a surge of raw strength — for one stretch the user operates at a level the body was never designed to sustain. When the stretch ends, cardiac arrest follows. Automatically. Without exception. Stim Kick is not a treatment. It is a calculation: one shift of absolute performance against a death roll on the other side. Used when the alternative is dying anyway. Experimental cocktail of stimulants and xenobioticals — not approved, not manufactured by any named corporation, found only through channels that don't ask questions.
 
+### Talciprazol
+An antacid pharmaceutical that suppresses Peptic Ulcer — the stomach symptom that makes eating dangerous and sleeping difficult. Effective for one stretch. The catch: while Talciprazol is active, every other chemical pharmaceutical administered in the same window requires an additional medical success to take effect, because the drug interferes with gastric absorption pathways. Medics plan around it rather than reach for it casually.
+
 ### Tantadict
 An addiction reversal agent. A complex mixture of monoamine-receptor modulators that forcefully rewires the mesolimbic reward pathways — dismantling chemical dependency at the neurological root. The process is not gentle; the drug restructures the architecture of want itself. What replaces the addiction is not freedom — the compulsion transfers, attaching to a new object as a phobia rather than a craving. Patients emerge clean but not unchanged. No physical side effects. Tightly controlled; used in military rehabilitation and black-site psychological reconditioning alike.
+
+### Termitrin
+A common antiparasitic — weaker than Albendamectin but cheaper and with a less severe side-effect profile. First-line treatment when the infection is early or the severity is manageable. Side effect is fever, which is the body clearing what the drug killed. Standard issue in colonial and frontier medical kits where parasitic exposure is routine.
+
+### Thrombogan
+A pharmaceutical that suppresses the Hemorrhage symptom for one day — used when internal bleeding has become the primary threat rather than its cause. Stops the cascade temporarily, but the side effects are serious: blood clot risk and chest pain. A calculated trade-off in emergency medicine. Found in trauma bays rather than field kits.
 
 ### Traumanyl
 A combined anxiolytic and pain suppressant — more aggressive than Morphocodon. Cancels panic and drives psychological stress to zero in a single dose. The drug of choice when a patient is simultaneously falling apart physically and mentally and there's no time for half-measures. Dependency forms fast. Soldiers who've needed Traumanyl more than once tend to need it again.
 
 ### Ultramycin
 A high-grade antibiotic of last resort. The most powerful bacterial virulence suppressor in common military circulation — used when standard antibiotics have failed and infection has reached systemic severity. Side effects include deafness and gastrointestinal hemorrhage, even with careful administration. Expensive and restricted; found primarily in well-supplied military med-bays rather than field kits.
+
+### Vitagon
+A pharmaceutical that suppresses Weakness and Wasting for one day — the pair of symptoms that leave a patient unable to carry their own weight and burning through food and water reserves simultaneously. Addresses functional collapse rather than its cause. Side effects include nausea and constipation. Found in most medical facilities; commonly stocked wherever disease management is part of the operational brief.
+
+### Zenoprovir
+A standard antiviral pharmaceutical. Reduces the virulence of viral-type infections at a moderate level — first-line treatment for most manageable viral disease. Side effect is fatigue. Widely available; found in most pharmacy networks without restriction. The go-to when the infection profile is viral and Fusivudin is not warranted.
 
 ### Zerozepam
 A sleep and anxiety management drug. Suppresses nightmares and keeps the anxiety manageable — used in post-trauma care and the long, grinding management of veterans whose heads never fully came home. Effective enough that the addiction risk gets ignored until it doesn't. The military mental health system runs partly on Zerozepam and partly on the hope that nobody asks too many questions.
@@ -222,7 +293,7 @@ Renders the subject comatose. Administered last — erases the subject's conscio
 Simple long-bone fractures rarely rate a tank — splints and mesh do the job — but when the skeleton's a bag of gravel or the spine's compromised, the tank is the only reason some troopers walk again. Come out tasting coolant for weeks and flinching at the smell of lothranium. Stay too long and float psychosis sets in — troopers have tried to open the hatch and breathe vacuum because the voices told them to.
 
 ### 6 — Cyber Integration & Rejection Management
-New chrome going in hot? **Kyberolimus ("Cy-Sups")** for roughly two to three days while the body decides if it's going to murder the implant, live with it, or just kill you. Overuse and you get chrome rot — wounds fester, station flu turns lethal, and one day a paper cut kills you. That's the price.
+New augmentation going in hot? **Kyberolimus ("Cy-Sups")** for roughly two to three days while the body decides if it's going to murder the implant, live with it, or just kill you. Overuse and you get implant fatigue — wounds fester, station flu turns lethal, and one day a paper cut kills you. That's the price.
 
 ---
 

@@ -72,6 +72,6 @@ HardLight requires consistent power and a clean emitter array. Damaged or underp
 
 ## Related Pages
 - [[Cyberware & Implants]]
-- [[Netrunning]]
+- [[NetOps]]
 - [[Communications]]
 - [[HOME|← Back to Home]]
