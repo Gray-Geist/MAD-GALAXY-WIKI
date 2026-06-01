@@ -751,14 +751,6 @@ Standard mechanical restraint. No electronic components — not hackable, not af
 
 **Aegis Sealant:** State-of-the-art shape-memory nano-polymers conforming to the irregular contours of damaged composite armor. Seals out environmental hazards and restores some ballistic protection.
 
-**Enerchains:**
-![[equipment_enerchains.png]]
-Begin as wrapped-up coils; snake out and wrap around a target to immobilize them. Can also be set to handcuff mode if the target needs to remain mobile.
-
-**Enerchain Anchors:**
-![[equipment_enerchains_anchor.png]]
-Ground-based circular contraption (~10 inches diameter) that adheres to various surfaces and creates an anchor point for enerchains. Selectable distance settings from 0–5 meters.
-
 **FieldSeal Patch:** Thermally activated patch that softens when heated by a portable applicator and rapidly cools to form a durable, flexible seal. Seals compromised armor against corrosive environments and radiation. Does not restore ballistic protection but prevents further degradation.
 
 **ME2 Hand Welder ("Cutting Torch"):**
