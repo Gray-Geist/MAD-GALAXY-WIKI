@@ -103,7 +103,7 @@ After the Savage Wars' refinements, the majority of chemical arms across the Sec
 
 **Inquisitor Drone:**
 
-![[Assets/Technology/drone_inquisitor.png|217]]
+![[Assets/Technology/drone_Inquisitor.png|217]]
 
 Though there are many types, the idea is the same — a swarm of drones, each the size of a horse fly, capable of delivering lethal or non-lethal payloads on a target.
 
@@ -488,7 +488,6 @@ Single-stage ALIM semi-automatic anti-materiel platform. Three-component logisti
 
 **MX80 Chemrail Auto Rifle:**
 ![[Assets/Technology/Weapons/MX80 Chemrail Auto Rifle.png]]
-
 Dual-stage ALIM heavy rifle. Wall Penetration — attacks ignore Full Cover from barriers with Armor Level 2 or lower; targets behind count as Partial Cover only. Overpressure — strong hits cause the target to lose their next Quick Action on a failed STAMINA roll. TacLink SAT-FI targeting scope for extended range bonus. Milicron manufacture. A weapon of overwhelming violence, engineered to the highest standard. Everything it hits through a wall, it doesn't warn first.
 
 **N-42 Light Machine Gun:**
@@ -601,16 +600,14 @@ Weakest output and shortest range of the Trinity line, but with reduced heat sig
 
 **Miif-7 Slag Rifle:**
 ![[Assets/Technology/Weapons/Miif-7 Slag Rifle.png]]
-
 Mid Savage Wars-era platform, built with the lessons of the ATAC line absorbed. Lighter than the ATAC-8, shorter-ranged, and more consistently functional in adverse conditions than either predecessor. High reliability — malfunction-resistant under field stress. The soldiers who carried it during the wars didn't stop carrying it afterward. Milicron manufacture.
 
 **RMR ELO Light Slag Pistol:**
-![[Assets/Technology/Weapons/RMR ELO Light Slag Pistol.jpg]]
-
+![[Assets/Technology/Weapons/RMR ELO Light Slag Pistol.jpg|608]]
 Lightest slag sidearm in the RMR line — single-shot commitment per trigger pull. Trades the Arktika 27's raw reliability for a more refined form factor and slightly higher accuracy at close range. For operators who want slag capability without the weight of a longarm, this is as small as the category gets.
 
 **RMR-82A Advanced Slag Rifle:**
-![[Assets/Technology/Weapons/RMR-82A Advanced Slag Rifle.jpg]]
+![[Assets/Technology/Weapons/RMR-82A Advanced Slag Rifle.jpg|590]]
 
 The only slagger in this category with full-auto capability. Selective-fire with high-capacity battery system — capable of accurate and sustained fire. More modern and stable than the early ATAC platforms. Operators who go cyclic on the RMR-82A will feel the heat signature before the enemy does.
 
@@ -694,12 +691,13 @@ Lock-On Acquisition anti-armor launcher — locked shots cannot be dodged; dumb-
 ### 10A — Fragmentation, High-Explosive & Gas
 
 **M-3B SMAFF (Signal-Masking Autonomous Frequency Filter):**
-![[Assets/Technology/Weapons/M-3B SMAFF Grenade.png|468]]
+![[Assets/Technology/Weapons/M-3B SMAFF Grenade.png|437]]
 
 Refractive smoke grenade that blinds enemy sensors and cuts electronic communications within its cloud. Standard issue across Republic and allied infantry — the go-to countermeasure when the enemy's eyes are electronic. Named for the filtering system that makes it work; called something shorter by everyone who carries it.
 
 **XTP-3 "Ear-Popper" Flashbang:**
-![[Assets/Technology/Weapons/XTP-3 Flashbang.png|371]]
+
+![[Assets/Technology/Weapons/XTP-3 Flashbang.png|283]]
 
 Concussive flashbang — blinding light and pressure blast designed to disorient without killing. Standard breaching tool and crowd-control option across military and law enforcement units throughout the Sector. The name was given by soldiers, not the manufacturer.
 
@@ -710,16 +708,19 @@ Concussive flashbang — blinding light and pressure blast designed to disorient
 Standard military smoke grenade — the most common non-lethal ordnance in the field. Dense smoke cloud persists for 3 rounds. All ranged attacks into, out of, or through the smoke zone suffer -2 dice. Does not affect targets already inside.
 
 **CF-24 "Fragger" Cluster Frag Grenade:**
+
 ![[Assets/Technology/Weapons/CF-24 Cluster Frag Grenade.png|196]]
 
 Ejects 24 tungsten bomblets radially on detonation — saturates the entire zone, offering no reliable cover in any direction. Dodge penalty reflects radial saturation. Milicron manufacture. Use when the zone is packed and you want everyone in it working the problem.
 
 **FG-4 Flammable Gas Grenade:**
-![[Assets/Technology/Weapons/FG-4 Flammable Gas Grenade.png|512]]
+
+![[Assets/Technology/Weapons/FG-4 Flammable Gas Grenade.png|414]]
 
 Disperses a cloud of flammable gas. The zone persists for 3 rounds — any open flame, spark, or energy discharge ignites it. Use to deny zones, force movement, or set up a triggered detonation.
 
 **Fuel Cell Bomb:**
+
 
 ![[Assets/Technology/Weapons/Fuel Cell Bomb.png|536]]
 
