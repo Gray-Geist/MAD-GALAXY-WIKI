@@ -1,3 +1,4 @@
+// MAD GALAXY BUILD v2
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
