@@ -103,7 +103,7 @@ After the Savage Wars' refinements, the majority of chemical arms across the Sec
 
 **Inquisitor Drone:**
 
-![[drone_inquisitor.png]]
+![[Assets/Technology/drone_inquisitor.png]]
 Though there are many types, the idea is the same — a swarm of drones, each the size of a horse fly, capable of delivering lethal or non-lethal payloads on a target.
 
 **XT 908:** The "Extreme-Tactics" 908 delivers "clear skies" — 45 continuous hours of operation and a range of 4,256 miles. Can be armed with a variety of weaponry, including tactical micro-missiles and 50-lb laser-guided smart bombs.
@@ -273,7 +273,7 @@ Single-stage ALIM full-auto rifle with a selectable magazine loadout: Sabot 5.45
 ALIM-assisted semi-automatic precision rifle with an open skeletal frame and full-length top rail — low profile, minimal footprint. Flash-suppressible; sonic discharge betrays position. The GAVR's angular geometry and delayed-blowback action absorb recoil in a way that feels wrong until it doesn't. First shot always finds the mark. Follow-up shots find it faster.
 
 **Hanzheng Armories HZ-17P Enforcement Rifle:**
-![[Assets/Technology/Weapons/Hanzheng Armories HZ-17P Enforcement Carbine.png]]
+![[Assets/Technology/Weapons/Hanzheng Armories HZ-17P Enforcement Rifle.png]]
 Semi-automatic chem rifle with high-velocity caseless rounds, integrated suppressor, and IFF optics for enforcement TacLink threat designation. Hanzheng Armories manufacture. New enough that the soldiers carrying it are still forming opinions, and the soldiers facing it haven't formed the right ones yet. Everyone is watching to see what happens when it does.
 
 **Hanzheng Armories Hymera V7 Caseless Carbine:**

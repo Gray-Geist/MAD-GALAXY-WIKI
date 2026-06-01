@@ -231,7 +231,7 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                   const ext: string = path.extname(fp).toLowerCase()
                   // MAD GALAXY PATCH: preserve original filename, do not slugify
                   // Reapply after any quartz update
-                  const url = fp as FilePath
+                  const url = slugifyFilePath(fp as FilePath)
                   if ([".png", ".jpg", ".jpeg", ".gif", ".bmp", ".svg", ".webp"].includes(ext)) {
                     const match = wikilinkImageEmbedRegex.exec(alias ?? "")
                     const alt = match?.groups?.alt ?? ""
