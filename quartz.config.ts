@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "mad-galaxy-wiki.vercel.app",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+	ignorePatterns: ["private", "templates", ".obsidian", ".smart-env"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
