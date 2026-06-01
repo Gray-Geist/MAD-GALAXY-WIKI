@@ -121,27 +121,27 @@ Though there are many types, the idea is the same — a swarm of drones, each th
 ## Category 1 — Sidearms & PDWs
 
 **A4B2 "Black Hand" PDW:**
-![[Assets/Technology/Weapons/A4B2 PDW -Black Hand Pistol.png]]
+![[Assets/Technology/Weapons/A4B2 PDW -Black Hand Pistol.png|476]]
 Semi-automatic close-range sidearm with an integrated laser sight — the targeting package is built into the frame rather than mounted separately. Favored by security contractors who want a sidearm with positive target acquisition at close range.
 
 **A6H2 "Biretta" PDW:**
-![[Assets/Technology/Weapons/A6H2 PDW Pistol.jpg]]
+![[Assets/Technology/Weapons/A6H2 PDW Pistol.jpg|484]]
 Recoil-operated, 4.3mm large-caliber caseless. Projection sight — supports SmartLync integration when equipped. Exceptionally rugged — remains operational after combat drops and high-g maneuvers. High reliability under field stress. The oversized frame is a deliberate trade: this is a pistol that handles like a PDW.
 
 **AC-4 "Grit":**
-![[Assets/Technology/Weapons/Avalon-Arienai AC-4 Grit PDW.png]]
+![[Assets/Technology/Weapons/Avalon-Arienai AC-4 Grit PDW.png|447]]
 Standard Avalon-Arienai sidearm — a benchmark for reliability in its class. Highly durable, widely distributed, and found in the hands of everyone from garrison infantry to contractors who need a sidearm that simply works.
 
 **AS-4 "Boa":**
-![[Assets/Technology/Weapons/Avalon-Arienai AS-4 Boa PDW.png]]
+![[Assets/Technology/Weapons/Avalon-Arienai AS-4 Boa PDW.png|438]]
 Avalon-Arienai auto-suppressed sidearm. The Boa shares the Grit's reliability profile with an integrated suppressor system — the preferred sidearm for operators who need quiet without adding hardware.
 
 **Biot-Saart SS9 PDW:**
-![[Assets/Technology/Weapons/Biot-Saart SS9 PDW.png]]
+![[Assets/Technology/Weapons/Biot-Saart SS9 PDW.png|425]]
 Smart-capable sidearm with two fire modes: standard semi-auto and SmartLync-guided tracking. Integrated IR module for target acquisition in low-visibility environments. Requires SmartLync cyberware for guided mode — fires as standard semi-auto without it. The sensor suite makes this the sidearm of choice for operators who need target acquisition as much as stopping power.
 
 **Biot-Saart SX9 PDW:**
-![[Assets/Technology/Weapons/Biot-Saart SX9 PDW.png]]
+![[Assets/Technology/Weapons/Biot-Saart SX9 PDW.png|444]]
 Single-stage ALIM sidearm with an external chargepack block on the forward frame. Flash-suppressible; sonic discharge betrays position regardless. Longer effective range than most sidearms — the chargepack bulk is the field logistics tradeoff.
 
 **GAT-Kolibri:**
@@ -153,11 +153,11 @@ Small-frame, high-velocity ALIM-assisted sidearm — full-auto, high throughput,
 The Kolibri's heavier sibling. ALIM-assisted power revolver — single-shot, high-velocity, each pull committing the full chamber charge. Favored by those who need to drop a target through light cover in one shot and can accept the reload cost.
 
 **GT-10D "Muerte Negro" PDW:**
-![[Assets/Technology/Weapons/Muerte Negro GT 10D PDW.png]]
+![[Assets/Technology/Weapons/Muerte Negro GT 10D PDW.png|444]]
 Integrated suppressor — always considered suppressed, no separate attachment required. Subsonic load standard. Concealable; clears most casual security scans. Designed to end a specific problem quietly and disappear. The name is understood in most markets where it's sold.
 
 **Hailstorm Pistol:**
-![[Assets/Technology/Weapons/Hailstorm Pistol.png]]
+![[Assets/Technology/Weapons/Hailstorm Pistol.png|510]]
 Full-auto burst-fire pistol — fires in mandatory 3-round bursts, cannot be set to single shot. Each trigger pull consumes one cassette burst; reload is a full cylinder swap. Trades ammunition economy for concentrated close-range damage. A specialty platform with a specific tactical use case.
 
 **HED-27 Stun Pistol:**
@@ -165,15 +165,15 @@ Full-auto burst-fire pistol — fires in mandatory 3-round bursts, cannot be set
 Non-lethal. Found throughout the Sector — standard law enforcement and corporate security issue. On a hit, the target is rendered unable to act until they recover. Does not inflict Health damage.
 
 **NSP-12 "Zarya":**
-![[Assets/Technology/Weapons/NSP-12 Zarya Sidearm.png]]
+![[Assets/Technology/Weapons/NSP-12 Zarya Sidearm.png|492]]
 Compact, caseless, sealed against vacuum and contaminants. Standard Novoset Continuum sidearm — issued across the various services. Officially military procurement only; not commercially available, but found all over. 
 
 **Zeus-92S:**
-![[Assets/Technology/Weapons/Zeus-92S.png]]
+![[Assets/Technology/Weapons/Zeus-92S.png|458]]
 Smart-capable sidearm with a multi-mode optic and SmartLync targeting overlay. Compact profile. Where the Zeus-94 prioritizes raw penetration, the 92S prioritizes target acquisition and first-shot placement. Requires SmartLync cyberware for guided mode.
 
 **Zeus-94 PDW:**
-![[Assets/Technology/Weapons/Zeus-94 PDW.png]]
+![[Assets/Technology/Weapons/Zeus-94 PDW.png|647]]
 Single-stage ALIM sidearm with an integrated charge indicator strip — field-readable power state without secondary equipment. Flash-suppressible; sonic discharge betrays position. The Zeus-94 is a working tool, not a showpiece.
 
 ---
@@ -281,7 +281,7 @@ Semi-automatic chem rifle with high-velocity caseless rounds, integrated suppres
 Compact, clean, and priced for volume buyers. The export face of the Hanzheng line. Colonial security forces, light infantry formations, and frontier operators who want CHEM reliability without the weight of a full rifle. Hanzheng Armories manufacture.
 
 **KBAR-98 Bullpup Assault Rifle:**
-![[Assets/Technology/Weapons/KBAR-98.png]]
+![[Assets/Technology/Weapons/KBAR-98.png|619]]
 High rate-of-fire bullpup with GL-ready mounting for standard 40mm underslung launchers. Lightweight mold and forward-weighted balance designed specifically for hip-fire control and mobility under fire. A proven platform carried by garrison troops and line infantry across multiple factions.
 
 **M66 Linear Motor Carbine:**
@@ -525,19 +525,19 @@ The only slagger in this category with full-auto capability. Selective-fire with
 ## Category 9 — Launchers & Heavy Weapons
 
 **Aero-Precision "AP" Rocket Launcher:**
-![[Assets/Technology/Weapons/Aero-Precision -AP- Rocket Launcher.jpg]]
+![[Assets/Technology/Weapons/Aero-Precision -AP- Rocket Launcher.jpg|620]]
 Man-portable precision-guided anti-armor launcher. Deployable clamshell carry system — superior environmental resistance. Precision Guided — target attempting to dodge rolls MOBILITY at -2 dice; vehicles cannot dodge. Milicron manufacture. The standard choice when the mission calls for precision and range.
 
 **Avalon-Arienai KP-1 Kinetic Projector:**
-![[Assets/Technology/Weapons/KP-1 Kinetic Projector.png]]
+![[Assets/Technology/Weapons/KP-1 Kinetic Projector.png|639]]
 Directed graviton emitter platform. Requires a full Aim action before firing — the graviton pulse cannot be rushed. On a hit, the target takes direct damage and the discharge radiates outward, pushing all other nearby characters away. Allies are affected identically to enemies — the field does not discriminate. Avalon-Arienai manufacture. Fire it when the fight has already gone wrong and you need threats away from you now.
 
 **G45A2 MSGL:**
-![[Assets/Technology/Weapons/G45A2 and G45B1 Multi-Shot Grenade Launcher (MSGL).png]]
+![[Assets/Technology/Weapons/G45A2 and G45B1 Multi-Shot Grenade Launcher (MSGL).png|620]]
 Drum-fed 40mm grenade launcher — shorter barrel than the G45B1, optimized for close-quarters engagements. Squad-level tool for suppression and area denial in tight spaces. Milicron manufacture.
 
 **G45B1 MSGL:**
-![[Assets/Technology/Weapons/G45A2 and G45B1 Multi-Shot Grenade Launcher (MSGL).png]]
+
 Drum-fed 40mm grenade launcher — longer barrel than the G45A2, extended engagement range. Preferred platform when the squad needs organic fire support at distance. Milicron manufacture.
 
 **GRC88 Gauss Rotary Cannon:**
@@ -587,43 +587,50 @@ Lock-On Acquisition anti-armor launcher — locked shots cannot be dodged; dumb-
 ### 10A — Fragmentation, High-Explosive & Gas
 
 **M-3B SMAFF (Signal-Masking Autonomous Frequency Filter):**
-![[Assets/Technology/Weapons/M-3B SMAFF Grenade.png]]
+![[Assets/Technology/Weapons/M-3B SMAFF Grenade.png|468]]
 Refractive smoke grenade that blinds enemy sensors and cuts electronic communications within its cloud. Standard issue across Republic and allied infantry — the go-to countermeasure when the enemy's eyes are electronic. Named for the filtering system that makes it work; called something shorter by everyone who carries it.
 
 **XTP-3 "Ear-Popper" Flashbang:**
-![[Assets/Technology/Weapons/XTP-3 Flashbang.png]]
+![[Assets/Technology/Weapons/XTP-3 Flashbang.png|371]]
+
 Concussive flashbang — blinding light and pressure blast designed to disorient without killing. Standard breaching tool and crowd-control option across military and law enforcement units throughout the Sector. The name was given by soldiers, not the manufacturer.
 
 **AUS551NB Smoke Grenade:**
-![[Assets/Technology/Weapons/AUS551NB Smoke Grenade.png]]
+
+![[Assets/Technology/Weapons/AUS551NB Smoke Grenade.png|382]]
+
 Standard military smoke grenade — the most common non-lethal ordnance in the field. Dense smoke cloud persists for 3 rounds. All ranged attacks into, out of, or through the smoke zone suffer -2 dice. Does not affect targets already inside.
 
 **CF-24 "Fragger" Cluster Frag Grenade:**
-![[Assets/Technology/Weapons/CF-24 Cluster Frag Grenade.png|324]]
+![[Assets/Technology/Weapons/CF-24 Cluster Frag Grenade.png|196]]
+
 Ejects 24 tungsten bomblets radially on detonation — saturates the entire zone, offering no reliable cover in any direction. Dodge penalty reflects radial saturation. Milicron manufacture. Use when the zone is packed and you want everyone in it working the problem.
 
 **FG-4 Flammable Gas Grenade:**
-![[Assets/Technology/Weapons/FG-4 Flammable Gas Grenade.png]]
+![[Assets/Technology/Weapons/FG-4 Flammable Gas Grenade.png|512]]
+
 Disperses a cloud of flammable gas. The zone persists for 3 rounds — any open flame, spark, or energy discharge ignites it. Use to deny zones, force movement, or set up a triggered detonation.
 
 **Fuel Cell Bomb:**
-![[Assets/Technology/Weapons/Fuel Cell Bomb.png]]
+
+![[Assets/Technology/Weapons/Fuel Cell Bomb.png|536]]
+
 Placed demolition — emplaced and armed via HEAVY MACHINERY roll. Detonates on timer or remote signal. Maximum destructive yield in a placed package. Against structures and vehicles, functions as a breaching charge regardless of character damage.
 
 **HMX High Explosive Grenade:**
-![[Assets/Technology/Weapons/HMX High Explosive Grenade.png]]
+![[Assets/Technology/Weapons/HMX High Explosive Grenade.png|413]]
 Standard military HE grenade — the baseline for zone-clearing fragmentation ordnance.
 
 **HV-4 Halothane Vapor Grenade:**
-![[Assets/Technology/Weapons/HV-4 Halothane Vapor Grenade.png]]
+![[Assets/Technology/Weapons/HV-4 Halothane Vapor Grenade.png|460]]
 Disperses halothane anesthetic vapor. Unsealed targets must make STAMINA each round or go unconscious. Non-lethal area denial. Use when captures are required or lethal force is restricted.
 
 **Nova-B — Cryo-Plasma Disruptor Grenade:**
-![[Assets/Technology/Weapons/Nova-B (Blue) – Cryo-Plasma Disruptor Grenade.png]]
+![[Assets/Technology/Weapons/Nova-B (Blue) – Cryo-Plasma Disruptor Grenade.png|333]]
 Releases a cryo-plasma burst on detonation. Targets that take damage are Frozen — cannot move until they spend a Full Action to break free. Warbots and ACPA are unaffected by the Frozen condition. Baadensenar Arsenal manufacture. Paired with the Nova-O for combined thermal/cryo engagement.
 
 **Nova-O — Thermobaric Fusion Grenade:**
-![[Assets/Technology/Weapons/Nova-O (Orange) - Thermobaric Fusion Grenade.png]]
+![[Assets/Technology/Weapons/Nova-O (Orange) - Thermobaric Fusion Grenade.png|327]]
 Generates thermobaric fusion overpressure. Targets that take damage catch fire — burning continues each round until extinguished. Devastating in enclosed spaces where the overpressure has no dissipation path. Baadensenar Arsenal manufacture. Paired with the Nova-B for combined thermal/cryo engagement.
 
 **SG-48 Stick Grenade — High Explosive:**
@@ -635,15 +642,15 @@ Extended handle design — Long range as standard. Field-expedient fragmentation
 Extended handle design — Long range as standard. Same base damage as the SG-48 HE but with sustained burning instead of instant fragmentation. Targets that take damage catch fire.
 
 **SG-84 Stick Grenade — High Explosive:**
-![[Assets/Technology/Weapons/SG-84 Stick Grenades.png]]
+![[Assets/Technology/Weapons/SG-84 Stick Grenades.png|567]]
 Upgraded explosive compound on the SG-48 form factor — same range, higher damage, higher cost. The combat upgrade to the SG-48's field-expedient fallback.
 
 **SG-84 Stick Grenade — Nanoshrapnel:**
-![[Assets/Technology/Weapons/SG-84 Stick Grenades.png]]
+![[Assets/Technology/Weapons/SG-84 Stick Grenades.png|563]]
 Armor-piercing variant — disperses tungsten-ceramic nanoscale penetrators that defeat personal armor at the material level. Same damage as the SG-84 HE but bypasses protection the HE round cannot touch.
 
 **Valkyrie Neural Arc Grenade:**
-![[Assets/Technology/Weapons/Baadensenar Arsenal Valkyrie Neural Arc Grenade.png]]
+![[Assets/Technology/Weapons/Baadensenar Arsenal Valkyrie Neural Arc Grenade.png|363]]
 Directed neural arc — electromagnetic pulse tuned to disrupt unshielded neural tissue. Targets without neural shielding implants must make STAMINA or suffer reduced STAMINA for the remainder of the scene. Warbots and androids are unaffected. Neural shielding provides full immunity. Baadensenar Arsenal manufacture. The specialist choice for breaking formations without lethal ordnance.
 
 ---
@@ -651,24 +658,24 @@ Directed neural arc — electromagnetic pulse tuned to disrupt unshielded neural
 ### 10B — Tactical & Specialist Ordnance
 
 **G-22 "Grave Disc" Gravity Grenade:**
-![[Assets/Technology/Weapons/G-22 Grav Disc Grenade.png]]
+![[Assets/Technology/Weapons/G-22 Grav Disc Grenade.png|572]]
 Generates a focused gravitational inward pull at the detonation point for 3 rounds — targets must resist each round or be pulled to the detonation point. Paired counterpart to the R-19 Repulsor Grenade. Use to deny movement, collapse a spread formation, or hold targets in place for follow-up. Avalon-Arienai manufacture.
 
 **H-8 Holographic Grenade:**
-![[Assets/Technology/Weapons/H-8 Holographic Grenade.png]]
+![[Assets/Technology/Weapons/H-8 Holographic Grenade.png|347]]
 Deploys holographic false combatants — 1, 2, or 3 figures persisting for 3 rounds. Enemies must make OBSERVATION each round to identify them as false. Until identified, enemies may redirect attacks and take cover at GM discretion. Vance-Idris Systems manufacture.
 
 
 **R-19 Repulsor Grenade:**
-![[Assets/Technology/Weapons/R-19 Repulsor Grenade.png|578]]
+![[Assets/Technology/Weapons/R-19 Repulsor Grenade.png|349]]
 Generates a focused outward repulsor burst — targets must resist or be pushed one range band away from the detonation point. Paired counterpart to the G-22 Grave Disc. Use to break a defensive formation, push enemies off high ground, or separate a group before follow-up fire. Avalon-Arienai manufacture.
 
 **SMT-M22 Incendiary Thermite Grenade ("Burner"):**
-![[Assets/Technology/Weapons/SMT-M22 Incendiary Thermite Grenade.png|644]]
+![[Assets/Technology/Weapons/SMT-M22 Incendiary Thermite Grenade.png|436]]
 Dual-mode ordnance. Throw mode: burns at extreme heat — destroys cover and barriers in the zone, then burns for 3 rounds. Sticky mode: adheres to any surface or vehicle and detonates on timer or remote signal. Applied directly to a person-sized target: likely lethal outright. Standard issue for evidence erasure, cache destruction, and structure demolition.
 
 **TS-34 "Bot Popper" EMP Grenade:**
-![[Assets/Technology/Weapons/EMP Grenade, Bot Popper.png|650]]
+![[Assets/Technology/Weapons/EMP Grenade, Bot Popper.png|433]]
 Ion pulse grenade. Disables standard bots and drones on a failed COMTECH roll; stuns warbot-grade systems for 1 round. Suppresses TacLink and SmartLync cyberware in the zone. Does no damage to organic targets. Vance-Idris Systems manufacture.
 
 ---
@@ -680,11 +687,11 @@ Ion pulse grenade. Disables standard bots and drones on a failed COMTECH roll; s
 Dual-mode autonomous pursuit weapon from Orin-Vex Autonomous Systems. In thrown mode it deploys as a six-legged spider-bot that hunts its target through cover and corridors, detonating on contact. In emplaced mode it sits dormant on a programmed trigger — motion, thermal, IFF-negative, or manual — and activates when tripped. Both modes armor-piercing. Disarmable before detonation. Maximum 2 active simultaneously across both modes.
 
 **OV-7 "Locust" Autonomous Swarm Drone:**
-![[Assets/Technology/Weapons/OV-7 Locust Autonomous Swarm Drone.png|598]]
+![[Assets/Technology/Weapons/OV-7 Locust Autonomous Swarm Drone.png|423]]
 Deployed pod that splits into a cloud of micro-drones, autonomously swarming a single designated target. The swarm navigates independently and cannot be redirected once released. Ineffective against ACPA and Battle Armor. Orin-Vex Autonomous Systems manufacture.
 
 **OV-14 "Vigil" Autonomous Overwatch Sensor:**
-![[Assets/Technology/Weapons/OV-14 Vigil Autonomous Overwatch Sensor.png|610]]
+![[Assets/Technology/Weapons/OV-14 Vigil Autonomous Overwatch Sensor.png|399]]
 Small autonomous sensor that anchors magnetically to any surface and monitors its immediate area and surroundings. Extends the awareness of nearby Orin-Vex autonomous systems and provides passive alerts to the deploying operator when new contacts enter the monitored area. Recoverable and redeployable. Orin-Vex Autonomous Systems manufacture.
 
 ---
@@ -692,15 +699,15 @@ Small autonomous sensor that anchors magnetically to any surface and monitors it
 ### 10D — Novoset Continuum Ordnance
 
 **NBT-96 Biotoxic Smoke Grenade:**
-![[Assets/Technology/Weapons/NBT-96 Biotoxic Smoke Grenade.png]]
+![[Assets/Technology/Weapons/NBT-96 Biotoxic Smoke Grenade.png|211]]
 Biotoxic smoke cloud persists for 3 rounds — unsealed targets must make STAMINA each round or be Poisoned with movement and action penalties for D3 stretches after leaving the zone. Blocks line of sight. Illegal under most faction and interstellar law. Novoset Continuum military issue.
 
 **NF-66 Napalm Grenade:**
-![[Assets/Technology/Weapons/NF-66 Napalm Grenade.png]]
+![[Assets/Technology/Weapons/NF-66 Napalm Grenade.png|196]]
 On detonation: zone burns for D3 rounds, damaging any target starting their turn inside. Novoset Continuum military issue.
 
 **NF-94 Radiological Grenade:**
-![[Assets/Technology/Weapons/NF-94 Radiological Grenade.png]]
+![[Assets/Technology/Weapons/NF-94 Radiological Grenade.png|252]]
 On detonation: zone becomes irradiated for D6 shifts. No immediate blast damage — the zone kills over time. Sealed armor provides complete protection. Illegal under most faction law. Novoset Continuum military issue.
 
 ---
@@ -708,11 +715,11 @@ On detonation: zone becomes irradiated for D6 shifts. No immediate blast damage 
 ## Category 11 — Melee Weapons
 
 **Energy Knuckles KSUNT-43:**
-![[Assets/Technology/Weapons/Energy Knuckles Support Unit -KSUNT43.png]]
+![[Assets/Technology/Weapons/Energy Knuckles Support Unit -KSUNT43.png|485]]
 Collapsible electromagnetic frame worn over the fist. Paired Strike — a strong hit can deliver a second strike to the same target; the electromagnetic discharge causes the target to lose their Quick Action next round. Favored by military police, law enforcement, prison security, and gangers who prefer to settle things at close range and make the point twice.
 
 **Jindo-2 Nano-Axe:**
-![[Assets/Technology/Weapons/Jindo-2 Nano-Axe.png]]
+![[Assets/Technology/Weapons/Jindo-2 Nano-Axe.png|555]]
 Nanomolecular-edge axe. Designed for breaching, leverage, and concentrated force delivery. One-handed standard; two-handed grip available for higher damage at reduced accuracy. Heavier and slower than the YK3S but capable of forcing through armored joints the blade cannot split.
 
 **Weapon Baton:**
@@ -720,11 +727,11 @@ Nanomolecular-edge axe. Designed for breaching, leverage, and concentrated force
 Non-lethal. Found throughout the Sector — law enforcement standard, security contractor staple, prison block necessity. On a hit, applies one of five selectable variant effects: Muscle Lock, Shockwave Disruptor, Neuromuscular Scramble, Neuro-Spike, or Agonizer. Collapsible versions are common. Rarer whip variants share this effect list.
 
 **YK1S Nano-Dagger:**
-![[Assets/Technology/Weapons/YK1S Nano-Dagger.png]]
+![[Assets/Technology/Weapons/YK1S Nano-Dagger.png|225]]
 Concealable nanomolecular-edge dagger — difficult to detect on a person; clears most security scans. The same nano-edge in a package that fits inside a boot. Favored by intelligence operatives, close-protection details, and anyone who needs nano-edge capability without announcing it.
 
 **YK3S Nano-Blade:**
-![[Assets/Technology/Weapons/YK3S Nano-Blade.png]]
+![[Assets/Technology/Weapons/YK3S Nano-Blade.png|432]]
 The standard military combat blade of the Sector — issued across line infantry and special operations alike. Nanomolecular cutting edge defeats personal armor, battle armor joint systems, and cybernetic plating that conventional blades cannot touch. Self-maintaining edge unless critically damaged.
 
 ---
@@ -738,11 +745,11 @@ Padded restraint jacket with integrated limb-lock straps and a pharmaceutical de
 Blinds and deafens the wearer completely. Integrated filtered air supply. Does not restrain the limbs — used in combination with cuffs or a Compliance Jacket for full immobilization. Standard spec ops issue for prisoner transport, sensory disruption, and interrogation staging.
 
 **Reinforced Speedcuffs:**
-![[Assets/Technology/Weapons/Rigid Speedcuffs.png]]
+![[Assets/Technology/Weapons/Rigid Speedcuffs.png|298]]
 Heavy-gauge mechanical restraint rated against augmented physiology. Bioware and cyberware do not negate the escape difficulty — the restraints are built for augmented quarry. Standard for high-value prisoner transport.
 
 **Rigid Speedcuffs:**
-![[Assets/Technology/Weapons/Rigid Speedcuffs.png]]
+![[Assets/Technology/Weapons/Rigid Speedcuffs.png|319]]
 Standard mechanical restraint. No electronic components — not hackable, not affected by EMP. Common issue for security forces, law enforcement, and anyone who needs a prisoner to stay a prisoner.
 
 ---
@@ -754,8 +761,9 @@ Standard mechanical restraint. No electronic components — not hackable, not af
 **FieldSeal Patch:** Thermally activated patch that softens when heated by a portable applicator and rapidly cools to form a durable, flexible seal. Seals compromised armor against corrosive environments and radiation. Does not restore ballistic protection but prevents further degradation.
 
 **ME2 Hand Welder ("Cutting Torch"):**
-![[equipment_me2_hand_welder.png|373]]
-![[equipment_me2_hand_welder2.jpg|455]]
+
+![[equipment_me2_hand_welder.png|346]]
+![[equipment_me2_hand_welder2.jpg|412]]
 
 Compact handheld welding torch — cutting and welding in the field. Used for sealing electronic doors, constructing barricades, and freeing persons from enerchains.
 
@@ -769,11 +777,11 @@ Heavy, two-handed tool firing multiple ionized plasma bolts that combine into a 
 ## Personnel Ordnance
 
 **APER M101 Claymore Mine:**
-![[equipment_APER_M101_Claymore.png]]
+![[equipment_APER_M101_Claymore.png|596]]
 Small infantry-deployed anti-personnel mine. Three explosive charges in a fan shape; numerous ball bearings that deform into shards on explosion. Effective range 75m; dangerous to 250m. Uses motion detector, forward-facing trip lasers, and IFF detector.
 
 **ATMN-2 Magnetic Anti-Tank Mine ("Tank Toaster"):**
-![[equipment_atmn-2_anti_tank.png]]
+![[equipment_atmn-2_anti_tank.png|597]]
 15 kg. Magnetic — latches onto vehicle armor.
 
 **Det-Cord:** Explosive pressed into long cord coils on reels. Useful for punching holes in non-fortified walls or doors. Only responds to a command keyed specifically to the cord.
