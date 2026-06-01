@@ -22,6 +22,7 @@ They are not monolithic villains. They are employers, innovators, suppliers of m
 | [[Milicron Heavy Industries]] | Republic-backed AI, robotics, and heavy weapons giant; the Sector's premier non-human engineering firm and Arienai's bitter corporate rival. Primary partner of Kiloforce Systems |
 | [[Kiloforce Systems]] | Specialist autonomous combat platform manufacturer — androids, bots, and integrated weapons systems. Commercial partner of Milicron Heavy Industries |
 | [[Neus Kapitel Group (NKG)]] | Weapons, ships, and PMC forces forged in the Savage Wars; accused of coups, assassinations, and ethnic cleansings — by enemies, they insist |
+| [[Orochi-Susanoo Defense Systems]] | Security infrastructure megacorp, Antevic Sector — electronic and physical security products, faction-neutral distribution; sphere affiliation unconfirmed |
 
 ### Ships & Vehicles
 | Corporation | Summary |

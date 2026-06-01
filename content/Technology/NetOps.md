@@ -15,7 +15,7 @@ tags:
 
 Every system in the Antevic Sector runs on signal. Building management, weapon IFF, drone uplinks, vehicle navigation, security architecture, communications networks — all of it is connected, all of it is addressable, and all of it has a failure mode. NetOps is the professional discipline of finding those failure modes and exploiting them before the other side does.
 
-The defining piece of hardware is the **Cortical Interface (CI)** — a sub-cranial implant that translates neural intent into machine-language commands at speeds no external interface can match. Without a CI, network operations are reduced to physical terminal access and manual input. With one, a trained operator can reach across a room, a building, or a battlefield and reshape the electronic environment in real time.
+The defining piece of hardware is the **Cortical Interface (CI)** — colloquially called a **thread** by operators who use one — a sub-cranial implant that translates neural intent into machine-language commands at speeds no external interface can match. Without a CI, network operations are reduced to physical terminal access and manual input. With one, a trained operator can reach across a room, a building, or a battlefield and reshape the electronic environment in real time.
 
 NetOps divides into two distinct disciplines with different tools, different risks, and different skill ceilings:
 
@@ -81,7 +81,7 @@ CI Burnout is triggered by Active Hacking Blowback result 6 or by a successful B
 **Field Repair**
 Requires: TAC-D Field Diagnostic Deck | Time: 1 Stretch | Roll: COMTECH −2
 
-On 1+ ✦: CI is partially restored for the remainder of the scene — all NetOps rolls at −2 dice. Each additional ✦ beyond the first reduces this penalty by 1 (minimum −1 die). Full function cannot be restored in the field regardless of successes. Usable once per CI Burnout event — if the field repair roll fails, the CI remains burned; full repair is the only remaining option.
+On 1+ ✦: CI is partially restored for the remainder of the current Stretch — all NetOps rolls at −2 dice. Each additional ✦ beyond the first reduces this penalty by 1 (minimum −1 die). Full function cannot be restored in the field regardless of successes. Usable once per CI Burnout event — if the field repair roll fails, the CI remains burned; full repair is the only remaining option.
 
 **Full Repair**
 Requires: MedLab or equipped workshop | Time: 1 Shift | Roll: COMTECH −1
@@ -107,7 +107,7 @@ On 1+ ✦: CI fully restored — all functions and modifiers return to normal. O
 ## Security Systems
 
 *"When safety is first, you last."*
-— Orochi-Susanoo advertisement, Antevic Sector
+— Orochi-Susanoo Defense Systems, Security Division — Antevic Sector advertisement
 
 Every lock is a question. The Slicer's job is knowing the answer before the system does.
 
@@ -211,7 +211,7 @@ Physical key, physical tumbler. No power draw, no network connection, no digital
 
 Infrastructure targets are static systems — buildings, networks, terminals, databases, automated facilities. They do not fight back. They do not have will. What they have is architecture, and architecture has weaknesses.
 
-Infrastructure hacking follows the standard COMTECH framework. A single roll is sufficient for a straightforward target at close range. Extended Operations handle large, complex, or hardened facilities across multiple Stretches. The difference between a clean run and a compromised position is usually one failed roll at the wrong moment.
+Infrastructure hacking follows the standard COMTECH framework. A single roll is sufficient for a straightforward, single-target hack. Extended Operations handle large, complex, or hardened facilities across multiple Stretches. The difference between a clean run and a compromised position is usually one failed roll at the wrong moment.
 
 ### The Hack Roll
 
@@ -244,7 +244,7 @@ No log entry is created. The system does not register the connection was made. F
 
 **Extended Access** — Cost: +1 ✦
 
-The connection remains active for 2 Stretches even if the Slicer is interrupted and must leave the terminal. Combat, movement, an emergency — none of it closes the session. Return to the terminal within those 2 Stretches and the connection is still live. Extended Access does not make the Slicer invisible and does not prevent alert flags from other actions — it only keeps the door open while they're away from it.
+The connection remains active for 2 Stretches even if the Slicer is interrupted and must leave the terminal. Combat, movement, an emergency — none of it closes the session. Return to the system within those 2 Stretches and the connection is still live. Extended Access does not make the Slicer invisible and does not prevent alert flags from other actions — it only keeps the door open while they're away from it.
 
 **Data Pull** — Cost: +1 ✦
 
@@ -329,16 +329,14 @@ Infrastructure outcomes (Silent Entry, Extended Access, Ghost Mode) do not apply
 | +1 ✦ | Disrupt | Target suffers −1 die on all rolls using the affected system for 1 Round. Cumulative — a second Disrupt on the same target adds another −1 die. |
 | +1 ✦ | Expose | Strip IFF data, reveal position, or break encryption on the hacked target. For 1 Stretch: the Slicer's team gains +1 die on OBSERVATION and RANGED COMBAT rolls against the hacked target. The hacked target loses any TacLink coordination benefits for the same duration. |
 | +2 ✦ | Sever | Cut the uplink between a drone and its operator, or between SmartLync and a weapon system. Drone uplink severed — drone is autonomous, and is often confused or inactive, until operator restores uplink (Full Action COMTECH). SmartLync weapon fires as standard CHEM until uplink is restored. |
-| +2 ✦ | Override | Seize partial control of any discrete controllable system on the target — redirecting a turret's targeting, locking a vehicle's steering, forcing a drone to halt, opening or sealing a vehicle hatch, cutting power to a specific system. Duration: 1 Round base, +1 Round per additional ✦ spent on Override. |
+| +2 ✦ | Override | Seize partial control of any discrete controllable system on the target — redirecting a turret's targeting, locking a vehicle's steering, forcing a drone to halt, opening or sealing a vehicle hatch, cutting power to a specific system. Duration: 1 Round base, +1 Round per additional ✦ spent on Override, up to a maximum of 3 Rounds. Beyond 3 Rounds, maintaining Override requires a new COMTECH roll (Full Action) at the same modifier each Round; on failure, control is lost. |
 | +3 ✦ | Burn | Destroy hardware. Against soldier cybernetics: target's CI is non-functional until repaired (see CI Burnout Repair Rules) — all cyberware dependent on it ceases to function; target also suffers 1 damage (ignores AR). Against drones: targeting system destroyed. Against vehicles: one system disabled (roll D6: 1–2 = sensors, 3–4 = weapons, 5–6 = drive). |
-
-> **Override — extending duration:** Maintaining Override past its base duration requires a new COMTECH roll (Full Action) at the same modifier. On failure, control is lost.
 
 ### Counter-Hacking — Enemy NetOps Specialists
 
-An enemy NetOps Specialist who detects intrusion acts on their own initiative card. Counter-hacking is a Full Action COMTECH roll. They do not need to wait to be targeted first.
+When an enemy NetOps Specialist detects intrusion into a system they monitor, they respond on their own initiative card — no targeting from their opponent required. Counter-hacking is a Full Action COMTECH roll.
 
-**Detection:** A NetOps Specialist automatically detects intrusion against any system they are actively monitoring (declared at start of their turn). Against unmonitored systems in their network, they make a passive OBSERVATION roll at the end of each Round — success means they detect the intrusion and may respond with a counter-hack on their next turn.
+**Detection:** A NetOps Specialist automatically detects intrusion against any system they are actively monitoring (declared at the start of their turn). Against unmonitored systems in their network, they make a passive OBSERVATION roll at the end of each Round — on success, they detect the intrusion and may counter-hack on their next turn.
 
 **Counter-hack resolution:**
 - If the enemy NetOps Specialist initiates a counter-hack against the attacking Slicer: full opposed COMTECH roll. The Slicer is now the defender.
@@ -365,9 +363,9 @@ Every failed active hack roll triggers the Blowback table. For lower-tier target
 |---|---|
 | 1 | **Signal Spike.** CI broadcasts a detectable signal — all enemies in Short range of the Slicer are alerted to their position. Stress +1. |
 | 2 | **Feedback Loop.** COMTECH −1 die on all NetOps rolls until end of Stretch. Stress +1. |
-| 3 | **Hard Disconnect.** Forcibly ejected from the target system. All active NetOps connections to this target severed. Cannot re-attempt this target until the start of your next turn. |
-| 4 | **Counter-Intrusion.** If an enemy NetOps Specialist is present: they immediately gain +2 dice on their next counter-hack roll against this Slicer this Round. If no enemy Slicer is present: the system locks down — the target's COMTECH modifier increases by −1 for the remainder of the Stretch. |
-| 5 | **CI Damage.** Cortical Interface (CI) is degraded — all NetOps rolls at −2 dice until end of combat. Does not constitute full Burnout; CI is still functional. |
+| 3 | **Hard Disconnect.** Forcibly ejected from the target system. All active NetOps connections to this target severed. Stress +1. Cannot re-attempt this target until the end of your next turn. |
+| 4 | **Counter-Intrusion.** If an enemy NetOps Specialist is present: they immediately gain +2 dice on their next counter-hack roll against this Slicer, and this bonus persists for their next 2 turns. If no enemy Slicer is present: the system locks down — the target's COMTECH modifier increases by −1 for the remainder of the Stretch. |
+| 5 | **CI Damage.** Cortical Interface (CI) is degraded — all NetOps rolls at −2 dice until end of combat. Stress +1. Does not constitute full Burnout; CI is still functional. |
 | 6 | **CI Burnout.** Cortical Interface (CI) is non-functional. All NetOps actions impossible until repaired — see CI Burnout Repair Rules. Field repair: TAC-D + 1 Stretch, COMTECH −2, partial restore. Full repair: MedLab/workshop + 1 Shift, COMTECH −1. Stress +2. |
 
 ### Vehicle Hacking — Tier Reference
@@ -413,7 +411,7 @@ Suppress one signal within range — one communications channel, drone uplink, o
 
 Jamming hardened military comms uses a standard hack roll at −2 (military-standard modifier). Failure triggers Blowback per the EW Blowback table. Only one signal may be jammed at a time. Signal Jam ends when the Slicer terminates it, when the Slicer is Broken or their CI burns out, or at the start of the next Stretch.
 
-**Who can use it:** Any operator with military-grade CI or better. Slicers apply full dice pool; non-Slicer operators roll base COMTECH only.
+**Who can use it:** Any operator with military-grade CI or better. Slicers apply full dice pool; non-Slicer operators suffer −1 die on this action.
 
 *You cannot jam what you don't know is there. If a signal is hidden or disguised, detecting it first requires a successful OBSERVATION roll or prior intelligence.*
 
@@ -424,7 +422,7 @@ Jamming hardened military comms uses a standard hack roll at −2 (military-stan
 
 Degrade all communications signals in the affected zone simultaneously. Less precise than Signal Jam but covers the entire area rather than a single channel. On success, all targets in range suffer −1 die on COMTECH and COMMAND rolls that depend on electronic communication (including giving orders via TacLink) for 1 Round per ✦ rolled.
 
-**Who can use it:** Any operator with military-grade CI or better. Non-Slicer operators roll base COMTECH only.
+**Who can use it:** Any operator with military-grade CI or better. Non-Slicer operators suffer −1 die on this action.
 
 **Extra ✦:** Spend on either extended duration (+1 Round per ✦) or additional zones (+1 adjacent zone per ✦) — not both on the same roll.
 
@@ -448,7 +446,7 @@ Targets the control uplink between drone and operator across a range band simult
 
 Suppress motion trackers, targeting sensors, and observation drones in the target zone. On success, all sensor-based OBSERVATION rolls in the affected zone are at −2 dice for 1 Stretch (stealth) or 3 Rounds (combat). Automated systems that rely on sensors — sentry guns, autonomous targeting — lose their detection capability for the same duration.
 
-**Who can use it:** Any operator with military-grade CI or better. Non-Slicer operators roll base COMTECH only.
+**Who can use it:** Any operator with military-grade CI or better. Non-Slicer operators suffer −1 die on this action.
 
 **Extra ✦:** Each ✦ beyond the first extends duration by 1 Round in combat, or by 1 Stretch in stealth mode.
 
@@ -457,11 +455,11 @@ Suppress motion trackers, targeting sensors, and observation drones in the targe
 ---
 
 #### Counter-EW
-**Action:** Quick Action (declare before any EW roll is made against your team this Round) | **Requires:** Military-grade CI | **Roll:** Opposed COMTECH vs. the incoming EW action
+**Action:** Quick Action (interrupt — declare when an enemy EW action targets your team) | **Requires:** Military-grade CI | **Roll:** Opposed COMTECH vs. the incoming EW action
 
-Harden your own signals against enemy jamming. Declare Counter-EW at the start of your turn or as an interrupt when an enemy EW action targets your team. Roll COMTECH — each ✦ cancels one ✦ from the enemy's EW roll. If all enemy ✦ are cancelled, the EW action fails. If some ✦ remain, the EW action succeeds at reduced effect (GM determines — typically reduced duration or reduced range).
+Harden your own signals against enemy jamming. Declare Counter-EW as an interrupt the moment an enemy EW action targets your team. Roll COMTECH — each ✦ cancels one ✦ from the enemy's EW roll. If all enemy ✦ are cancelled, the EW action fails. If some ✦ remain, the EW action succeeds at reduced effect (GM determines — typically reduced duration or reduced range).
 
-**Who can use it:** Any operator with military-grade CI or better. Non-Slicer operators roll base COMTECH only.
+**Who can use it:** Slicer only. Counter-EW requires the trained reflex to recognize and counter an incoming signal in real time — non-Slicer operators cannot react fast enough to execute this as an interrupt.
 
 **TacLink:** A successful Counter-EW roll also protects TacLink integrity for this Round — the team retains Formation bonuses and coordinated fire even if SMAFF is active, provided the Counter-EW roll succeeds before the cloud takes effect.
 
@@ -478,7 +476,7 @@ Falsify friend-or-foe transponder data. Two applications:
 
 **Target Spoof:** Inject false hostile IFF into a specific target's transponder. Opposed COMTECH roll against flat resistance (vehicles, automated systems) or full opposed roll (enemy NetOps Specialist). On success: target reads as hostile to their own automated systems and any operators relying on TacLink threat data. Automated systems will engage the spoofed target. Human operators can override visually — they are not forced to engage — but forced to verbally confirm targeting rather than trust their feed, degrading coordination (−1 die COMMAND for affected operators this Round). Duration: 1 Round base, +1 Round per additional ✦.
 
-**Who can use it:** Any operator with military-grade CI or better. Non-Slicer operators roll base COMTECH only.
+**Who can use it:** Any operator with military-grade CI or better. Non-Slicer operators suffer −1 die on this action.
 
 **SMAFF interaction:** If the target of a spoof is inside an active SMAFF cloud, the spoof roll is at −2 dice. If the activating operator is inside their own SMAFF cloud, their spoof roll is at −2 dice.
 
@@ -493,7 +491,7 @@ TacLink disruption — from SMAFF, TS-34 Bot Popper, or successful EW action —
 - **Shared OBSERVATION:** Successful OBSERVATION by one linked member is no longer shared to all. Each member detects threats independently.
 - **Surprise defense:** The group no longer benefits from the rule that any linked member's successful OBSERVATION prevents surprise for the whole group.
 - **Formation bonuses:** Any formation-based bonus dice are lost.
-- **Coordinated fire:** Characters cannot benefit from the Giving Orders Full Action bonus on another character's roll if the link between them is disrupted.
+- **Coordinated fire:** Characters cannot benefit from the Giving Orders bonus on another character's roll if the link between them is disrupted. (Giving Orders — Full Action, COMMAND roll: each ✦ grants the target +1 die on one roll later in the same round, for carrying out that specific order.)
 
 Individual soldiers are not broken — they continue to fight, but as independent actors rather than a coordinated unit. A Slicer who understands this doesn't need to kill the enemy. They just need to make the enemy stop trusting each other.
 
@@ -505,7 +503,7 @@ Roll when: a COMTECH EW roll fails (except IFF Spoof, which has its own Blowback
 |---|---|
 | 1 | **Backscatter.** The EW attempt is detectable — enemy signals officer or NetOps Specialist pinpoints the source. They know the operator's zone. Stress +1. |
 | 2 | **Frequency Bleed.** The failed attempt partially disrupts your own team's comms. All allies in Short range suffer −1 die on COMMAND rolls this Round. |
-| 3 | **Signal Collapse.** The EW system overloads — the operator cannot use any EW actions until the start of their next turn. |
+| 3 | **Signal Collapse.** The EW system overloads — the operator cannot use any EW actions for 2 Rounds. |
 | 4 | **Counter-Lock.** Enemy signals are hardened against this specific EW action for the remainder of the Stretch — any retry of the same action against the same target is at −2 dice. |
 | 5 | **TacLink Bleed.** The operator's own TacLink feed is disrupted — they lose all TacLink benefits (shared OBSERVATION, surprise defense, formation bonuses) until end of Stretch. Other team members are unaffected. |
 | 6 | **Source Trace.** The failed signal is traced back to the operator's CI. All enemies gain +2 dice on OBSERVATION and RANGED COMBAT rolls against the operator for 1 Round. |
@@ -530,6 +528,7 @@ Roll when: a COMTECH EW roll fails (except IFF Spoof, which has its own Blowback
 | **Flat Resistance** | Fixed COMTECH modifier applied to passive active targets (drones, vehicles, soldier cybernetics) with no active operator |
 | **Opposed Roll** | Full opposed COMTECH — used against enemy NetOps Specialists and VI-monitored systems |
 | **Hard Blowback** | Elevated blowback — result automatically 5 or 6 on the Blowback table; triggered by Thread Lock or GM call |
+| **Thread** | Colloquial term for the Cortical Interface, used by operators in the field |
 | **Thread Lock** | Slicer talent — flags one target; their NetOps rolls at −1 die, failed counter-hacks trigger Hard Blowback automatically |
 | **Cold Process** | Slicer talent — roll base dice only on NetOps rolls until first failure per Stretch |
 | **Signal Jam** | EW action and Slicer talent — suppress one signal within range as a Quick Action |
