@@ -991,6 +991,12 @@ On detonation: zone becomes irradiated for D6 shifts. No immediate blast damage 
 
 ## Category 11 — Melee Weapons
 
+**Combat Knife:**
+
+![[Combat Knife.png]]
+
+Standard combat blade — no nanomolecular edge. Effective against unarmored and lightly armored targets; cannot defeat AR 2+ or subdermal plating, and is ineffective against Battle Armor and above regardless of AR value. Found everywhere. The blade every soldier carries and hopes not to need. For nano-edge capability that defeats armor, see YK3S Nano-Blade.
+
 **Energy Knuckles KSUNT-43:**
 
 ![[Assets/Technology/Weapons/Energy Knuckles Support Unit -KSUNT43.png|485]]
