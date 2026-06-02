@@ -793,6 +793,24 @@ The largest man-portable electromagnetic weapons platform in current production.
 
 Lock-On Acquisition anti-armor launcher — locked shots cannot be dodged; dumb-fire attacks penalize the shooter. Heavier and slower to reload than the AP Rocket Launcher, but hits harder and removes the target's ability to evade when used as intended. The platform of choice when the shot needs to land. Avalon-Arienai manufacture.
 
+**IWX-7 "Furnace":**
+
+![[Assets/Technology/Weapons/IWX-7 Furnace.png]]
+
+Carbine-frame naphtha flamethrower. Cannot fire in vacuum. Short range — the stream reaches a zone, not a map. What it touches burns until someone puts it out, which is harder than it sounds when everything around it is also on fire. The noise it makes when it fires is the last thing some people ever process clearly. Avalon-Arienai manufacture.
+
+**IWX-7U Underbarrel Incinerator:**
+
+![[Assets/Technology/Weapons/IWX-7U Underbarrel Incinerator.png]]
+
+Rifle-mounted incinerator unit — attaches beneath any rifle-class weapon and fires as a separate action. Shorter reach and lower output than the Furnace, but the point isn't range. The point is that your rifle now has a second opinion for anyone who gets close. Cannot fire in vacuum. Avalon-Arienai manufacture.
+
+**IWX-12 Flammenwerfer "Kiln":**
+
+![[Assets/Technology/Weapons/IWX-12 Kiln.png]]
+
+Backpack-tank heavy flamethrower. Two-handed. Cannot fire in vacuum. The Furnace sets targets on fire. The Kiln sets the concept of the room on fire — the air, the floor, the things that were standing in it. Higher output, greater fuel capacity, and a fuel tank riding on the operator's back that has no interest in being shot. The soldiers who carry it know this. They carry it anyway. Avalon-Arienai manufacture.
+
 ---
 
 ## Category 10 — Grenades & Explosives
@@ -1056,21 +1074,29 @@ Heavy, two-handed tool firing multiple ionized plasma bolts that combine into a 
 
 Small infantry-deployed anti-personnel mine. Three explosive charges in a fan shape; numerous ball bearings that deform into shards on explosion. Effective range 75m; dangerous to 250m. Uses motion detector, forward-facing trip lasers, and IFF detector.
 
-**ATMN-2 Magnetic Anti-Tank Mine ("Tank Toaster"):**
+**C5 Blast Brick:**
 
-![[equipment_atmn-2_anti_tank.png|597]]
-
-15 kg. Magnetic — latches onto vehicle armor.
+Adhesive plastic explosive block. Sticks to any surface and detonates on remote signal or timer. General-purpose demolitions charge — breaches doors and interior walls outright; heavier structures require multiple charges. Issued in pairs. Single use.
 
 **Det-Cord:** Explosive pressed into long cord coils on reels. Useful for punching holes in non-fortified walls or doors. Only responds to a command keyed specifically to the cord.
 
 **Flash-Bang Bolo:** A pair of small banger grenades connected by a heavy wire. Used by hunters to immobilize and stun an opponent.
 
+**H-35/H-37 Lasmore Mine:**
+
+Low-profile proximity mine in two variants. The H-35 uses a laser-trigger beam across the zone — effective indoors, detectable with careful observation. The H-37 uses a magnetic trigger — detonates on vehicle, warbot, or ACPA contact; infantry do not trigger it; undetectable without a sensor sweep. Both variants disarm with HEAVY MACHINERY if the location is known.
+
 **K4 Breaching Charge:**
 
 ![[equipment_k4_breach.png]]
 
-Highly effective explosive charge for breaching fortified areas.
+Shaped directional charge designed to focus its entire blast into a single surface. The placing side takes no damage — all force is directed through the target. Breaches doors and interior bulkheads outright; heavier barriers require specialist assessment. Single use.
+
+**ATMN-2 Magnetic Anti-Tank Mine ("Tank Toaster"):**
+
+![[equipment_atmn-2_anti_tank.png|597]]
+
+Magnetic anti-vehicle mine. Latches onto any ferrous surface — vehicle hulls, warbots, ACPA. Detonates on contact with a vehicle-class target; unaugmented infantry do not trigger it. Armor-piercing. Hull or chassis breach on detonation regardless of crew survival. Cannot be detected by observation alone — requires a sensor sweep. Avalon-Arienai manufacture.
 
 ---
 
