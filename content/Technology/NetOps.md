@@ -81,7 +81,7 @@ CI Burnout is triggered by Active Hacking Blowback result 6 or by a successful B
 **Field Repair**
 Requires: TAC-D Field Diagnostic Deck | Time: 1 Stretch | Roll: COMTECH −2
 
-On 1+ ✦: CI is partially restored for the remainder of the current Stretch — all NetOps rolls at −2 dice. Each additional ✦ beyond the first reduces this penalty by 1 (minimum −1 die). Full function cannot be restored in the field regardless of successes. Usable once per CI Burnout event — if the field repair roll fails, the CI remains burned; full repair is the only remaining option.
+On 1+ ✦: CI is partially restored for the next Stretch — all NetOps rolls at −2 dice. Each additional ✦ beyond the first reduces this penalty by 1 (minimum −1 die). At the end of that Stretch, the operator must make a base COMTECH roll to keep it running. On a failure, the CI degrades again and cannot be restored by Field Repair — only a full repair at a proper terminal or facility can restore it. Full function cannot be restored in the field regardless of successes.
 
 **Full Repair**
 Requires: MedLab or equipped workshop | Time: 1 Shift | Roll: COMTECH −1
