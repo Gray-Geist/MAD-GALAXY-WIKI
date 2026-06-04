@@ -1053,22 +1053,154 @@ Standard mechanical restraint. No electronic components — not hackable, not af
 
 ## Personnel Equipment
 
-**Aegis Sealant:** State-of-the-art shape-memory nano-polymers conforming to the irregular contours of damaged composite armor. Seals out environmental hazards and restores some ballistic protection.
+*Field gear, tools, sensors, protective equipment, and consumables carried by operators across the Sector. From basic survival kit to specialist electronics, this section covers everything that isn't a weapon.*
 
-**FieldSeal Patch:** Thermally activated patch that softens when heated by a portable applicator and rapidly cools to form a durable, flexible seal. Seals compromised armor against corrosive environments and radiation. Does not restore ballistic protection but prevents further degradation.
+---
 
-**ME2 Hand Welder ("Cutting Torch"):**
+### Protective Suits & Armor
+
+**Full Face Rebreather Mask:** AV: C. Full-face respirator with integrated filter cartridges. Blocks airborne chemical and biological contaminants — gas, biotoxic clouds, atmospheric particulates. Standard emergency kit across any environment where the air quality isn't guaranteed. Filter cartridges degrade over time in contaminated conditions.
+
+**BHZ-1 Biohazard Suit:** AV: R. Sealed bodysuit for chemical and biological hazard environments. Built-in comm unit. The standard choice for hazmat response teams, medical personnel in outbreak conditions, and anyone who needs a sealed barrier without the bulk of military-grade equipment. Radiation attenuation while sealed. Seal integrity is everything — a single breach ends the protection entirely.
+
+**HZX-3 HAZMAT Suit:** AV: RM. Military-specification HAZMAT suit with reinforced outer shell. Extended air supply over the civilian BHZ-1. Issued to CBRN specialist units across all Star Nation armed forces; leaks into military surplus channels at a steady rate. Bulkier than the BHZ-1 — operators move slower in it.
+
+**CSX-4 Civilian Compression Suit:** AV: RR. Light compression suit for vacuum and hostile atmosphere operation. The workhorse of the civilian void-worker market — salvagers, frontier colonists, maintenance crews working pressurized corridors with a history of seal failures. Full environmental seal, HUD, helmet comm. Not a combat suit. The viewport restricts peripheral vision.
+
+**CSX-7 Military Compression Suit:** AV: MRR. Combat-rated compression suit for void operations. The same vacuum protection as the CSX-4 with enough ballistic hardening to survive a firefight — barely. Preferred by void infantry and boarding specialists who need to close with an enemy in a vacuum environment and stay functional afterward. Optional TacLink integration.
+
+**EVX-9 Void Hardsuit:** AV: RR. Heavy EVA hardsuit for sustained zero-G and hostile environment operations. Fully articulated joints, integrated thruster pack, HUD, comm array, and tether hard points. Built for EVA specialists and deep-environment salvagers who need to operate tether-free for extended periods. The thruster pack provides meaningful maneuvering authority in zero-G — the difference between drifting off a hull and staying on task. Significant mobility penalty in standard gravity.
+
+**TAC-H Combat Helmet:** AV: MC. Tactical helmet with integrated IR sight, helmet cam, and IFF transponder. Sold separately for operators running MCA-7 or lighter armor who need TacLink connectivity without BCL-3. The IFF transponder keeps automated sentry systems from painting the wearer as a target regardless of what armor they're wearing. Ubiquitous in contractor and mercenary loadouts.
+
+**BDU Field Uniform:** AV: C. Durable field uniform in environment-appropriate camouflage pattern. Standard issue across all Star Nation ground forces. Available in Woodland, Desert, Arctic, Void (matte black), Urban, and Jungle patterns. Widely available through surplus channels — the baseline field garment of the Sector.
+
+**BCS-3 Ballistic Combat Shield:** AV: R. Lightweight plastisteel shield for breach scenarios and close-protection operations. Readied as a deliberate action — this is a tool of controlled engagements, not reactive firefights. Effective against small arms. Heavier weapons — LMGs, slaggers, launchers — defeat it on the first hit. Standard issue for law enforcement breach teams and executive protection details.
+
+---
+
+### Environmental Suits & Armor — Legacy Entries
+
+*Aegis Sealant and FieldSeal Patch have been consolidated into the [[#Armor Sealant Kit]] — see Field Gear & Tools below.*
+
+---
+
+### Sensors & Electronics
+
+**Tactical Sensor Package:** AV: R. Handheld ultrasonic motion detector. The standard infantry sensor platform across the Sector — detects anything that has moved recently within a Long range sweep. Stationary targets are invisible to it. Two-handed operation means a weapon has to go somewhere else while it's in use. The compact rail-mounted variant (TSP-M) solves the action economy problem at the cost of range.
+
+**TSP-M Compact Sensor Unit:** AV: RR. Weapon-mounted compact motion sensor. Fits to any rifle-class rail. Shorter detection range than the handheld unit, but the operator keeps their weapon in hand. The standard fit for operators who want sensor coverage without sacrificing a hand.
+
+**Optical Scope:** AV: C. Magnification scope for pistols and rifles. Extends effective range when taking careful aimed shots. The simplest and cheapest force-multiplier for a rifleman. Incompatible with sustained automatic fire — the sight picture breaks under recoil.
+
+**Binoculars:** AV: C. Standard optical binoculars. The tool of choice for observation at Long range and beyond — reconnaissance teams, snipers, forward observers, anyone who needs to know what's in the distance before committing to it.
+
+**Hi-Beam Flashlight / Shoulder Lamp:** AV: C. High-output flashlight in handheld or shoulder-mount configurations. Removes the visibility problem in dark environments. Shoulder-mounted to BCL-3, MCA-7, or compression suits, it frees both hands. Basic and essential.
+
+**NBC Detection Kit:** AV: R. Nuclear, biological, and chemical detection kit. Includes Geiger counter, bioagent diagnostic, atmospheric chemical sensor, and dosimeter patches. The dosimeters tell the operator exactly how much radiation they've accumulated rather than leaving it a mystery. Passive radiation detection is automatic at close range — the counter alerts without any action from the operator. Standard kit for CBRN specialists and anyone operating in environments of unknown atmospheric composition.
+
+**Field Survey Drone:** AV: RR. Autonomous mapping drone that scouts ahead and returns environmental data. Standard recon platform for operations where blind entry is unacceptable. Syncs with TacLink and compatible tactical displays. Detection range in open terrain is extreme — it will find what's out there before the squad walks into it. Confined environments reduce its effective range.
+
+*See also: Inquisitor Drone variants (XT908/XT909) — combat and active recon drone platforms, pending full documentation.*
+
+**TAC-D Field Diagnostic Deck:** AV: R. Hardened field-grade diagnostic terminal for troubleshooting computer and mechanical systems. The engineering tool of choice for field slicers and tech specialists. Distinct from NetOps intrusion hardware — the TAC-D is for fixing things, not breaking into them. The essential piece of kit for keeping a Cortical Interface functional after combat damage.
+
+**Electronic Tools Kit:** AV: C. Compact electronics repair kit — multimeter, soldering iron, wire stripper, circuit probes. The baseline for any tech-capable operator. Handles most field repair needs short of Cortical Interface damage.
+
+**Battleboard:** AV: R. Ruggedized field data tablet — the standard terminal device for military field team coordination. Syncs with PDTs, helmet cams, and sensor platforms to give a coordinating operator a consolidated operational picture. Used by squad leaders, forward controllers, and anyone whose job is directing rather than shooting. *For full Battleboard lore and context see [[Display & Interface Technology]]*.
+
+**Personal Data Transmitter (PDT):** AV: C. Subcutaneous or wearable transponder broadcasting location and vital signs. Standard issue on most corporate field contracts — the company wants to know where its people are and whether they're still breathing. Useful for medics who prefer to have biometric data before they reach the casualty. Detectable by sensor sweeps.
+
+**TCC-4 Tactical Command Console:** AV: MRR. Fixed holographic strategic display platform. Not portable — requires a flat surface or mounting point. The situational awareness tool of command posts, ship bridges, and field operations centers. Integrates TacLink, PDTs, sensor feeds, and drone uplinks into a single real-time display. The difference between commanding a firefight and reacting to one.
+
+**IFF Beacon:** AV: R. Identification Friend-or-Foe transponder. Keeps automated sentry systems from targeting the wearer. Wearable or clipped to armor — passive and always broadcasting while powered. Standard safety equipment for anyone operating near active automated weapon systems.
+
+**Tactical Wrist Chronometer:** AV: C. Ruggedized wrist-mounted chronometer with millisecond precision and multi-party sync capability. The value proposition is what it is not: not electronic in the armor-and-implant sense, not emitting, not disrupted by SMAFF or EW, not dependent on a powered armor system's HUD. Operators running lighter gear or in stealth configurations where powered armor is a liability use these. When multiple operators need to hit a moment simultaneously, the chronometer is the coordination tool that survives anything the Sector can throw at it.
+
+**NAX-7 Neural Assessment Visor:** AV: RR. Diagnostic headset for neurological assessment of unconscious or impaired patients. Identifies active neurological conditions, maps trauma location, and confirms whether a non-responsive patient is genuinely unconscious or conscious but incapacitated — a distinction that matters considerably in a field medical context. Used by combat medics and trauma specialists. Powered; requires COMTECH skill to operate.
+
+---
+
+### Field Gear & Tools
+
+**Muzzle Suppressor:** AV: R. Sound suppressor for CHEM-class firearms. Prevents a shot from automatically revealing the shooter's position. Available for pistols, SMGs, carbines, and rifles. Not compatible with LMGs, shotguns, heavy weapons, ALIM, or SLAGGER platforms — the nature of those systems makes meaningful suppression impossible. Cost varies by caliber and barrel threading.
+
+**Maintenance Jack:** AV: C. Heavy pry bar and multi-tool. Opens unpowered airlocks, diverts power at junction boxes, forces mechanical access points. Doubles as a close-quarters weapon. Standard kit on any ship or station — the utility item that solves the class of problem that electronics can't.
+
+**ME2 Hand Welder ("Cutting Torch"):** AV: C. Compact handheld welding torch for cutting and welding in the field.
 
 ![[equipment_me2_hand_welder.png|346]]
 ![[equipment_me2_hand_welder2.jpg|412]]
 
-Compact handheld welding torch — cutting and welding in the field. Used for sealing electronic doors, constructing barricades, and freeing persons from enerchains.
+Used for sealing access points, constructing barricades, and cutting through metal obstructions. The standard breach-and-seal tool for engineers and salvagers. Can seal crawlspace access points against intrusion — a sealed point requires a cutter or heavy ordnance to open again.
 
-**Plasma Cutter:**
+**Plasma Cutter:** AV: R. Heavy, two-handed tool firing multiple ionized plasma bolts that combine into a cutting stream.
 
 ![[equipment_plasma_cutter.png|512]]
 
-Heavy, two-handed tool firing multiple ionized plasma bolts that combine into a cutting stream capable of slicing through most surfaces. Highly unwieldy but very effective at breaching fortified positions.
+Capable of slicing through most surfaces — including reinforced bulkheads that stop a standard cutting torch. Highly unwieldy, high energy consumption. The tool of last resort for breaching hardened positions or cutting through wreckage. *(Full gear stat block pending — see Heavy Tools, deferred.)*
+
+**Mining Tool Kit:** AV: R. Heavy set of mining equipment — hammers, wrenches, drill heads, core sample containers, geological sensors. Standard kit for prospectors, colonial surveyors, and combat engineers who need to move through rock. Heavy. Specialized.
+
+**Field Pack:** AV: C. Waterproof medium-frame rucksack loaded with four days of field rations and water. Comes standard with a personal medkit. The fundamental extended-operations loadout item — doubles carry capacity without adding weight to the frame itself. What every squad member reaches for when the operation clock extends past 24 hours.
+
+**Armor Sealant Kit:** AV: R. Field repair kit for damaged or compromised armor. Contains one nano-polymer sealant canister and two thermally-activated FieldSeal patches — three applications total.
+
+*Nano-Polymer Canister:* Restores a broken environmental seal on any sealed armor regardless of damage state. Also repairs one step of AR lost to a targeted weak spot attack. Full Action to apply. One use.
+
+*FieldSeal Patch:* Fast seal for compromised environmental protection — restores a broken suit seal without restoring ballistic protection. Quick Action to apply. Two patches per kit.
+
+Without a kit, repairing a compromised suit seal requires a successful HEAVY MACHINERY roll. The Armor Sealant Kit bypasses that roll entirely. Standard carry for operators running sealed armor in environments where a breach is a mission-ending problem. A professional carries two.
+
+**Polymer Climbing Rope:** AV: C. 45-meter coil of high-polymer abrasion-resistant cable. The difference between a serious climbing operation and an improvised one. Multi-person rated. The field standard for vertical movement, extraction of casualties, and any descent where a mistake isn't an option.
+
+**Folding Winch:** AV: C. Collapsible tripod winch-and-cable device. Lowers equipment or personnel into shafts, anchors lines, handles rigging operations hands-free once deployed. Works in combination with the Polymer Climbing Rope as a recovery anchor. One of those items that sits in the kit for three operations and then makes the fourth one possible.
+
+**Entrenching Tool:** AV: C. Collapsible multi-tool — shovel on one side, digging fork on the other. Digs a fighting position in one stretch of work. A dug-in operator is an operator with cover. Also functions as a close-quarters weapon in a situation where that distinction stops mattering. Standard infantry issue across every Star Nation military.
+
+**HALO Parafoil Drop Kit:** AV: MR. Non-rigid delta parafoil that collapses to rucksack size. Designed for high-altitude stealth insertion — no engine noise, minimal radar signature, no heat bloom. The drop kit of choice for special operations and any insertion where a powered craft would announce the approach. Used by RTAC Paladins, Coalition Wardens, and Eisenjäger operators for whom a conventional drop is a compromise of the mission. Single use per drop; repackable.
+
+**Sonic Perimeter Grid:** AV: RR. Perimeter fence system using directed ultrasonics. Covers one zone radius. Deployed and packed in under a stretch of work. Standard mode deters non-sentient fauna — the hostile wildlife problem on frontier worlds is not theoretical, and an outpost that loses personnel to local predators while the actual threat hasn't arrived yet is a mission failure waiting to happen. High-intensity mode extends coverage to all targets regardless of sentience, at higher generator cost. Runs on an included portable generator.
+
+**Key Card:** AV: C. Standard electronic access card. The simplest and most common access control device in the Sector. Cloning or spoofing one is a COMTECH problem with the right equipment. Losing one is a security event — deauthorized remotely the moment an administrator notices.
+
+---
+
+### Clothing & Apparel
+
+**Pilot G-Suit:** AV: R. Full-body pressure suit worn by pilots and vehicle crew to counteract g-force during high-acceleration maneuvers — specifically when gravity dampeners are unavailable or overwhelmed. Standard issue for MOS 10 pilots and all starfighter crew. Not compatible with heavy armor.
+
+**Cold Weather Gear:** AV: C. Insulated field jacket rated for extreme cold environments. Packable. The item that separates a mission on an ice world from a medical evacuation.
+
+**Expedition Fatigues:** AV: C. Thermal-regulating undersuit for extended fieldwork in variable climates. Worn under armor — compatible with all standard armor types. The baseline protection against the attrition of operating in environments the body wasn't designed for.
+
+**Camouflage Suit:** AV: R. Environment-specific camouflage suit for precision concealment. The choice of snipers, forward observers, and recon specialists who need to stay in one place for a long time without being found. No electronic components — immune to sensor sweeps, immune to jamming. Must be calibrated to the specific environment; the wrong pattern is no better than standard fatigues. Incompatible with BCL-3 and above from bulk.
+
+**Aquatic Gear Set:** AV: C. Propulsion fins and inflatable flotation vest. The fin set accelerates underwater movement significantly; the life vest handles the survival problem if the mission goes into water unexpectedly. Sold as a set. Standard kit for maritime operations and any deployment near significant bodies of water.
+
+**Specialty Footwear:** AV: C. Specialist footwear for specific operating environments. Three variants: Standard Field Boots with magnetic-sole option for zero-G deck operations; Jungle/Wetland Boots with waterproof construction; Thermal Boots with extreme-cold insulation. The right footwear stops being a comfort consideration and starts being an operational one the moment the terrain turns against the mission.
+
+**Ultra Diffusive Environmental Poncho:** AV: R. Treated camouflage rain cover with infrared-absorbing coating. The practical concealment choice for operators who need something that works on the move and over any armor — including BCL-3 and ACPA, where nothing else fits. Less effective for dedicated concealment than the Camouflage Suit, but it doesn't require recalibration, doesn't restrict armor choice, and works whether the operator is stationary or moving. The camo cape of the Sector's infantry — general-purpose, versatile, and always in the kit.
+
+---
+
+### Field Consumables
+
+*Field rations, water, stimulants, and comfort items. The logistical foundation of any operation longer than a few hours.*
+
+**Field Rations:** AV: C. Pre-packaged flash-frozen or dehydrated meals. Satisfies one day's food requirement. On most company ships and military installations, issued free as part of operating costs. The flavor is institutional. The calories are real.
+
+**Field Water:** AV: C. Potable water in standard sealed containers. Cost varies dramatically by source — shipboard recycled water is effectively free; premium purified water on the frontier commands a premium that tells you something about how rare clean water is out there.
+
+**Protein Drink ("Bug Juice"):** AV: C. High-calorie protein drink derived from cultivated insect protein and synthetic nutrients. Satisfies both food and water requirements in a single container. The practical choice for minimizing encumbrance on long operations. Tastes exactly as bad as the name implies. A staple of salvage crews, frontier workers, and anyone who has stopped pretending field conditions are anything other than what they are.
+
+**Quality Meal:** AV: C. Genuine prepared food — colonial-grown produce, locally sourced protein, or imported ingredients. The psychological value of an actual meal on a long operation is not trivial. Stress recovery is part of operational readiness. Cost ranges from basic colonial cooking to imported luxury depending on source and location.
+
+**Coffee:** AV: C. Available free aboard most commercial and military vessels. Consumed in quantities that suggest the Sector runs on it. The functional effects on sleep management are real; the ritual is older than the Sector itself.
+
+**Alcohol:** AV: C. Beer through hard liquor. The universal social lubricant of the Sector. Available everywhere humans have gone and most places they haven't. The same drug that relaxes a squad after a close operation and gets someone killed if they're still on it when the next one starts.
+
+**Candy Bar / Snack:** AV: C. Luxury consumable — rare on the frontier. A candy bar or a cold carbonated beverage is the kind of small thing that matters disproportionately when everything else about the operation is hard. The psychological weight of comfort items in austere environments is well-documented. They're worth carrying.
 
 ---
 
