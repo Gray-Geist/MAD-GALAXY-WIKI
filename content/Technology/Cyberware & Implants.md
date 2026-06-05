@@ -313,7 +313,7 @@ Artificial hair with properties similar to ChemSkin — any color, or a color-li
 
 > **Mechanics:** Deliberate, visible cosmetic augmentation. When appearance, intimidation, or first impression is the operative factor in a social interaction, the GM may grant +1 die on MANIPULATION rolls. GM-adjudicated; not always-on.
 
-![[fashionware_threading.png]]
+![[Fashionware_Threading.png]]
 ### Threading
 Thin silver lines run in circuit-like patterns across the body. Popularized by an Antevic media sensation decades ago. Many believe they act as a "Faraday cage" against radiation and EMP effects — **no scientific backing** for these claims. Primarily worn as a fashion statement.
 
