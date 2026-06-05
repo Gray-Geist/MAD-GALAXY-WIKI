@@ -46,6 +46,10 @@ Combat armor without the full military footprint. The MCA-7 is where the private
 
 ### MCA-6V "Vac-Rated"
 
+![[MCA-6V Vac-Rated.png|600]]
+
+![[MCA-6V Vac-Rated2.png|653]]
+
 There are places in the Sector where the air itself is the threat, and for those places the MCA-6V exists. Preferred by salvage crews, void contractors, and mercenaries who operate across multiple environments without wanting to swap kits between them. The vacuum rating adds cost and a little weight but removes the need to think about what the atmosphere is doing to you when other things are also trying to.
 
 ---
@@ -58,7 +62,7 @@ Battle armor emerged from the Savage Wars as the minimum viable kit for a soldie
 
 ### BCL-3 Battle Armor
 
-![[BCL-3 Battle Armor.png]]
+![[BCL-3 Battle Armor.png|697]]
 
 The front-line military dress and the baseline against which every other armor in this tier is measured. Full environmental seal, integrated TacLink, vitals monitoring, air supply — everything a combat soldier needs to function in a denied environment and be tracked and treated when they go down. It is heavier than anything below it, and you feel it over the course of a long patrol. Surplus flows out of the military pipeline and into contractor hands at a steady rate. A used BCL-3 bought from a cagey dealer is still BCL-3.
 
