@@ -22,17 +22,23 @@ Personal armor in the Antevic Sector runs from the cheapest laminate vest a law 
 
 ### CRV-4 Composite Vest
 
+![[CRV-4 Composite Vest.png]]
+
 Passes for body armor when the organization issuing it doesn't expect a real fight. Lightweight laminate construction over a rigid ceramic insert, no environmental sealing, no integrated monitoring — just enough protection to stop a handgun round and satisfy an insurance liability clause. Standard issue for planetary law enforcement, private security details, and anyone whose employer calls their job "low-risk." On a battlefield it is nearly invisible, which is appropriate, because the people wearing it generally are too.
 
 ---
 
 ### SCA-12 Standard Combat Armor
 
+![[SCA-12 Standard Combat Armor.png]]
+
 Garrison and militia armor — the gear issued to soldiers who are expected to hold a line rather than break one. This is what you hand a soldier when you need them equipped fast and you're not sure how bad it will get. It has the vitals monitoring, which means the medic gets your biometrics the moment something goes wrong — that one feature has saved more lives than the armor plates themselves. It shows up in surplus, on militia rosters, in the armories of colonial governments that can't afford better and know it.
 
 ---
 
 ### MCA-7 Medium Combat Armor
+
+![[MCA-7 Medium Combat Armor.png]]
 
 Combat armor without the full military footprint. The MCA-7 is where the private sector intersects with real violence — medium-grade composites durable enough for sustained combat, light enough to function in it, and clean enough to be purchased without explaining too much to anyone. Plus vitals monitoring, optional TacLink integration, but no vacuum seal. Half the mercenary companies in the Sector run MCA-7 as their standard kit. The other half wish they did.
 
@@ -51,6 +57,8 @@ Battle armor emerged from the Savage Wars as the minimum viable kit for a soldie
 ---
 
 ### BCL-3 Battle Armor
+
+![[BCL-3 Battle Armor.png]]
 
 The front-line military dress and the baseline against which every other armor in this tier is measured. Full environmental seal, integrated TacLink, vitals monitoring, air supply — everything a combat soldier needs to function in a denied environment and be tracked and treated when they go down. It is heavier than anything below it, and you feel it over the course of a long patrol. Surplus flows out of the military pipeline and into contractor hands at a steady rate. A used BCL-3 bought from a cagey dealer is still BCL-3.
 
