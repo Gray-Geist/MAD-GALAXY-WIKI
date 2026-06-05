@@ -64,6 +64,8 @@ The armor of the drop insertion specialist, also known as "Helljumpers" — this
 
 ## Assisted Combat Personnel Armor (ACPA)
 
+![[armor_acpa.png|697]]
+
 ACPA, or power armor — evolved out of the Savage Wars as the only reliable response to opponents in heavy carapace that standard arms couldn't break — a powered exoskeleton built around the principle that if you can't outrun the scale of violence the Savages brought, you absorb it instead. The first time you step into an ACPA chassis and feel the servos come online, you understand immediately why infantry without them are a different category of soldier. The chassis — the linear frame at the heart of every ACPA unit — does not just carry the suit's weight — it multiplies everything you do, and it does it quietly, translating servo power into an extension of battlefield power. Variants define their role by what the chassis prioritizes: protection, speed, stealth, firepower. Operating ACPA is not simply wearing better armor. It is becoming a different kind of problem on a battlefield — one that requires a different kind of solution to remove. Each star nation has or outsources its own ACPA standard fitted with a closed architecture keyed to their own encrypted network.
 
 ---

@@ -8,7 +8,7 @@ tags:
 
 *Called "Cut, Patch & Pray" by the grunts who live it.*
 
-![[cyberware_medical_items_Medkit.png]]
+![[pharmaceuticals_medical_items_Medkit.png|479]]
 
 > **Availability Codes:** Every pharmaceutical, medical item, and augmentation in this section carries an AV code indicating where and how it can be acquired. See [[Availability Codes]] for the full reference.
 

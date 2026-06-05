@@ -54,14 +54,14 @@ tags:
 
 **ME2 Hand Welder ("Cutting Torch"):** AV: C. Compact handheld welding torch for cutting and welding in the field.
 
-![[equipment_me2_hand_welder.png|346]]
-![[equipment_me2_hand_welder2.jpg|358]]
+![[Assets/Technology/Equipment/ME2 Hand Welder.png|346]]
+![[Assets/Technology/Equipment/ME2 Hand Welder 2.jpg|358]]
 
 Used for sealing access points, constructing barricades, and cutting through metal obstructions. The standard breach-and-seal tool for engineers and salvagers. Can seal crawlspace access points against intrusion — a sealed point requires a Cutting Torch, Plasma Cutter, or heavy ordnance to open again. Runs on a fuel supply; at empty, non-functional until recharged.
 
 **Plasma Cutter:**
 
-![[equipment_plasma_cutter.png|512]]
+![[Assets/Technology/Equipment/Plasma Cutter.png|512]]
 
 AV: R. Heavy two-handed cutting tool firing ionized plasma bolts that combine into a sustained cutting stream. Capable of slicing through reinforced bulkheads, sealed crawlspaces, and hardened access points that a standard cutting torch cannot touch. The tool of last resort for breaching hardened positions or cutting through wreckage — slow, loud, and power-hungry, but nothing stops it. Unwieldy enough that using one in a firefight is a statement of desperation or confidence, occasionally both.
 
