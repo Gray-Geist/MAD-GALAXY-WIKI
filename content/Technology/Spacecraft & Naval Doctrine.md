@@ -174,7 +174,8 @@ The colossal Savage vessels — city-sized leviathans born from Old Earth's fina
 
 ## Related Pages
 - [[Vehicles, Bots & Mechs]]
-- [[Weapons & Equipment]]
+- [[Weapons]]
+- [[Armor & Apparel]]
 - [[Skip Drives & FTL Travel]]
 - [[Cosmic Strands]]
 - [[Eidolon Technology]]

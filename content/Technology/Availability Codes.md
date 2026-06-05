@@ -81,7 +81,9 @@ If you're trying to get something outside its listed availability context — bu
 ---
 
 ## Related Pages
-- [[Weapons & Equipment]]
+- [[Weapons]]
+- [[Armor & Apparel]]
+- [[Equipment]]
 - [[Medical & Trauma Care]]
 - [[Cyberware & Implants]]
 - [[HOME|← Back to Home]]

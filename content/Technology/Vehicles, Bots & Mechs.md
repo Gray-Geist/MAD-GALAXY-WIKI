@@ -78,6 +78,7 @@ This **"Merge"** amplifies response curves — but exacts tolls. Neural feedback
 
 ## Related Pages
 - [[Spacecraft & Naval Doctrine]]
-- [[Weapons & Equipment]]
+- [[Weapons]]
+- [[Armor & Apparel]]
 - [[NetOps]]
 - [[HOME|← Back to Home]]

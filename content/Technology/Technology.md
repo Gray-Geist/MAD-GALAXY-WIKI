@@ -48,8 +48,9 @@ Interstellar civilization runs on a handful of technologies so fundamental that 
 | [[Spacecraft & Naval Doctrine]] | Ship classes, propulsion, weapons systems, and the doctrines that govern void warfare                          |
 | [[Vehicles, Bots & Mechs]]      | Ground vehicles, automated platforms, and the mechs that define modern ground combat                           |
 | [[Transportation]]              | Ground vehicles, maglev systems, and hover technology for everyday travel                                      |
-| [[Weapons & Equipment]]         | Arms, ordnance, grenades, and field gear carried by soldiers and mercenaries across the Sector                 |
-| [[Armor]]                       | Personal armor, battle dress, and ACPA — what soldiers, contractors, and operators wear and what it costs them |
+| [[Weapons]]                     | Arms, ordnance, grenades, and accessories carried by soldiers and mercenaries across the Sector                |
+| [[Armor & Apparel]]             | Personal armor, battle dress, ACPA, protective suits, and clothing — what operators wear and what it costs them |
+| [[Equipment]]                   | Sensors, field electronics, tools, and consumables carried by operators across the Sector                      |
 
 ## Medicine
 

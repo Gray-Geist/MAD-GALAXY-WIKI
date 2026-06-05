@@ -2,10 +2,9 @@
 tags:
   - technology
   - weapons
-  - equipment
   - military
 ---
-# Weapons & Equipment
+# Weapons
 
 ![[equipment_header.jpg]]
 
@@ -101,17 +100,21 @@ After the Savage Wars' refinements, the majority of chemical arms across the Sec
 
 ## Drones
 
-**Inquisitor Drone:**
+**Inquisitor Drone Kit:**
 
 ![[Assets/Technology/drone_Inquisitor.png|217]]
 
-Though there are many types, the idea is the same — a swarm of drones, each the size of a horse fly, capable of delivering lethal or non-lethal payloads on a target.
+A swarm of micro-drones, each no larger than a horse fly, operating via combined nano data strings to deliver simultaneous digital mapping, audio feed, and video feed. Pure recon — the Inquisitor Drone Kit provides no weapons capability. Highly effective against technologically unsuspecting or inferior opponents; well-oriented security measures can mitigate usefulness significantly. Without countermeasures, the absolute choice for recon operatives operating indoors, where the swarm excels and environmental conditions pose no hazard due to unit size. Outdoors it is effective at Short to Medium range but can be affected by adverse environmental conditions. Highly expensive; military and paramilitary supply chains only.
 
-**XT 908:** The "Extreme-Tactics" 908 delivers "clear skies" — 45 continuous hours of operation and a range of 4,256 miles. Can be armed with a variety of weaponry, including tactical micro-missiles and 50-lb laser-guided smart bombs.
+**XT908 "Kestrel":**
 
 ![[drone_xt908.png]]
 
-**XT 909:** Same platform as the XT-908 with improved specifications.
+Fixed-wing tactical strike UAV. Data-link controlled beyond line of sight. Multi-spectral O-Targeting System with variable aperture infrared cameras and gamma ray, biological, and chemical detection. Built-in radar evasion. Armed with tactical micro-missiles or 50-lb laser-guided surgical bomb units — loadout selected at deployment. Weapons limit range and maneuverability. Operates autonomously or under operator direction via TCC-4 or Battleboard.
+
+**XT909 "Wraith":**
+
+Improved-specification variant of the XT908 platform. 45 continuous hours of operation, 4,256-mile (6,849 km) range, operational altitude 55,000+ ft (16,764 m). Crewed by a pilot and two sensor operators at a ground station; command latency approximately 0.5 seconds at maximum range. Enhanced sensor suite detects stationary targets — unlike standard motion-tracking systems. The platform of choice when the mission envelope demands long loiter, deep reach, and no radar signature.
 
 ---
 
@@ -191,7 +194,7 @@ Non-lethal. Found throughout the Sector — standard law enforcement and corpora
 
 ![[Assets/Technology/Weapons/NSP-12 Zarya Sidearm.png|492]]
 
-Compact, caseless, sealed against vacuum and contaminants. Standard Novoset Continuum sidearm — issued across the various services. Officially military procurement only; not commercially available, but found all over. 
+Compact, caseless, sealed against vacuum and contaminants. Standard Novoset Continuum sidearm — issued across the various services. Officially military procurement only; not commercially available, but found all over.
 
 **Zeus-92S:**
 
@@ -787,15 +790,15 @@ Three-barrel crew-served rotary cannon. Full Auto capable. Heavier hitting than 
 
 The largest man-portable electromagnetic weapons platform in current production. Emplacement required — operator fires via optical connection hose from cover within Short range. Against infantry: any hit is instant death. Against ACPA: direct hits destroy the suit; glancing hits cause severe permanent damage. Designed to kill things that do not die to other things. Milicron manufacture.
 
-**VRS-11 "Kestrel" Rocket Launcher:**
+**VRS-11 "Spearhead" Rocket Launcher:**
 
-![[Assets/Technology/Weapons/VRS-11 -Kestrel- Rocket Launcher.png]]
+![[Assets/Technology/Weapons/VRS-11 -Spearhead- Rocket Launcher.png|453]]
 
 Lock-On Acquisition anti-armor launcher — locked shots cannot be dodged; dumb-fire attacks penalize the shooter. Heavier and slower to reload than the AP Rocket Launcher, but hits harder and removes the target's ability to evade when used as intended. The platform of choice when the shot needs to land. Avalon-Arienai manufacture.
 
 **IWX-7 "Furnace":**
 
-![[Assets/Technology/Weapons/IWX-7 Furnace.png]]
+![[Assets/Technology/Weapons/IWX-7 Furnace.png|499]]
 
 Carbine-frame naphtha flamethrower. Cannot fire in vacuum. Short range — the stream reaches a zone, not a map. What it touches burns until someone puts it out, which is harder than it sounds when everything around it is also on fire. The noise it makes when it fires is the last thing some people ever process clearly. Avalon-Arienai manufacture.
 
@@ -819,7 +822,7 @@ Backpack-tank heavy flamethrower. Two-handed. Cannot fire in vacuum. The Furnace
 
 **M-3B SMAFF (Signal-Masking Autonomous Frequency Filter):**
 
-![[Assets/Technology/Weapons/M-3B SMAFF Grenade.png|437]]
+![[Assets/Technology/Weapons/M-3B SMAFF Grenade.png|385]]
 
 Refractive smoke grenade that blinds enemy sensors and cuts electronic communications within its cloud. Standard issue across Republic and allied infantry — the go-to countermeasure when the enemy's eyes are electronic. Named for the filtering system that makes it work; called something shorter by everyone who carries it.
 
@@ -849,7 +852,6 @@ Disperses a cloud of flammable gas. The zone persists for 3 rounds — any open 
 
 **Fuel Cell Bomb:**
 
-
 ![[Assets/Technology/Weapons/Fuel Cell Bomb.png|536]]
 
 Placed demolition — emplaced and armed via HEAVY MACHINERY roll. Detonates on timer or remote signal. Maximum destructive yield in a placed package. Against structures and vehicles, functions as a breaching charge regardless of character damage.
@@ -862,7 +864,7 @@ Standard military HE grenade — the baseline for zone-clearing fragmentation or
 
 **HV-4 Halothane Vapor Grenade:**
 
-![[Assets/Technology/Weapons/HV-4 Halothane Vapor Grenade.png|460]]
+![[Assets/Technology/Weapons/HV-4 Halothane Vapor Grenade.png|426]]
 
 Disperses halothane anesthetic vapor. Unsealed targets must make STAMINA each round or go unconscious. Non-lethal area denial. Use when captures are required or lethal force is restricted.
 
@@ -914,7 +916,7 @@ Directed neural arc — electromagnetic pulse tuned to disrupt unshielded neural
 
 **G-22 "Grave Disc" Gravity Grenade:**
 
-![[Assets/Technology/Weapons/G-22 Grav Disc Grenade.png|572]]
+![[Assets/Technology/Weapons/G-22 Grav Disc Grenade.png|447]]
 
 Generates a focused gravitational inward pull at the detonation point for 3 rounds — targets must resist each round or be pulled to the detonation point. Paired counterpart to the R-19 Repulsor Grenade. Use to deny movement, collapse a spread formation, or hold targets in place for follow-up. Avalon-Arienai manufacture.
 
@@ -923,7 +925,6 @@ Generates a focused gravitational inward pull at the detonation point for 3 roun
 ![[Assets/Technology/Weapons/H-8 Holographic Grenade.png|347]]
 
 Deploys holographic false combatants — 1, 2, or 3 figures persisting for 3 rounds. Enemies must make OBSERVATION each round to identify them as false. Until identified, enemies may redirect attacks and take cover at GM discretion. Vance-Idris Systems manufacture.
-
 
 **R-19 Repulsor Grenade:**
 
@@ -1032,14 +1033,20 @@ The standard military combat blade of the Sector — issued across line infantry
 ## Category 12 — Restraints & Capture Gear
 
 **Compliance Jacket:**
+
+![[Compliance Jacket.png|697]]
+
 Padded restraint jacket with integrated limb-lock straps and a pharmaceutical delivery port at the neck. Arms are pinned to the body on application. Drug administration via the port requires no additional physical control — target cannot resist the injection. Rated against augmented physiology. Standard spec ops issue for high-value extraction and prisoner transport. Civilian variants exist in psychiatric and corrections contexts.
 
 **Isolation Hood:**
+
+![[Isolation Hood.png|697]]
+
 Blinds and deafens the wearer completely. Integrated filtered air supply. Does not restrain the limbs — used in combination with cuffs or a Compliance Jacket for full immobilization. Standard spec ops issue for prisoner transport, sensory disruption, and interrogation staging.
 
 **Reinforced Speedcuffs:**
 
-![[Assets/Technology/Weapons/Rigid Speedcuffs.png|298]]
+![[Reinforced Speedcuffs.png|356]]
 
 Heavy-gauge mechanical restraint rated against augmented physiology. Bioware and cyberware do not negate the escape difficulty — the restraints are built for augmented quarry. Standard for high-value prisoner transport.
 
@@ -1051,156 +1058,11 @@ Standard mechanical restraint. No electronic components — not hackable, not af
 
 ---
 
-## Personnel Equipment
-
-*Field gear, tools, sensors, protective equipment, and consumables carried by operators across the Sector. From basic survival kit to specialist electronics, this section covers everything that isn't a weapon.*
-
----
-
-### Protective Suits & Armor
-
-**Full Face Rebreather Mask:** AV: C. Full-face respirator with integrated filter cartridges. Blocks airborne chemical and biological contaminants — gas, biotoxic clouds, atmospheric particulates. Standard emergency kit across any environment where the air quality isn't guaranteed. Filter cartridges degrade over time in contaminated conditions.
-
-**BHZ-1 Biohazard Suit:** AV: R. Sealed bodysuit for chemical and biological hazard environments. Built-in comm unit. The standard choice for hazmat response teams, medical personnel in outbreak conditions, and anyone who needs a sealed barrier without the bulk of military-grade equipment. Radiation attenuation while sealed. Seal integrity is everything — a single breach ends the protection entirely.
-
-**HZX-3 HAZMAT Suit:** AV: RM. Military-specification HAZMAT suit with reinforced outer shell. Extended air supply over the civilian BHZ-1. Issued to CBRN specialist units across all Star Nation armed forces; leaks into military surplus channels at a steady rate. Bulkier than the BHZ-1 — operators move slower in it.
-
-**CSX-4 Civilian Compression Suit:** AV: RR. Light compression suit for vacuum and hostile atmosphere operation. The workhorse of the civilian void-worker market — salvagers, frontier colonists, maintenance crews working pressurized corridors with a history of seal failures. Full environmental seal, HUD, helmet comm. Not a combat suit. The viewport restricts peripheral vision.
-
-**CSX-7 Military Compression Suit:** AV: MRR. Combat-rated compression suit for void operations. The same vacuum protection as the CSX-4 with enough ballistic hardening to survive a firefight — barely. Preferred by void infantry and boarding specialists who need to close with an enemy in a vacuum environment and stay functional afterward. Optional TacLink integration.
-
-**EVX-9 Void Hardsuit:** AV: RR. Heavy EVA hardsuit for sustained zero-G and hostile environment operations. Fully articulated joints, integrated thruster pack, HUD, comm array, and tether hard points. Built for EVA specialists and deep-environment salvagers who need to operate tether-free for extended periods. The thruster pack provides meaningful maneuvering authority in zero-G — the difference between drifting off a hull and staying on task. Significant mobility penalty in standard gravity.
-
-**TAC-H Combat Helmet:** AV: MC. Tactical helmet with integrated IR sight, helmet cam, and IFF transponder. Sold separately for operators running MCA-7 or lighter armor who need TacLink connectivity without BCL-3. The IFF transponder keeps automated sentry systems from painting the wearer as a target regardless of what armor they're wearing. Ubiquitous in contractor and mercenary loadouts.
-
-**BDU Field Uniform:** AV: C. Durable field uniform in environment-appropriate camouflage pattern. Standard issue across all Star Nation ground forces. Available in Woodland, Desert, Arctic, Void (matte black), Urban, and Jungle patterns. Widely available through surplus channels — the baseline field garment of the Sector.
-
-**BCS-3 Ballistic Combat Shield:** AV: R. Lightweight plastisteel shield for breach scenarios and close-protection operations. Readied as a deliberate action — this is a tool of controlled engagements, not reactive firefights. Effective against small arms. Heavier weapons — LMGs, slaggers, launchers — defeat it on the first hit. Standard issue for law enforcement breach teams and executive protection details.
-
----
-
-### Environmental Suits & Armor — Legacy Entries
-
-*Aegis Sealant and FieldSeal Patch have been consolidated into the [[#Armor Sealant Kit]] — see Field Gear & Tools below.*
-
----
-
-### Sensors & Electronics
-
-**Tactical Sensor Package:** AV: R. Handheld ultrasonic motion detector. The standard infantry sensor platform across the Sector — detects anything that has moved recently within a Long range sweep. Stationary targets are invisible to it. Two-handed operation means a weapon has to go somewhere else while it's in use. The compact rail-mounted variant (TSP-M) solves the action economy problem at the cost of range.
-
-**TSP-M Compact Sensor Unit:** AV: RR. Weapon-mounted compact motion sensor. Fits to any rifle-class rail. Shorter detection range than the handheld unit, but the operator keeps their weapon in hand. The standard fit for operators who want sensor coverage without sacrificing a hand.
-
-**Optical Scope:** AV: C. Magnification scope for pistols and rifles. Extends effective range when taking careful aimed shots. The simplest and cheapest force-multiplier for a rifleman. Incompatible with sustained automatic fire — the sight picture breaks under recoil.
-
-**Binoculars:** AV: C. Standard optical binoculars. The tool of choice for observation at Long range and beyond — reconnaissance teams, snipers, forward observers, anyone who needs to know what's in the distance before committing to it.
-
-**Hi-Beam Flashlight / Shoulder Lamp:** AV: C. High-output flashlight in handheld or shoulder-mount configurations. Removes the visibility problem in dark environments. Shoulder-mounted to BCL-3, MCA-7, or compression suits, it frees both hands. Basic and essential.
-
-**NBC Detection Kit:** AV: R. Nuclear, biological, and chemical detection kit. Includes Geiger counter, bioagent diagnostic, atmospheric chemical sensor, and dosimeter patches. The dosimeters tell the operator exactly how much radiation they've accumulated rather than leaving it a mystery. Passive radiation detection is automatic at close range — the counter alerts without any action from the operator. Standard kit for CBRN specialists and anyone operating in environments of unknown atmospheric composition.
-
-**Field Survey Drone:** AV: RR. Autonomous mapping drone that scouts ahead and returns environmental data. Standard recon platform for operations where blind entry is unacceptable. Syncs with TacLink and compatible tactical displays. Detection range in open terrain is extreme — it will find what's out there before the squad walks into it. Confined environments reduce its effective range.
-
-*See also: Inquisitor Drone variants (XT908/XT909) — combat and active recon drone platforms, pending full documentation.*
-
-**TAC-D Field Diagnostic Deck:** AV: R. Hardened field-grade diagnostic terminal for troubleshooting computer and mechanical systems. The engineering tool of choice for field slicers and tech specialists. Distinct from NetOps intrusion hardware — the TAC-D is for fixing things, not breaking into them. The essential piece of kit for keeping a Cortical Interface functional after combat damage.
-
-**Electronic Tools Kit:** AV: C. Compact electronics repair kit — multimeter, soldering iron, wire stripper, circuit probes. The baseline for any tech-capable operator. Handles most field repair needs short of Cortical Interface damage.
-
-**Battleboard:** AV: R. Ruggedized field data tablet — the standard terminal device for military field team coordination. Syncs with PDTs, helmet cams, and sensor platforms to give a coordinating operator a consolidated operational picture. Used by squad leaders, forward controllers, and anyone whose job is directing rather than shooting. *For full Battleboard lore and context see [[Display & Interface Technology]]*.
-
-**Personal Data Transmitter (PDT):** AV: C. Subcutaneous or wearable transponder broadcasting location and vital signs. Standard issue on most corporate field contracts — the company wants to know where its people are and whether they're still breathing. Useful for medics who prefer to have biometric data before they reach the casualty. Detectable by sensor sweeps.
-
-**TCC-4 Tactical Command Console:** AV: MRR. Fixed holographic strategic display platform. Not portable — requires a flat surface or mounting point. The situational awareness tool of command posts, ship bridges, and field operations centers. Integrates TacLink, PDTs, sensor feeds, and drone uplinks into a single real-time display. The difference between commanding a firefight and reacting to one.
-
-**IFF Beacon:** AV: R. Identification Friend-or-Foe transponder. Keeps automated sentry systems from targeting the wearer. Wearable or clipped to armor — passive and always broadcasting while powered. Standard safety equipment for anyone operating near active automated weapon systems.
-
-**Tactical Wrist Chronometer:** AV: C. Ruggedized wrist-mounted chronometer with millisecond precision and multi-party sync capability. The value proposition is what it is not: not electronic in the armor-and-implant sense, not emitting, not disrupted by SMAFF or EW, not dependent on a powered armor system's HUD. Operators running lighter gear or in stealth configurations where powered armor is a liability use these. When multiple operators need to hit a moment simultaneously, the chronometer is the coordination tool that survives anything the Sector can throw at it.
-
-**NAX-7 Neural Assessment Visor:** AV: RR. Diagnostic headset for neurological assessment of unconscious or impaired patients. Identifies active neurological conditions, maps trauma location, and confirms whether a non-responsive patient is genuinely unconscious or conscious but incapacitated — a distinction that matters considerably in a field medical context. Used by combat medics and trauma specialists. Powered; requires COMTECH skill to operate.
-
----
-
-### Field Gear & Tools
+## Weapon Accessories & Attachments
 
 **Muzzle Suppressor:** AV: R. Sound suppressor for CHEM-class firearms. Prevents a shot from automatically revealing the shooter's position. Available for pistols, SMGs, carbines, and rifles. Not compatible with LMGs, shotguns, heavy weapons, ALIM, or SLAGGER platforms — the nature of those systems makes meaningful suppression impossible. Cost varies by caliber and barrel threading.
 
-**Maintenance Jack:** AV: C. Heavy pry bar and multi-tool. Opens unpowered airlocks, diverts power at junction boxes, forces mechanical access points. Doubles as a close-quarters weapon. Standard kit on any ship or station — the utility item that solves the class of problem that electronics can't.
-
-**ME2 Hand Welder ("Cutting Torch"):** AV: C. Compact handheld welding torch for cutting and welding in the field.
-
-![[equipment_me2_hand_welder.png|346]]
-![[equipment_me2_hand_welder2.jpg|412]]
-
-Used for sealing access points, constructing barricades, and cutting through metal obstructions. The standard breach-and-seal tool for engineers and salvagers. Can seal crawlspace access points against intrusion — a sealed point requires a cutter or heavy ordnance to open again.
-
-**Plasma Cutter:** AV: R. Heavy, two-handed tool firing multiple ionized plasma bolts that combine into a cutting stream.
-
-![[equipment_plasma_cutter.png|512]]
-
-Capable of slicing through most surfaces — including reinforced bulkheads that stop a standard cutting torch. Highly unwieldy, high energy consumption. The tool of last resort for breaching hardened positions or cutting through wreckage. *(Full gear stat block pending — see Heavy Tools, deferred.)*
-
-**Mining Tool Kit:** AV: R. Heavy set of mining equipment — hammers, wrenches, drill heads, core sample containers, geological sensors. Standard kit for prospectors, colonial surveyors, and combat engineers who need to move through rock. Heavy. Specialized.
-
-**Field Pack:** AV: C. Waterproof medium-frame rucksack loaded with four days of field rations and water. Comes standard with a personal medkit. The fundamental extended-operations loadout item — doubles carry capacity without adding weight to the frame itself. What every squad member reaches for when the operation clock extends past 24 hours.
-
-**Armor Sealant Kit:** AV: R. Field repair kit for damaged or compromised armor. Contains one nano-polymer sealant canister and two thermally-activated FieldSeal patches — three applications total.
-
-*Nano-Polymer Canister:* Restores a broken environmental seal on any sealed armor regardless of damage state. Also repairs one step of AR lost to a targeted weak spot attack. Full Action to apply. One use.
-
-*FieldSeal Patch:* Fast seal for compromised environmental protection — restores a broken suit seal without restoring ballistic protection. Quick Action to apply. Two patches per kit.
-
-Without a kit, repairing a compromised suit seal requires a successful HEAVY MACHINERY roll. The Armor Sealant Kit bypasses that roll entirely. Standard carry for operators running sealed armor in environments where a breach is a mission-ending problem. A professional carries two.
-
-**Polymer Climbing Rope:** AV: C. 45-meter coil of high-polymer abrasion-resistant cable. The difference between a serious climbing operation and an improvised one. Multi-person rated. The field standard for vertical movement, extraction of casualties, and any descent where a mistake isn't an option.
-
-**Folding Winch:** AV: C. Collapsible tripod winch-and-cable device. Lowers equipment or personnel into shafts, anchors lines, handles rigging operations hands-free once deployed. Works in combination with the Polymer Climbing Rope as a recovery anchor. One of those items that sits in the kit for three operations and then makes the fourth one possible.
-
-**Entrenching Tool:** AV: C. Collapsible multi-tool — shovel on one side, digging fork on the other. Digs a fighting position in one stretch of work. A dug-in operator is an operator with cover. Also functions as a close-quarters weapon in a situation where that distinction stops mattering. Standard infantry issue across every Star Nation military.
-
-**HALO Parafoil Drop Kit:** AV: MR. Non-rigid delta parafoil that collapses to rucksack size. Designed for high-altitude stealth insertion — no engine noise, minimal radar signature, no heat bloom. The drop kit of choice for special operations and any insertion where a powered craft would announce the approach. Used by RTAC Paladins, Coalition Wardens, and Eisenjäger operators for whom a conventional drop is a compromise of the mission. Single use per drop; repackable.
-
-**Sonic Perimeter Grid:** AV: RR. Perimeter fence system using directed ultrasonics. Covers one zone radius. Deployed and packed in under a stretch of work. Standard mode deters non-sentient fauna — the hostile wildlife problem on frontier worlds is not theoretical, and an outpost that loses personnel to local predators while the actual threat hasn't arrived yet is a mission failure waiting to happen. High-intensity mode extends coverage to all targets regardless of sentience, at higher generator cost. Runs on an included portable generator.
-
-**Key Card:** AV: C. Standard electronic access card. The simplest and most common access control device in the Sector. Cloning or spoofing one is a COMTECH problem with the right equipment. Losing one is a security event — deauthorized remotely the moment an administrator notices.
-
----
-
-### Clothing & Apparel
-
-**Pilot G-Suit:** AV: R. Full-body pressure suit worn by pilots and vehicle crew to counteract g-force during high-acceleration maneuvers — specifically when gravity dampeners are unavailable or overwhelmed. Standard issue for MOS 10 pilots and all starfighter crew. Not compatible with heavy armor.
-
-**Cold Weather Gear:** AV: C. Insulated field jacket rated for extreme cold environments. Packable. The item that separates a mission on an ice world from a medical evacuation.
-
-**Expedition Fatigues:** AV: C. Thermal-regulating undersuit for extended fieldwork in variable climates. Worn under armor — compatible with all standard armor types. The baseline protection against the attrition of operating in environments the body wasn't designed for.
-
-**Camouflage Suit:** AV: R. Environment-specific camouflage suit for precision concealment. The choice of snipers, forward observers, and recon specialists who need to stay in one place for a long time without being found. No electronic components — immune to sensor sweeps, immune to jamming. Must be calibrated to the specific environment; the wrong pattern is no better than standard fatigues. Incompatible with BCL-3 and above from bulk.
-
-**Aquatic Gear Set:** AV: C. Propulsion fins and inflatable flotation vest. The fin set accelerates underwater movement significantly; the life vest handles the survival problem if the mission goes into water unexpectedly. Sold as a set. Standard kit for maritime operations and any deployment near significant bodies of water.
-
-**Specialty Footwear:** AV: C. Specialist footwear for specific operating environments. Three variants: Standard Field Boots with magnetic-sole option for zero-G deck operations; Jungle/Wetland Boots with waterproof construction; Thermal Boots with extreme-cold insulation. The right footwear stops being a comfort consideration and starts being an operational one the moment the terrain turns against the mission.
-
-**Ultra Diffusive Environmental Poncho:** AV: R. Treated camouflage rain cover with infrared-absorbing coating. The practical concealment choice for operators who need something that works on the move and over any armor — including BCL-3 and ACPA, where nothing else fits. Less effective for dedicated concealment than the Camouflage Suit, but it doesn't require recalibration, doesn't restrict armor choice, and works whether the operator is stationary or moving. The camo cape of the Sector's infantry — general-purpose, versatile, and always in the kit.
-
----
-
-### Field Consumables
-
-*Field rations, water, stimulants, and comfort items. The logistical foundation of any operation longer than a few hours.*
-
-**Field Rations:** AV: C. Pre-packaged flash-frozen or dehydrated meals. Satisfies one day's food requirement. On most company ships and military installations, issued free as part of operating costs. The flavor is institutional. The calories are real.
-
-**Field Water:** AV: C. Potable water in standard sealed containers. Cost varies dramatically by source — shipboard recycled water is effectively free; premium purified water on the frontier commands a premium that tells you something about how rare clean water is out there.
-
-**Protein Drink ("Bug Juice"):** AV: C. High-calorie protein drink derived from cultivated insect protein and synthetic nutrients. Satisfies both food and water requirements in a single container. The practical choice for minimizing encumbrance on long operations. Tastes exactly as bad as the name implies. A staple of salvage crews, frontier workers, and anyone who has stopped pretending field conditions are anything other than what they are.
-
-**Quality Meal:** AV: C. Genuine prepared food — colonial-grown produce, locally sourced protein, or imported ingredients. The psychological value of an actual meal on a long operation is not trivial. Stress recovery is part of operational readiness. Cost ranges from basic colonial cooking to imported luxury depending on source and location.
-
-**Coffee:** AV: C. Available free aboard most commercial and military vessels. Consumed in quantities that suggest the Sector runs on it. The functional effects on sleep management are real; the ritual is older than the Sector itself.
-
-**Alcohol:** AV: C. Beer through hard liquor. The universal social lubricant of the Sector. Available everywhere humans have gone and most places they haven't. The same drug that relaxes a squad after a close operation and gets someone killed if they're still on it when the next one starts.
-
-**Candy Bar / Snack:** AV: C. Luxury consumable — rare on the frontier. A candy bar or a cold carbonated beverage is the kind of small thing that matters disproportionately when everything else about the operation is hard. The psychological weight of comfort items in austere environments is well-documented. They're worth carrying.
+**Optical Scope:** AV: C. Magnification scope for pistols and rifles. Extends effective range when taking careful aimed shots. The simplest and cheapest force-multiplier for a rifleman. Incompatible with sustained automatic fire — the sight picture breaks under recoil.
 
 ---
 
@@ -1253,9 +1115,13 @@ Magnetic anti-vehicle mine. Latches onto any ferrous surface — vehicle hulls, 
 ---
 
 ## Related Pages
+
+- [[Armor & Apparel]]
+- [[Equipment]]
+- [[Cyberware & Implants]]
+- [[Availability Codes]]
 - [[Vehicles, Bots & Mechs]]
 - [[Spacecraft & Naval Doctrine]]
-- [[Cyberware & Implants]]
 - [[NeuroSyn & Cybernetics]]
 - [[RTAC (Paladins)]]
 - [[Centurion Contracted Corps (CenCon)]]
