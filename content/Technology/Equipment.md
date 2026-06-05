@@ -57,7 +57,7 @@ tags:
 ![[equipment_me2_hand_welder.png|346]]
 ![[equipment_me2_hand_welder2.jpg|358]]
 
-Used for sealing access points, constructing barricades, and cutting through metal obstructions. The standard breach-and-seal tool for engineers and salvagers. Can seal crawlspace access points against intrusion — a sealed point requires a cutter or heavy ordnance to open again.
+Used for sealing access points, constructing barricades, and cutting through metal obstructions. The standard breach-and-seal tool for engineers and salvagers. Can seal crawlspace access points against intrusion — a sealed point requires a Cutting Torch, Plasma Cutter, or heavy ordnance to open again. Runs on a fuel supply; at empty, non-functional until recharged.
 
 **Plasma Cutter:**
 
