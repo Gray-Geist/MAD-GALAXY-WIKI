@@ -65,6 +65,20 @@ Used for sealing access points, constructing barricades, and cutting through met
 
 AV: R. Heavy two-handed cutting tool firing ionized plasma bolts that combine into a sustained cutting stream. Capable of slicing through reinforced bulkheads, sealed crawlspaces, and hardened access points that a standard cutting torch cannot touch. The tool of last resort for breaching hardened positions or cutting through wreckage — slow, loud, and power-hungry, but nothing stops it. Unwieldy enough that using one in a firefight is a statement of desperation or confidence, occasionally both.
 
+**KNOCK-4 "Doorkicker":** 
+
+![[KNOCK-4.png]]
+
+AV: R. *Kinetic Neutralizing Obstruction-Clearance Canister* (K.N.O.C.K.), Model 4 — a two-handed rail-driven breaching tool that fires a depleted-uranium penetrator directly into a door mechanism at contact range. No explosive charge. No blast radius. No fragmentation. The penetrator destroys the lock, hinge assembly, or sealing mechanism and the door opens — or it doesn't, and the KNOCK-4 is spent for nothing.
+
+Standard residential and commercial doors go down without a roll. Reinforced bulkheads and hardened military portals require an OBSERVATION roll to find the mechanism before firing — the penetrator defeats the lock, not the door itself; if the operator misreads the entry point, the canister is wasted and the door holds. Blast doors rated above standard military spec impose a further penalty at GM discretion.
+
+The rail discharge is extremely loud. Everyone in the zone and the adjacent zones hears it. Stealth operations end the moment the KNOCK-4 fires. It is a door-opening tool, not a weapon — it cannot be turned against personnel or vehicles. Single use; the canister is inert after firing.
+
+The K4 Breaching Charge is louder, more destructive, and less precise. The KNOCK-4 is quieter in everything except the firing itself, leaves no secondary damage, and costs a third as much. Breachers who need the door open and the room behind it intact reach for the Doorkicker. Breachers who need both carry both.
+
+![[Assets/Technology/Equipment/KNOCK-4 Doorkicker.png|512]]
+
 **Mining Tool Kit:** AV: R. Heavy set of mining equipment — hammers, wrenches, drill heads, core sample containers, geological sensors. Standard kit for prospectors, colonial surveyors, and combat engineers who need to move through rock. Heavy. Specialized.
 
 **Field Pack:** AV: C. Waterproof medium-frame rucksack loaded with four days of field rations and water. Comes standard with a personal medkit. The fundamental extended-operations loadout item — doubles carry capacity without adding weight to the frame itself. What every squad member reaches for when the operation clock extends past 24 hours.
