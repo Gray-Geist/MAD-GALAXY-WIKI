@@ -67,7 +67,7 @@ AV: R. Heavy two-handed cutting tool firing ionized plasma bolts that combine in
 
 **KNOCK-4 "Doorkicker":** 
 
-![[KNOCK-4.png]]
+![[KNOCK-4.png|697]]
 
 AV: R. *Kinetic Neutralizing Obstruction-Clearance Canister* (K.N.O.C.K.), Model 4 — a two-handed rail-driven breaching tool that fires a depleted-uranium penetrator directly into a door mechanism at contact range. No explosive charge. No blast radius. No fragmentation. The penetrator destroys the lock, hinge assembly, or sealing mechanism and the door opens — or it doesn't, and the KNOCK-4 is spent for nothing.
 

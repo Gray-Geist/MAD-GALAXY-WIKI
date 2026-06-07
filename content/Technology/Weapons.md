@@ -102,7 +102,7 @@ After the Savage Wars' refinements, the majority of chemical arms across the Sec
 
 **Inquisitor Drone Kit:**
 
-![[Assets/Technology/Drones/drone_Inquisitor.png|217]]
+![[Assets/Technology/Drones/drone_Inquisitor.png|697]]
 
 A swarm of micro-drones, each no larger than a horse fly, operating via combined nano data strings to deliver simultaneous digital mapping, audio feed, and video feed. Pure recon — the Inquisitor Drone Kit provides no weapons capability. Highly effective against technologically unsuspecting or inferior opponents; well-oriented security measures can mitigate usefulness significantly. Without countermeasures, the absolute choice for recon operatives operating indoors, where the swarm excels and environmental conditions pose no hazard due to unit size. Outdoors it is effective at Short to Medium range but can be affected by adverse environmental conditions. Highly expensive; military and paramilitary supply chains only.
 
@@ -113,6 +113,8 @@ A swarm of micro-drones, each no larger than a horse fly, operating via combined
 Fixed-wing tactical strike UAV. Data-link controlled beyond line of sight. Multi-spectral O-Targeting System with variable aperture infrared cameras and gamma ray, biological, and chemical detection. Built-in radar evasion. Armed with tactical micro-missiles or 50-lb laser-guided surgical bomb units — loadout selected at deployment. Weapons limit range and maneuverability. Operates autonomously or under operator direction via TCC-4 or Battleboard.
 
 **XT909 "Wraith":**
+
+![[drone_xt909.png]]
 
 Improved-specification variant of the XT908 platform. 45 continuous hours of operation, 4,256-mile (6,849 km) range, operational altitude 55,000+ ft (16,764 m). Crewed by a pilot and two sensor operators at a ground station; command latency approximately 0.5 seconds at maximum range. Enhanced sensor suite detects stationary targets — unlike standard motion-tracking systems. The platform of choice when the mission envelope demands long loiter, deep reach, and no radar signature.
 
