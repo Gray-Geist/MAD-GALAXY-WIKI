@@ -108,7 +108,7 @@ A swarm of micro-drones, each no larger than a horse fly, operating via combined
 
 **XT908 "Kestrel":**
 
-![[drone_xt908.png]]
+![[drone_xt908.png|560]]
 
 Fixed-wing tactical strike UAV. Data-link controlled beyond line of sight. Multi-spectral O-Targeting System with variable aperture infrared cameras and gamma ray, biological, and chemical detection. Built-in radar evasion. Armed with tactical micro-missiles or 50-lb laser-guided surgical bomb units — loadout selected at deployment. Weapons limit range and maneuverability. Operates autonomously or under operator direction via TCC-4 or Battleboard.
 
