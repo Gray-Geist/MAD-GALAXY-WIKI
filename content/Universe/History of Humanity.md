@@ -49,7 +49,7 @@ The Savage Wars lasted nearly **ninety years** (1320–1410 AE) before the Astra
 
 **Unity Day** was established in 1411 AE to mark the end of the war. For a brief moment, humanity exhaled.
 
-From the wreckage of the war, billions of Sot Prime refugees were resettled on the hostile world of **Helgoth** — and from that suffering, the Helgost people were forged. From within their ranks rose a voice that would reshape the Sector:
+From the wreckage of the war, hundreds of millions of Sot Prime refugees were resettled on the hostile world of **Helgoth** — and from that suffering, the Helgost people were forged. From within their ranks rose a voice that would reshape the Sector:
 
 > *"When we came to Helgoth we were lost, a broken collection of exiles on the verge of death. At first we thought our new world would poison and destroy us. How wrong we were. Helgoth saw what was in every one of us, our strength and our indestructible spirit, and made it manifest. The great change was the rebirth of our people. A people fit to stride the stars and shatter our enemies."* — The Autarch
 

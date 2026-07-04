@@ -43,13 +43,13 @@ Over the next year the Savages infiltrated various population centers, inserting
 
 ## The Disaster at Sot Prime
 
-Thrust into war, the Coalition planned its revenge, leading to the formation of a Coalition-led bloc called the **Combined Forces** — including nearby star nations who had scrambled to the Coalition's aid. For two months the Combined Forces swept aside Savage forces who seemed to melt away in flight. Victory was at hand.
+Thrust into war, the Coalition — then a superpower of some **thirty billion souls**, more than a quarter of all humanity — planned its revenge, leading to the formation of a Coalition-led bloc called the **Combined Forces** — including nearby star nations who had scrambled to the Coalition's aid. For two months the Combined Forces swept aside Savage forces who seemed to melt away in flight. Victory was at hand.
 
 62 days after Sot Prime went dark, the Combined Forces launched an all-out assault to retake it. Meticulously made plans to crush the Savages, who had up to this point never stood to fight, fell to ruin in a matter of moments. The Savages did not fall back into the gloom of space, but instead vented their hate through occult technology and **crushed the Combined Forces** — smashing their fleet and stranding the entire army on the surface.
 
 Up until this point, the Savages had played a game of cat and mouse; their Lighthuggers dwarfed the human starships but were not designed for combat when they fled Old Earth. At Sot Prime, the Savages had jury-rigged their hulks with occult technology. **The Savages were there to stay.**
 
-Faced with annihilation, the Coalition kowtowed to the Savages and signed the **Alatian Accords** — a non-aggression ultimatum that allowed the Coalition to fall back to other sectors of space in return for their forced unwavering neutrality. Part of the deal: Alatyr would now be Savage territory. Billions escaped. Billions more were left behind. The Combined Forces political entity ceased to exist and reformed — without the Coalition — into the **Astral Alliance**.
+Faced with annihilation, the Coalition kowtowed to the Savages and signed the **Alatian Accords** — a non-aggression ultimatum that allowed the Coalition to fall back to other sectors of space in return for their forced unwavering neutrality. Part of the deal: Alatyr would now be Savage territory. Eight hundred million escaped — the largest migration in human history. More than a billion were left behind. The Combined Forces political entity ceased to exist and reformed — without the Coalition — into the **Astral Alliance**.
 
 The Savages then turned their eyes toward the other human territories.
 
@@ -69,17 +69,17 @@ The Astral Alliance reached Alatyr and fought the Savage Armada head-on in a pro
 
 > *"There was no humanity left on that planet, just the illusion of it. If liberated, no human slave there would have made it off that planet alive. This is the Savage way, and the only way to fight it is to meet death with death."* — Tyrus Martell
 
-The Alliance authorized an event known as **The Requite Dilemma ("Req-D")**. Martell unleashed a **Chained Nuclear Trigger Ordinance (CNTO)** — a classified Total Biome Kill weapon — on Sot Prime. It glassed the entire planet, leaving billions dead and a perpetually poisoned environment. No terraforming is possible afterward.
+The Alliance authorized an event known as **The Requite Dilemma ("Req-D")**. Martell unleashed a **Chained Nuclear Trigger Ordinance (CNTO)** — a classified Total Biome Kill weapon — on Sot Prime. It glassed the entire planet, killing every soul still on the surface — human and Savage alike — and leaving a perpetually poisoned environment. No terraforming is possible afterward.
 
 Top secret records show that before the CNTO, a special forces element had attempted a humanitarian rescue — and failed.
 
-The Coalition population, who had initially rejoiced at the Astral Alliance's presence, was devastated at the cost. The billions who had been under the Savage yoke, lost that day. It was the most controversial single act of the entire war, and it ended the stalemate.
+The Coalition population, who had initially rejoiced at the Astral Alliance's presence, was devastated at the cost. The millions still surviving under the Savage yoke were lost that day. It was the most controversial single act of the entire war, and it ended the stalemate.
 
 ---
 
 ## The Long War
 
-The Savage Wars raged for nearly **ninety years** — from the fall of Sot Prime in **1320 AE** to the **Battle of the Grave in 1410 AE**. At the cost of possibly much of their own humanity, the Astral Alliance was ultimately victorious.
+The Savage Wars raged for nearly **ninety years** — from the outbreak of war in **1320 AE** to the **Battle of the Grave in 1410 AE**. Sot Prime itself fell in **1324 AE**. At the cost of possibly much of their own humanity, the Astral Alliance was ultimately victorious.
 
 ---
 
@@ -99,7 +99,7 @@ The Coalition — who at first welcomed the Republic as liberators — were labe
 
 Sot Prime represents a military turning point during the beginning of the Savage Wars in which, for the first time, the Savage Marines did not just raid but stood their ground on a planet and defeated the Combined Forces fleet and army, sending shockwaves of fear through mankind that led to the Alatian Accords.
 
-Billions of refugees fled Sot Prime. At the time, the Coalition was starving for resources, much of which could be found under a newly surveyed planet — aptly named **Helgoth** by the colonists, its nature reflective of a terrifying underworld of torture and death. The **Neus Kapitel Group (NKG)** took up the reins of this much-needed operation and siphoned the refugees to Helgoth, who became colonists.
+Hundreds of millions of refugees fled Sot Prime. At the time, the Coalition was starving for resources, much of which could be found under a newly surveyed planet — aptly named **Helgoth** by the colonists, its nature reflective of a terrifying underworld of torture and death. The **Neus Kapitel Group (NKG)** took up the reins of this much-needed operation and siphoned the refugees to Helgoth, who became colonists.
 
 On Helgoth, the refugees — now colonists — suffered decades of death and hardship due to the planet's hostile environment. Illnesses, starvation, and mass deaths were commonplace. Most of these first-generation colonists died only shortly after their arrival, with many, many more to follow.
 

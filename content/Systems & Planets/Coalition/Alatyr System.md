@@ -83,8 +83,8 @@ A special forces element had attempted a humanitarian rescue before the CNTO. It
 ![[alatyr_sot_prime_today.png]]
 ![[alatyr_mons_principa.png]]
 
-**Population:** 0 (formerly **10 billion**)  
-**Former Capital:** Mons Principa  
+**Population:** 0 (formerly **2 billion**)  
+**Former Capital:** Mons Principa *(metro population ~50 million at its height — the largest city in known space of its era)*  
 **Status:** Irradiated wasteland
 
 Once the wealthiest planet in the known galaxy and the Coalition's cultural and financial heart. Now a radioactive hellscape poisoned by ionized radioactive isotopes from the CNTO. No group has successfully returned — though certain corporations remain obsessed with trying to access its buried riches.

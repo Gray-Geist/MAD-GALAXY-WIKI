@@ -9,11 +9,11 @@ tags: [meta, session-handoff]
 
 ## Campaign Identity
 
-**Game:** Ironsworn: Starforged mechanics in the MAD GALAXY universe  
+**Game:** Alien RPG Evolved Edition (ARPG EE) mechanics in the MAD GALAXY universe — run in Foundry VTT (world: mad-galaxy-2)  
 **Players:** 2–3  
 **GM:** Gray  
 **Tone:** R-rated military sci-fi — unflinching violence, body horror, moral ambiguity, Cold War political tension, corporate malfeasance. No plot armor. Consequence-driven fiction.  
-**Vows are called:** Missions  
+**System reference:** private/ARPG-Reference/MG-ARPG-MASTER.md (v9.18.0+) and PROJECT_REFERENCE.md  
 **Full campaign philosophy:** see `private/GM Notes/Campaign Handout.md`
 
 ---
@@ -86,7 +86,7 @@ Read entire Codex (.txt, 517KB) against all vault files. All pages confirmed fai
 
 | World | Population | World | Population |
 |---|---|---|---|
-| Alexandria (station) | 10 million | Sot Prime | 0 (formerly 10B) |
+| Alexandria (station) | 10 million | Sot Prime | 0 (formerly 2B) |
 | Aquila | 10 billion | Silo Station | 0 (formerly 100,000) |
 | Aetna | 50 million | Solus | 50,000 |
 | Sabine | 5 million | Denfert | 200,000 |
@@ -144,13 +144,13 @@ Read entire Codex (.txt, 517KB) against all vault files. All pages confirmed fai
 - **Mr. Kagawa** is a secret Autarch ally (GM only)
 - **Netjer** is a real AI entity — Ul'Rekar secretly hold it prisoner on Ul'Haupt (GM only — see `private/GM Notes/The Ul'Rekar Secret.md`)
 - **History of Humanity** is a living document — update as the universe evolves through play
-- **The Savage Wars** lasted ~90 years (1320–1410 AE); Silo Station destroyed in The Hounding (100,000 dead); Sot Prime formerly 10B
+- **The Savage Wars** lasted ~90 years (1320–1410 AE, Fall of Sot Prime 1324 AE); Silo Station destroyed in The Hounding (100,000 dead); Sot Prime formerly 2B (Mons Principa metro ~50M); Sector at 1324 ≈ 110B, Coalition at height ≈ 30B
 
 ---
 
 ## GM Reference Documents (private/GM Notes/)
 
-- **Campaign Handout.md** — Table tone, R-rated expectations, Hardcore Energy doctrine, The Concise Way backstory philosophy, Starforged mechanics note (Vows = Missions), inspirations list
+- **Campaign Handout.md** — Table tone, R-rated expectations, Hardcore Energy doctrine, The Concise Way backstory philosophy, inspirations list
 - **The Ul'Rekar Secret.md** — Full GM-only Netjer/Ul'Haupt lore
 - **Culminating Galactic Event.md** — Autarch's real name, Pieters assassination, Mr. Kagawa
 - **Squad Log.md** — Full 43-session archive

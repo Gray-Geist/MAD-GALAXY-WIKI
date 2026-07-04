@@ -18,7 +18,7 @@ tags:
 
 The **Antevic Sector** is a region of the **Perseus Arm** of the Milky Way galaxy — humanity's home in the stars, hard-won from a dying Earth and soaked in the blood of the Savage Wars.
 
-As of current combined census records, approximately **two hundred billion people** inhabit the Antevic Sector across roughly **2,000 physically discovered star systems** — though advanced observation technology has logged approximately **1,000,000 systems** in known space.
+As of current combined census records, approximately **two hundred billion people** inhabit the Antevic Sector across roughly **2,000 physically discovered star systems** — though advanced observation technology has logged approximately **1,000,000 systems** in known space. On the eve of the Fall of Sot Prime (1324 AE), the Sector's population stood at roughly **110 billion**; despite ninety years of the Savage Wars and two major conflicts since, humanity has nearly doubled in the century that followed.
 
 The Milky Way galaxy has a diameter of approximately **105,700 light-years**, containing roughly **100 billion stars** and **800 million habitable star systems**. What humanity calls "Known Space" represents about one-thousandth of one percent of this — and of that, only two-thousandths has been physically visited.
 

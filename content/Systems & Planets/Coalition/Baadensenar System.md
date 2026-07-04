@@ -16,7 +16,7 @@ tags:
 
 ## Overview
 
-One of the Coalition's newer developed systems, Baadensenar was a desperate gamble by the Coalition government and [[Neus Kapitel Group (NKG)]] to find valuable resources that could restart the economy after the Requite Dilemma. Billions of refugees were siphoned from Sot Prime to a planet previously deemed uninhabitable — a world of hazardous dust storms, lightning, and brutal conditions. They named it **Helgoth**, after a terrifying underworld of torture and death.
+One of the Coalition's newer developed systems, Baadensenar was a desperate gamble by the Coalition government and [[Neus Kapitel Group (NKG)]] to find valuable resources that could restart the economy after the Requite Dilemma. Hundreds of millions of refugees were siphoned from Sot Prime to a planet previously deemed uninhabitable — a world of hazardous dust storms, lightning, and brutal conditions. They named it **Helgoth**, after a terrifying underworld of torture and death.
 
 The gamble paid off — not as planned, but in a way no one anticipated.
 
