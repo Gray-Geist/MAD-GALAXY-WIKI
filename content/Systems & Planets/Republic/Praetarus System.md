@@ -71,13 +71,13 @@ Although [[Alexandria]] is the official capital of the Republic, **Aquila** is c
 **High Governor:** Caius Imperati  
 **Industry:** Export of raw and manufactured materials; financial services; private enterprise
 
-An **ecumenopolis** — a city-planet. The majority of habitable land is entirely devoted to housing ten billion people. The Savage Wars damaged most of Aquila's interconnected megacities; during reconstruction, the Republic urbanized at an even deeper level to incentivize rapid population rebound and project strength.
+An **ecumenopolis** — a city-planet. The majority of habitable land is entirely devoted to housing ten billion people. The Savage Wars damaged most of Aquila's interconnected metroplexes; during reconstruction, the Republic urbanized at an even deeper level to incentivize rapid population rebound and project strength.
 
 Today, Aquila is an **economic hypercenter** for the Republic and arguably the most diverse human planet. People from all corners of the Sector travel here for its boundless financial opportunities and technological innovations, including planetary cooling mechanisms that mitigate the warming effects of rapid industrialism.
 
 Aquila is the headquarters of **[[Atheon Heavy Industries]]** — the Sector's largest and most successful corporation focused on AI, robotics, cybernetics, and non-human engineering. The Republic gives Atheon virtual carte blanche; controlling and monitoring Aquila's vast population is effectively impossible without Atheon's technical support. It is more likely that a citizen is fined or arrested by a **weaponized bot** than by an actual human.
 
-**Fibona (Sub District 2257):** A thriving megacity district where an unusually high percentage of inhabitants have an affinity for numbers. Many of the Sector's well-known mathematicians and numerologists come from here. Most children from Fibona grow up on a path that yields near-guaranteed wealth and success through mathematical careers in pharmaceuticals, communications, defense, or education. However, in recent decades approximately **1.8% of teens** born in Fibona have begun using their innate skills for immediate illicit gain, a percentage trending upward.
+**Fibona (Sub District 2257):** A thriving metroplex district where an unusually high percentage of inhabitants have an affinity for numbers. Many of the Sector's well-known mathematicians and numerologists come from here. Most children from Fibona grow up on a path that yields near-guaranteed wealth and success through mathematical careers in pharmaceuticals, communications, defense, or education. However, in recent decades approximately **1.8% of teens** born in Fibona have begun using their innate skills for immediate illicit gain, a percentage trending upward.
 
 ### Environment
 - **Weather:** Controlled climate zones across the planet; massive Cloudscapers create localized microclimates including sudden temperature drops, rain showers, and gusty winds; perpetual hazy cloud cover from industrial emissions visible from space; dramatic smog-enhanced sunrises and sunsets

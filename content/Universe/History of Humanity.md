@@ -91,8 +91,8 @@ Ultimately, the Secession Wars left enduring scars on the Republic and the Conti
 | **239 AE** | Humanity spreads too fast and slows — *the Decline* strangles technology |
 | **740 AE** | Technology halted; colonies dead; mankind on the brink; Old Earth coordinates lost |
 | **748 AE** | Womb Genesis nanotech perfected — massive population boom |
-| **937 AE** | Overpopulation; masses cling to megacity societies — *the Squeeze* begins |
-| **1000 AE** | Super-megacity construction — *the Roaring Construction* |
+| **937 AE** | Overpopulation; masses cling to metroplex societies — *the Squeeze* begins |
+| **1000 AE** | Super-metroplex construction — *the Roaring Construction* |
 | **1215 AE** | Populations finally venture out — *the Colonization* |
 | **1317 AE** | First Contact — entire planets go silent; the Savages are real |
 | **1320 AE** | Combined Forces created; **Savage Wars begin** |

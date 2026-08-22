@@ -9,7 +9,7 @@ tags:
 
 > *"Nearly a century later the Savage Wars ended, the horrors of which would eternally scar the Sector."*
 
-![[savage_wars_art.jpg]]
+![[savage_wars_sot_prime1.png]]
 
 ---
 
@@ -17,7 +17,7 @@ tags:
 
 Twisted and ruthless. No longer truly human and no longer wishing to be seen as such. The Savages and their dynasties, following their desires and beliefs to the end, had convinced themselves that they were something new and better — that they had shed all that stained mankind. Such thoughts gave way to a dogmatic belief that what had corrupted mankind was incurable, impure, and conversely that they, the Savages, were not impure.
 
-The Savages were not known as colonizers, but instead as advanced occult technological abhumans that stuck to their large **"Lighthuggers"** — megacity-sized juggernaut ships not equipped with Chained Eidolon Reaction Drives and thus incapable of FTL speeds.
+The Savages were not known as colonizers, but instead as advanced occult technological abhumans that stuck to their large **"Lighthuggers"** — metroplex-sized juggernaut ships not equipped with Chained Eidolon Reaction Drives and thus incapable of FTL speeds.
 
 The Savages came from the empty space between worlds. FTL-capable ships don't go out there because there is nothing out there. The void was safe for the Savages, with nothing but cold and black darkness that swallows everything and gives nothing back — thus the Savages needed resources, materials, people, and flesh. They became raiders. But soon discovered they could be more.
 

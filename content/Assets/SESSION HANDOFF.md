@@ -123,8 +123,8 @@ Read entire Codex (.txt, 517KB) against all vault files. All pages confirmed fai
 | **239 AE** | Humanity spreads too fast and slows — *the Decline* |
 | **740 AE** | Technology halted; colonies dead; Old Earth coordinates lost |
 | **748 AE** | Womb Genesis nanotech perfected — massive population boom |
-| **937 AE** | Overpopulation; masses cling to megacities — *the Squeeze* |
-| **1000 AE** | Super-megacity construction — *the Roaring Construction* |
+| **937 AE** | Overpopulation; masses cling to metroplexes — *the Squeeze* |
+| **1000 AE** | Super-metroplex construction — *the Roaring Construction* |
 | **1215 AE** | Populations venture out — *the Colonization* |
 | **1317 AE** | First Contact — entire planets go silent |
 | **1320 AE** | Combined Forces created — **Savage Wars begin** |
@@ -144,7 +144,7 @@ Read entire Codex (.txt, 517KB) against all vault files. All pages confirmed fai
 - **Mr. Kagawa** is a secret Autarch ally (GM only)
 - **Netjer** is a real AI entity — Ul'Rekar secretly hold it prisoner on Ul'Haupt (GM only — see `private/GM Notes/The Ul'Rekar Secret.md`)
 - **History of Humanity** is a living document — update as the universe evolves through play
-- **The Savage Wars** lasted ~90 years (1320–1410 AE, Fall of Sot Prime 1324 AE); Silo Station destroyed in The Hounding (100,000 dead); Sot Prime formerly 2B (Mons Principa metro ~50M); Sector at 1324 ≈ 110B, Coalition at height ≈ 30B
+- **The Savage Wars** lasted ~90 years (1320–1410 AE, Fall of Sot Prime 1324 AE); Silo Station destroyed in The Hounding (100,000 dead); Sot Prime formerly 2B (Mons Principa metro ~100M); Sector at 1324 ≈ 110B, Coalition at height ≈ 30B
 
 ---
 

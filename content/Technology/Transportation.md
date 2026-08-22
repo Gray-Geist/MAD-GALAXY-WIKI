@@ -46,11 +46,11 @@ Despite futuristic upgrades, the basic design endures: a box on wheels. Auto man
 
 ## Mass Transit VI (LIMPTVI)
 
-In supermegacities where traffic volume exceeds any human or standard VI capacity to manage, municipalities deploy **LIMPTVI** — Low-Intelligence Mass Public Transport Virtual Intelligence. These are city-scale VI systems purpose-built to manage automated transport fleets: sled cabbies, grav-trains, shuttle loops, and orbital connectors.
+In super-metroplexes where traffic volume exceeds any human or standard VI capacity to manage, municipalities deploy **LIMPTVI** — Low-Intelligence Mass Public Transport Virtual Intelligence. These are city-scale VI systems purpose-built to manage automated transport fleets: sled cabbies, grav-trains, shuttle loops, and orbital connectors.
 
 LIMPTVI operates within strict parameters — routing, scheduling, collision avoidance, and load balancing — without the need for higher cognitive function. Their intelligence is deliberately kept low: a LIMPTVI does not reason, plan, or deviate. It optimizes. All sled cabbies, grav-trains, and automated transit vehicles within its network are subordinate nodes, feeding and receiving data in real time.
 
-Cities like **Nagrindr on Helgoth** — vast, overcast megacities with constant traffic across hundreds of districts — rely entirely on LIMPTVI to keep arterial transit flowing.
+Cities like **Nagrindr on Helgoth** — vast, overcast metroplexes with constant traffic across hundreds of districts — rely entirely on LIMPTVI to keep arterial transit flowing.
 
 ---
 

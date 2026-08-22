@@ -17,7 +17,7 @@ tags:
 
 ## Overview
 
-In its former glory, the **Alatyr System** was the keystone of the Coalition — a paragon of economic excellence, progressive intellectualism, and cultural richness. **Sot Prime**, resource-rich and temperate, was the Coalition's first megacity and the financial and cultural center of the known galaxy. The **Epsilon-739-D / Silo Station** was the largest human space station ever built.
+In its former glory, the **Alatyr System** was the keystone of the Coalition — a paragon of economic excellence, progressive intellectualism, and cultural richness. **Sot Prime**, resource-rich and temperate, was the Coalition's first metroplex and the financial and cultural center of the known galaxy. The **Epsilon-739-D / Silo Station** was the largest human space station ever built.
 
 Today, Alatyr is a husk. Sot Prime is an irradiated wasteland. Silo Station is a floating ruin. Two small and declining settlements struggle on moons of a ringed gas giant.
 
@@ -84,7 +84,7 @@ A special forces element had attempted a humanitarian rescue before the CNTO. It
 ![[alatyr_mons_principa.png]]
 
 **Population:** 0 (formerly **2 billion**)  
-**Former Capital:** Mons Principa *(metro population ~50 million at its height — the largest city in known space of its era)*  
+**Former Capital:** [[Mons Principa]] *(metro population ~100 million at its height — the largest city in known space of its era)*  
 **Status:** Irradiated wasteland
 
 Once the wealthiest planet in the known galaxy and the Coalition's cultural and financial heart. Now a radioactive hellscape poisoned by ionized radioactive isotopes from the CNTO. No group has successfully returned — though certain corporations remain obsessed with trying to access its buried riches.

@@ -122,7 +122,7 @@ Home of the Autarch. Depending on who you ask, Helgoth is either the Coalition's
 ### Environment
 - **Weather:** Brutal radiation storms with high winds that can strip flesh from bone; radiation sickness risk; unpredictable; dry atmosphere filled with fine abrasive dust
 - **Flora:** Radiant Cacti (absorb radiation, bioluminescent deterrent, deep roots); Graveyard Vines (rapid growth, absorbs nutrients from soil and air); Stone Flowers (tough stone-like petals, rare bloom, dormant spores)
-- **Fauna:** Rad-Scorpions (large, tough exoskeleton, burrow to escape storms); Sand Vipers (venomous, heat-sensing, camouflaged); Dust Rats (radiation-adapted, nocturnal, ubiquitous in ruins and megacities); Storm Hawks (large predatory birds, ride storm winds, nests on inaccessible peaks)
+- **Fauna:** Rad-Scorpions (large, tough exoskeleton, burrow to escape storms); Sand Vipers (venomous, heat-sensing, camouflaged); Dust Rats (radiation-adapted, nocturnal, ubiquitous in ruins and metroplexes); Storm Hawks (large predatory birds, ride storm winds, nests on inaccessible peaks)
 
 ---
 

@@ -95,7 +95,7 @@ Despite historical neutrality, the Ul'Rekar would love to **seduce the Merovinis
 
 ### Environment
 - **Weather:** Plasma Storms (neon-colored lightning; intense electromagnetic pulses; spectacular plasma arcs); Crystalline Rains (microscopic crystal precipitation; beautiful but damaging to crops and equipment); Magnetoquakes (sudden magnetic field shifts; violent tremors; affect electronics; precede plasma storms)
-- **Flora:** Lumiferns (bioluminescent ferns providing natural light in megacity shadows); Aether Orchids (float above ground on near-invisible roots; sensitive to psychic energy; found near poly-psyker testing areas); Ferravines (metallic vines winding through city structures; absorb iron; can weaken infrastructure)
+- **Flora:** Lumiferns (bioluminescent ferns providing natural light in metroplex shadows); Aether Orchids (float above ground on near-invisible roots; sensitive to psychic energy; found near poly-psyker testing areas); Ferravines (metallic vines winding through city structures; absorb iron; can weaken infrastructure)
 - **Fauna:** Electrogriffons (feathered; generate electric charges; leave trails of sparks in flight; deadly); Crysliths (crystalline-sand burrowers; known to disrupt psychic abilities in poly-psykers); Phantom Mantas (semi-transparent air-gliding creatures; harmless; eerily beautiful); Cerebravores (insect-like creatures that feed on psychic mental emanations; significant pest in testing areas); Holo-Sprites (dragonfly-like beings that emit holographic illusions; mimic larger creatures to confuse and entertain)
 
 ---

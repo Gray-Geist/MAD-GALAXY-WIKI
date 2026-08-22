@@ -80,7 +80,7 @@ tags:
 | **Circ** | Short for circuit |
 | **Clap-cylinder** | A percussion instrument |
 | **Clint** | Vernacular for "mess with" or "lie to" ("I won't clint you…") |
-| **Cloudscraper** | A building taller than a skyscraper; can reach into the clouds. Rarely found outside of supermegacities |
+| **Cloudscraper** | A building taller than a skyscraper; can reach into the clouds. Rarely found outside of super-metroplexes |
 | **Coz** | "Comfortable"; also sexual innuendo for "sleep with" |
 | **Creds** | Short for credits (currency) |
 | **Crystal** | Short for "crystal clear" — understood |
@@ -165,7 +165,7 @@ Feth · Kark · Kell / Kellhorn · Sket · Stages Blazes
 | **Edgerunner** | Someone who lives on the Galaxy's Edge; works outside the law using cyberware and cunning |
 | **Faceman** | A sub-fixer supporting a boss-fixer's network |
 | **Shoemaker** | A Fixer who specializes in creating new identities |
-| **Alley Dwellers** | Inhabitants of supermegacity underworlds — alleys, underground shanty towns, drug dens, flesh pits |
+| **Alley Dwellers** | Inhabitants of super-metroplex underworlds — alleys, underground shanty towns, drug dens, flesh pits |
 | **Proles** | The lower class, street scum *(from proletariat)* |
 | **Puppet** | A gang or gang member who hires themselves out to a corp or criminal org; a sellout |
 | **Night Market** | Off-the-grid temporary marketplace set up by Fixers with solid connections |

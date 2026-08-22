@@ -30,7 +30,7 @@ The system appears to have been used for **resources, prisoners of war, and extr
 
 ## The Savages: Background
 
-The Savages were **post-human** entities — not colonizers. They remained in the void between stars aboard massive Lighthugger ships (megacity-sized juggernaut vessels not equipped with skip-drives and thus incapable of FTL). The cold black darkness of the void between worlds was their home — safe, empty, without threat.
+The Savages were **post-human** entities — not colonizers. They remained in the void between stars aboard massive Lighthugger ships (metroplex-sized juggernaut vessels not equipped with skip-drives and thus incapable of FTL). The cold black darkness of the void between worlds was their home — safe, empty, without threat.
 
 But the void gave nothing. The Savages **needed resources, materials, people, and flesh**. So they became raiders. And eventually, they became something far worse.
 

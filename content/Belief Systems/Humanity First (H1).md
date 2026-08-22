@@ -32,7 +32,7 @@ Presently unknown. Followers refer to themselves as **cygnets**. Unconfirmed rum
 
 ## Locations
 
-H1 exists throughout the Sector but concentrates in **large urban centers and megacities**, especially those with immense industrial centers.
+H1 exists throughout the Sector but concentrates in **large urban centers and metroplexes**, especially those with immense industrial centers.
 
 Members meet in clandestine gatherings rumored to be called **"the backroom."**
 

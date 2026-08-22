@@ -72,11 +72,11 @@ IEFC Credits can generally be converted in most places in the Sector.
 
 
 
-**IE Banks** connect Sector-wide currency exchange and trade. Every officially "civilized" settlement — from the greatest megacity to the farthest colony — houses at least one.
+**IE Banks** connect Sector-wide currency exchange and trade. Every officially "civilized" settlement — from the greatest metroplex to the farthest colony — houses at least one.
 
 Each bank contains sophisticated apparatus and data vaults connected to a nearby [[Communications#The Extranet|Extranet tower]] facility.
 
-### In Megacities
+### In Metroplexes
 ![[currency_ie_bank1.png]]
 Multiple IE banks per city. These are often the most **fortified buildings** in any settlement — data loads so heavy that banks become massive fortresses with their own power plants, soaring above most skyscrapers.
 ![[currency_ie_bank3.png]]
